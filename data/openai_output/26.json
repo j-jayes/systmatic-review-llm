@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "John Pickard"
+    ],
+    "title": "Shepherding in Colonial Australia",
+    "year_of_publication": 2008,
+    "journal_or_publisher": "Rural History"
+  },
+  "relevance": {
+    "topic": "Shepherding in Colonial Australia",
+    "relevance": "The study is relevant as it examines the transition from shepherding to fencing in colonial Australia, highlighting the impact of technological change (fencing) on labor displacement (shepherds).",
+    "technologies": [
+      "Fencing"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Shepherds"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Shepherds in colonial Australia, including convicts, emancipists, free men, women, children, and non-whites.",
+    "time_period_covered": "1788 to 1936",
+    "time_period_start": 1788,
+    "time_period_end": 1936,
+    "geographical_focus": "Colonial Australia"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Fencing"
+    ],
+    "dependent_variables": {
+      "displaced": "Shepherds were displaced by the adoption of fencing technology.",
+      "unemployment_or_underemployment": "Shepherds were replaced by fences, leading to changes in employment.",
+      "duration": null,
+      "wage_changes": "Wages increased during the gold rushes but were offset by increased flock sizes."
+    },
+    "moderators": [
+      "Gold rushes",
+      "Labor shortages",
+      "Wage inflation"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Labor displacement due to technological change",
+      "Economic impact of fencing",
+      "Social conditions of shepherds"
+    ],
+    "text_fragments": [
+      "'Fences only replaced shepherds when pastoralists realised that the new technology of fences, combined with other changes, would give them higher profits.'",
+      "'The brutish reality of shepherding in colonial Australia was far from idyllic.'"
+    ],
+    "narrative_descriptions": "The study provides a detailed account of the life and work of shepherds in colonial Australia, their displacement by fencing, and the socio-economic factors involved."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Fencing"
+    ],
+    "economic_conditions": "The study covers periods of economic growth and labor shortages, particularly during the gold rushes of the 1850s.",
+    "institutional_context": "Labor policies included the Masters and Servants Act, which affected shepherds' employment conditions."
+  },
+  "outcomes": {
+    "main_findings": "Shepherds were a critical component of the early wool industry but were eventually displaced by fencing, which offered higher profits to pastoralists.",
+    "conclusions": "The transition from shepherding to fencing was driven by economic incentives and technological advancements, leading to labor displacement.",
+    "long_term_impacts": "The study discusses the long-term impact on the wool industry and the socio-economic conditions of displaced shepherds."
+  }
+}

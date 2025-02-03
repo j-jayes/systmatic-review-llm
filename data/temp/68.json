@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "authors": [
+      "M. I. Finley"
+    ],
+    "title": "Technical Innovation and Economic Progress in the Ancient World",
+    "year_of_publication": 1965,
+    "journal_or_publisher": "The Economic History Review"
+  },
+  "relevance": {
+    "topic": "Technical Innovation and Economic Progress in the Ancient World",
+    "relevance": "The study explores the limited technical innovations in the ancient Greek and Roman worlds and their impact on economic progress, which is relevant to understanding historical labor displacement due to technological change."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "artisans",
+      "farmers",
+      "miners"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Neolithic to the end of the Roman Empire",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "Ancient Greek and Roman worlds"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "technical innovations",
+      "agricultural techniques",
+      "mining techniques"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "limited technical innovation",
+      "economic stagnation",
+      "cultural attitudes towards labor"
+    ],
+    "text_fragments": [
+      "The ancient world was characterized by a clear, almost total, divorce between science and practice.",
+      "Freeing slave-girls from toil (or animals, either, if one wishes to be more precise than the poet) was not a powerful enough incentive."
+    ],
+    "narrative_descriptions": "The study describes how the ancient Greeks and Romans made few significant technical advancements, focusing instead on craftsmanship and artistry within existing technologies. It highlights the cultural and economic factors that limited technological progress and economic rationalism."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "water-mill",
+      "screw-press",
+      "mechanical reaper"
+    ],
+    "economic_conditions": "The ancient world had a static economy with limited productivity growth.",
+    "institutional_context": "The ancient world had a clear separation between science and practical application, with a focus on wealth accumulation through land and conquest rather than technological innovation."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that the ancient Greeks and Romans made limited technical advancements, focusing on craftsmanship rather than innovation, which resulted in economic stagnation.",
+    "conclusions": "The lack of significant technical innovation in the ancient world was due to cultural attitudes towards labor and wealth, which prioritized land and conquest over technological progress.",
+    "long_term_impacts": null
+  }
+}

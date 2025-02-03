@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "authors": [
+      "Fredrik Lilja"
+    ],
+    "title": "Inside the Enclosed Farm: Farmers, Shepherds, and the Introduction of New Technology in Cape Wool Farming, 1865 -1950",
+    "year_of_publication": 2018,
+    "journal_or_publisher": "Internationaal Instituut voor Sociale Geschiedenis"
+  },
+  "relevance": {
+    "topic": "Transformation of labor relations in wool farming due to technological change",
+    "relevance": "The study examines the impact of technological changes, such as fencing and windmills, on labor displacement and transformation in the Cape wool farming industry."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "shepherds",
+      "camp walkers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "Focus on black and coloured shepherds and laborers in the Cape Colony/Province",
+    "time_period_covered": "1865-1950",
+    "time_period_start": 1865,
+    "time_period_end": 1950,
+    "geographical_focus": "Cape Colony/Province, South Africa"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "fencing",
+      "windmills"
+    ],
+    "dependent_variables": {
+      "displaced": "Shepherds were displaced by camp walkers on progressive farms.",
+      "unemployment_or_underemployment": "Shepherds were replaced by camp walkers, but demand for shepherds continued on less progressive farms.",
+      "duration": null,
+      "wage_changes": "Camp walkers earned higher cash wages compared to shepherds."
+    },
+    "moderators": [
+      "presence of jackals",
+      "availability of water",
+      "competition from mining industry"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of fencing on labor demand",
+      "Role of children in shepherding",
+      "Proletarianization of labor"
+    ],
+    "text_fragments": [
+      "'The demand for shepherds continued due to the existence of jackals and the lack of sufficient water in the dry Karoo.'",
+      "'By 1913, the number of flocks being herded on Wellwood was reduced to two.'"
+    ],
+    "narrative_descriptions": "The study describes the transition from shepherds to camp walkers and the continued demand for shepherds on less progressive farms."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "fencing",
+      "windmills"
+    ],
+    "economic_conditions": "Period of agrarian capitalist expansion in the Cape Colony/Province",
+    "institutional_context": "Labor policies such as the Masters and Servants Act influenced labor relations."
+  },
+  "outcomes": {
+    "main_findings": "The introduction of fencing and windmills transformed labor relations in Cape wool farming, reducing the demand for shepherds on progressive farms but maintaining it on others.",
+    "conclusions": "Technological changes led to a stratification of farmers and a shift in labor roles from shepherds to camp walkers.",
+    "long_term_impacts": "The study discusses the proletarianization of labor and the impact on generational labor roles."
+  }
+}

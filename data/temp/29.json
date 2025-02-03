@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "authors": [
+      "Carol E. Heim"
+    ],
+    "title": "Structural Transformation and the Demand for New Labor in Advanced Economies: Interwar Britain",
+    "year_of_publication": 1984,
+    "journal_or_publisher": "Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines how structural transformation in interwar Britain led to the demand for new types of labor, rather than re-employing displaced workers from declining industries, highlighting a key aspect of labor displacement due to technological change."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Motor Vehicles, Cycles, and Aircraft",
+      "Electric Cable, Apparatus, Lamps",
+      "Electrical Engineering",
+      "Silk and Artificial Silk",
+      "Electrical Wiring and Contracting",
+      "Scientific and Photographic Instruments and Apparatus",
+      "Chemicals",
+      "Rubber",
+      "Metal Industries Not Separately Specified",
+      "Printing, Publishing, and Bookbinding",
+      "Furniture Making, Upholstery",
+      "Brick, Tile, Pipe",
+      "Other Food Industries",
+      "Shirts, Collars, Underclothing",
+      "Hosiery",
+      "Tailoring",
+      "Cardboard Boxes, Paper Bags, and Stationery",
+      "Bread, Biscuits, Cakes Drink Industries",
+      "Heating and Ventilating Apparatus",
+      "Cocoa, Chocolate, and Sugar Confectionery",
+      "Toys, Games, and Sports Requisites",
+      "Stationery and Typewriting Requisites",
+      "Services and Building Distributive Trades",
+      "Building",
+      "Hotel, Boarding House, and Related Services",
+      "Public Works Contracting Tramway and Omnibus Service",
+      "Coal Mining",
+      "Cotton",
+      "Shipbuilding and Ship Repairing",
+      "General Engineering; Engineers' Iron and Steel Founding",
+      "Iron and Steel"
+    ],
+    "occupation_types": [
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main",
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on the age and sex composition of workers in expanding and declining industries in interwar Britain.",
+    "time_period_covered": "1923-1937",
+    "time_period_start": 1923,
+    "time_period_end": 1937,
+    "geographical_focus": "Great Britain and Northern Ireland"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Structural transformation",
+      "Technological and organizational changes"
+    ],
+    "dependent_variables": {
+      "displaced": "Workers from declining industries such as coal, shipbuilding, iron and steel products, and cotton textiles.",
+      "unemployment_or_underemployment": "High unemployment in declining industries, with limited interindustry transfers for displaced workers.",
+      "duration": null,
+      "wage_changes": "New labor, often cheaper, was preferred over experienced industrial workers."
+    },
+    "moderators": [
+      "Age",
+      "Sex",
+      "Industry type"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Preference for new labor over displaced workers",
+      "Structural transformation in industries",
+      "Role of gender and age in labor demand"
+    ],
+    "text_fragments": [
+      "'we want to draw a distinction between labour which has already been employed and labour which is spare and has never been employed at all.'",
+      "'a very definite preference exists among contractors and others for local workers off farms rather than for travellers from a distance'."
+    ],
+    "narrative_descriptions": "The study describes how expanding industries in interwar Britain preferred new labor, often from agriculture or the household, over displaced workers from declining industries. This preference was driven by the adaptability and lower wage expectations of new labor."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Mass-production methods",
+      "Conveyor systems"
+    ],
+    "economic_conditions": "Interwar period with structural transformation in the economy.",
+    "institutional_context": "Government policies and trade union actions influenced labor allocation."
+  },
+  "outcomes": {
+    "main_findings": "Expanding industries in interwar Britain preferred new labor from agriculture and households over displaced workers from declining industries, contributing to structural transformation.",
+    "conclusions": "The demand for new labor in interwar Britain was driven by the need for adaptable, unskilled, or semiskilled labor, rather than re-employing displaced workers from declining industries.",
+    "long_term_impacts": "The process contributed to uneven regional development and the severity of interwar unemployment in Britain."
+  }
+}

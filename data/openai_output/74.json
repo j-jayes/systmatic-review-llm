@@ -8,6 +8,13 @@
     "year_of_publication": 1986,
     "journal_or_publisher": "Journal of Economic History"
   },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in agriculture",
+    "relevance": "The study examines the impact of the mechanical cotton harvester on labor displacement in agriculture, specifically testing the hypotheses of labor being pushed out by technology versus being pulled out by higher wages in nonfarm occupations.",
+    "technologies": [
+      "mechanical cotton harvester"
+    ]
+  },
   "design": {
     "study_type": "quantitative",
     "methodology": "econometric modeling",
@@ -20,8 +27,10 @@
     "occupation_classifications": null,
     "gross_vs_net": "net",
     "sample_size": null,
-    "sample_characteristics": null,
-    "time_period_covered": "1930 to 1980",
+    "sample_characteristics": "The study focuses on the U.S. cotton-picking labor market from 1930 to 1964, covering 12 major cotton-producing states.",
+    "time_period_covered": "1930 to 1964",
+    "time_period_start": 1930,
+    "time_period_end": 1964,
     "geographical_focus": "United States"
   },
   "key_variables": {
@@ -29,28 +38,44 @@
       "mechanical cotton harvester"
     ],
     "dependent_variables": {
-      "displaced": "79 percent of the reduction in hand picking of cotton was due to increased nonfarm wages; 21 percent was attributed to the decreased cost of machine harvesting.",
+      "displaced": "79 percent of the reduction in hand picking of cotton was due to increased nonfarm wages; 21 percent was due to the decreased cost of machine harvesting.",
       "unemployment_or_underemployment": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": "Real piece rates for hand harvesting declined post-World War II, but remained higher than in 1930."
     },
     "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
-    "statistical_measures": null
+    "statistical_measures": {
+      "demand_elasticity_piece_rates": -0.628,
+      "demand_elasticity_custom_rates": 0.243,
+      "demand_elasticity_cotton_prices": 0.969,
+      "supply_elasticity_piece_rates": 1.28,
+      "supply_elasticity_manufacturing_wages": -2.51,
+      "supply_elasticity_yields": 0.79
+    }
   },
-  "qualitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Labor displacement versus replacement",
+      "Economic growth and labor market dynamics"
+    ],
+    "text_fragments": [
+      "\"79 percent of the reduction in hand picking of cotton was due to increased nonfarm wages-the pull effect; the remaining 21 percent is attributed to the decreased cost of machine harvesting-the push effect.\""
+    ],
+    "narrative_descriptions": "The study describes the historical development and adoption of the mechanical cotton harvester and its impact on labor dynamics in the cotton industry."
+  },
   "historical_context": {
     "technological_changes": [
       "mechanical cotton harvester"
     ],
-    "economic_conditions": "The U.S. farm labor force declined by about two-thirds from 1930 to 1980, and the machinery-labor ratio increased nearly tenfold.",
-    "institutional_context": ""
+    "economic_conditions": "The study period includes the Great Depression, World War II, and post-war economic growth.",
+    "institutional_context": "The study discusses the role of farm machinery companies and state agricultural experiment stations in responding to labor market changes."
   },
   "outcomes": {
-    "main_findings": "The pull effect of higher nonfarm wages was almost four times stronger than the push effect of mechanization in reducing farm labor employment in cotton harvesting.",
-    "conclusions": "The study concludes that labor was primarily pulled out of agriculture by higher wages in nonfarm occupations rather than being displaced by mechanical cotton harvesters.",
-    "long_term_impacts": null
+    "main_findings": "The pull effect of higher nonfarm wages was almost four times stronger than the push effect of mechanization in reducing hand picking labor in cotton harvesting.",
+    "conclusions": "The study concludes that labor was primarily pulled out of agriculture by higher wages in nonfarm occupations rather than displaced by the mechanical cotton picker.",
+    "long_term_impacts": "The study suggests that the mechanization of cotton harvesting is part of broader economic growth, leading to structural changes in agriculture."
   }
 }

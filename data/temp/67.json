@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "Rowena Gray"
+    ],
+    "title": "Taking technology to task: The skill content of technological change in early twentieth century United States",
+    "year_of_publication": 2013,
+    "journal_or_publisher": "Explorations in Economic History"
+  },
+  "relevance": {
+    "topic": "The skill content of technological change in early twentieth century United States",
+    "relevance": "The study examines the impact of electrification on labor displacement and skill distribution in the early 20th century U.S., providing insights into historical labor displacement due to technological change."
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "clerical workers",
+      "manual workers",
+      "dexterity workers",
+      "managerial workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": 411530,
+    "sample_characteristics": "Workers aged 12-70 in the U.S. manufacturing sector from 1900 to 1940.",
+    "time_period_covered": "1900-1940",
+    "time_period_start": 1900,
+    "time_period_end": 1940,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "electrification"
+    ],
+    "dependent_variables": {
+      "displaced": "The study does not provide a specific number or share of workers displaced but indicates a shift in demand from dexterity-intensive to clerical and manual tasks.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": "The study suggests a decline in wage differentials between artisanal and manual workers."
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": {
+      "R2": 0.85,
+      "observations": 250
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Hollowing out of skill distribution",
+      "Shift in labor demand from dexterity to clerical and manual tasks"
+    ],
+    "text_fragments": [
+      "Electrification increased the demand for clerical, numerical, planning and people skills relative to manual skills while simultaneously reducing relative demand for the dexterity-intensive jobs."
+    ],
+    "narrative_descriptions": "The study describes the impact of electrification on the skill distribution in manufacturing, showing a shift in demand from dexterity-intensive to clerical and manual tasks."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "electrification"
+    ],
+    "economic_conditions": "Period of industrial growth and technological advancement in the early 20th century.",
+    "institutional_context": "The study does not provide specific details on labor policies or regulatory factors."
+  },
+  "outcomes": {
+    "main_findings": "Electrification led to a 'hollowing out' of the skill distribution, increasing demand for clerical and manual tasks while reducing demand for dexterity-intensive jobs.",
+    "conclusions": "Technological change in the early 20th century U.S. was unskill-biased for blue-collar tasks but skill-biased on aggregate, contributing to a decline in wage differentials.",
+    "long_term_impacts": "The study suggests potential implications for historical inequality, indicating that technological change may have contributed to falling wage differentials."
+  }
+}

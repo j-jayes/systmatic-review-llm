@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "authors": [
+      "E. Wyndham Hulme"
+    ],
+    "title": "The History of the Patent System under the Prerogative and at Common Law",
+    "year_of_publication": 1896,
+    "journal_or_publisher": "The Law Quarterly Review"
+  },
+  "relevance": {
+    "topic": "History of the English Patent System",
+    "relevance": "The study provides a historical analysis of the English patent system, highlighting the role of patents in promoting new industries and inventions, which is relevant to understanding labor displacement due to technological change."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "weavers",
+      "dyers",
+      "fullers",
+      "clockmakers",
+      "miners",
+      "armorers",
+      "shipwrights",
+      "glass makers",
+      "iron founders"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Middle Ages to 18th century",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "England"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "introduction of new industries",
+      "patent grants"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "introduction of new industries",
+      "patent system evolution",
+      "Crown's role in industrial promotion"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the historical development of the English patent system, focusing on how the Crown used patents to promote new industries and the eventual shift in responsibility to patentees."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "introduction of textile industry",
+      "manufacture of salt",
+      "mining techniques",
+      "glass making"
+    ],
+    "economic_conditions": "Transition from a pastoral and mining society to a more industrialized economy.",
+    "institutional_context": "The Crown played a significant role in granting patents to promote new industries, which later evolved into a more structured patent system."
+  },
+  "outcomes": {
+    "main_findings": "The English patent system evolved from Crown-granted monopolies to a more structured system that encouraged the introduction of new industries.",
+    "conclusions": "The study concludes that the patent system played a crucial role in industrial development by promoting new industries, which had significant economic impacts.",
+    "long_term_impacts": null
+  }
+}

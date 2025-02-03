@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "authors": [
+      "George E. Barnett"
+    ],
+    "title": "Chapters on Machinery and Labor",
+    "year_of_publication": 1925,
+    "journal_or_publisher": "The Quarterly Journal of Economics"
+  },
+  "relevance": {
+    "topic": "Machinery and the Displacement of Skill",
+    "relevance": "The study is relevant as it examines the impact of machinery on labor, specifically focusing on the displacement of skill, which is a key aspect of labor displacement due to technological change.",
+    "technologies": [
+      "Linotype",
+      "Stone-planer",
+      "Semi-automatic bottle machine",
+      "Owens bottle machine"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Printers",
+      "Stonecutters",
+      "Bottle-blowers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Main",
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "19th to early 20th century",
+    "time_period_start": 1800,
+    "time_period_end": 1925,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Rapidity of introduction of the machine",
+      "Mobility of labor within the trade",
+      "Effect of the machine in increasing demand for the product",
+      "Labor-displacing power of the machine",
+      "Extent to which the skill of the handworker is useful in the machine process"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the displacement of skill, defined as the loss of opportunity to sell acquired skill at the previous rate of remuneration due to machinery.",
+      "unemployment_or_underemployment": "The study suggests that displacement does not necessarily mean loss of employment but may result in employment at a lower rate of remuneration.",
+      "duration": null,
+      "wage_changes": "Displacement of skill is associated with a reduction in wages for skilled laborers."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Displacement of skill",
+      "Rapidity of machine introduction",
+      "Mobility of labor",
+      "Demand increase due to machinery",
+      "Labor-displacing power"
+    ],
+    "text_fragments": [
+      "'The factors determining the extent of the displacement of skill consequent upon the introduction of machinery may be enumerated as follows: (1) the rapidity of introduction of the machine, (2) the mobility of labor within the skilled trade affected, (3) the effect of the machine in reducing the price of the manufactured article and thus increasing demand, (4) the labor-displacing power of the machine, (5) the extent to which the skill of the handworker is useful in the machine process.'"
+    ],
+    "narrative_descriptions": "The study provides a detailed narrative on how machinery affects the displacement of skill, focusing on various factors such as the speed of machine introduction and the mobility of labor."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Linotype",
+      "Stone-planer",
+      "Semi-automatic bottle machine",
+      "Owens bottle machine"
+    ],
+    "economic_conditions": "Period of industrialization and technological advancement in the 19th and early 20th centuries.",
+    "institutional_context": "The study mentions the role of trade unions in modifying the impact of machinery on labor displacement."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that the introduction of machinery leads to the displacement of skill, which is influenced by factors such as the rapidity of machine introduction and labor mobility.",
+    "conclusions": "The displacement of skill due to machinery is a complex process influenced by multiple factors, and while machinery can lead to increased demand, it often results in reduced wages for skilled workers.",
+    "long_term_impacts": null
+  }
+}

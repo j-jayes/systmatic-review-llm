@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "authors": [
+      "Evan P. Bennett"
+    ],
+    "title": "Manning the Fields: Remaking Women's Work in the Tobacco South in the Twentieth Century",
+    "year_of_publication": 2008,
+    "journal_or_publisher": "The Journal of Peasant Studies"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in tobacco agriculture",
+    "relevance": "The study examines the displacement of women from tobacco agriculture due to technological advancements and policy changes, highlighting the gendered impact of these changes."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "tobacco farm workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Twentieth Century",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "American South"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "use of chemicals",
+      "introduction of male guestworkers"
+    ],
+    "dependent_variables": {
+      "displaced": "Women were largely displaced from tobacco agriculture.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "defeminization of labor",
+      "impact of mechanization",
+      "role of state policy"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the historical shift from family-based to wage labor in tobacco agriculture, emphasizing the role of technological and policy changes in displacing women from the workforce."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanization of tobacco farming",
+      "use of chemicals for pest control",
+      "introduction of H-2A guestworker program"
+    ],
+    "economic_conditions": "Expansion of tobacco production internationally, leading to price pressures.",
+    "institutional_context": "State agricultural, labor, and immigration policies facilitated the shift from family to wage labor."
+  },
+  "outcomes": {
+    "main_findings": "Technological advancements and state policies led to the displacement of women from tobacco agriculture, as tasks traditionally done by women were mechanized or eliminated.",
+    "conclusions": "The displacement of women was not a natural process but was influenced by technological and policy changes that favored male labor and mechanization.",
+    "long_term_impacts": null
+  }
+}

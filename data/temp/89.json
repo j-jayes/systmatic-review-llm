@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "authors": [
+      "David Steigerwald"
+    ],
+    "title": "Walter Reuther, the UAW, and the dilemmas of automation",
+    "year_of_publication": 2010,
+    "journal_or_publisher": "Labor History"
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Auto Workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1950-1965",
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "automation"
+    ],
+    "dependent_variables": {
+      "displaced": "UAW reported 160,000 autoworkers displaced between 1947 and 1960.",
+      "unemployment_or_underemployment": "Persistently high unemployment rates, with long-term unemployment over two million when Kennedy assumed office.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "ambivalence towards automation",
+      "impact of automation on labor",
+      "strategies to manage technological change"
+    ],
+    "text_fragments": [
+      "'radical productivity increases' could very easily mean 'unemployment and misery instead of security and abundance'.",
+      "'Automation must be met sanely and constructively'"
+    ],
+    "narrative_descriptions": "The study describes the ambivalence of labor leaders towards automation, highlighting their efforts to manage its impact through collective bargaining and political action."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "automation",
+      "Detroit automation",
+      "transfer machines"
+    ],
+    "economic_conditions": "Post-WWII economic growth with increasing automation in manufacturing.",
+    "institutional_context": "Labor policies focused on managing technological change through collective bargaining and political action."
+  },
+  "outcomes": {
+    "main_findings": "Automation contributed to the decline in manufacturing employment and organized labor's influence in America.",
+    "conclusions": "Reuther and the UAW attempted to manage automation's impact through collective bargaining and political action, but ultimately failed to prevent labor displacement.",
+    "long_term_impacts": "The study suggests that the failure to manage automation's impact contributed to the long-term decline of organized labor in America."
+  }
+}

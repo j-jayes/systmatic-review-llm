@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "authors": [
+      "Eric W. Sager"
+    ],
+    "title": "The Transformation of the Canadian Domestic Servant, 1871-1931",
+    "year_of_publication": 2007,
+    "journal_or_publisher": "Social Science History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the decline of domestic service as a paid occupation and its replacement by unpaid housework, driven by technological changes in household management.",
+    "technologies": [
+      "household technology",
+      "electric vacuum cleaners",
+      "electric-powered washing machines"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis",
+    "occupations": [
+      "domestic servants"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on Canadian domestic servants, primarily women, during the late 19th and early 20th centuries.",
+    "time_period_covered": "1871-1931",
+    "time_period_start": 1871,
+    "time_period_end": 1931,
+    "geographical_focus": "Canada"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "technological transformation of household work"
+    ],
+    "dependent_variables": {
+      "displaced": "The decline of domestic service as a paid occupation.",
+      "unemployment_or_underemployment": "High turnover rates and short duration of employment in domestic service.",
+      "duration": "Short duration of employment in domestic service.",
+      "wage_changes": "Domestic servants' wages did not keep pace with other occupations, leading to a decline in the occupation."
+    },
+    "moderators": [
+      "ethnoreligious backgrounds",
+      "gender",
+      "age",
+      "immigration status"
+    ]
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "decline of domestic service",
+      "technological transformation",
+      "ethnoreligious backgrounds",
+      "gender roles"
+    ],
+    "text_fragments": [
+      "'I'd rather pick rags and keep my self-respect!' Such was the reaction of one Canadian woman who faced the prospect of becoming a domestic servant in the early twentieth century."
+    ],
+    "narrative_descriptions": "The study describes the transformation of domestic service from a paid occupation to unpaid housework, influenced by technological changes and shifts in labor supply and demand."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "household technology",
+      "electric vacuum cleaners",
+      "electric-powered washing machines"
+    ],
+    "economic_conditions": "The study covers a period of economic transformation in Canada, with shifts in labor supply and demand affecting domestic service.",
+    "institutional_context": "The study discusses labor market conditions, immigration policies, and societal attitudes towards domestic service."
+  },
+  "outcomes": {
+    "main_findings": "Domestic service declined as a paid occupation due to technological changes and shifts in labor supply and demand. The occupation was replaced by unpaid housework performed by housewives.",
+    "conclusions": "The decline of domestic service was not solely due to economic factors but also involved changes in societal attitudes and technological advancements.",
+    "long_term_impacts": "The decline of paid domestic service led to the devaluation of housework and increased unpaid labor for women."
+  }
+}

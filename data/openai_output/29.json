@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "authors": [
+      "Carol E. Heim"
+    ],
+    "title": "Structural Transformation and the Demand for New Labor in Advanced Economies: Interwar Britain",
+    "year_of_publication": 1984,
+    "journal_or_publisher": "Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to structural transformation in interwar Britain",
+    "relevance": "The study examines how structural transformation in interwar Britain led to the demand for new types of labor rather than re-employing displaced workers from declining industries, highlighting a key aspect of labor displacement due to technological and industrial changes.",
+    "technologies": [
+      "Mass-production methods",
+      "Conveyor systems"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Motor vehicles, cycles, and aircraft",
+      "Electric cable, apparatus, lamps",
+      "Electrical engineering",
+      "Silk and artificial silk",
+      "Electrical wiring and contracting",
+      "Scientific and photographic instruments and apparatus",
+      "Chemicals",
+      "Rubber",
+      "Metal industries not separately specified",
+      "Printing, publishing, and bookbinding",
+      "Furniture making, upholstery",
+      "Brick, tile, pipe",
+      "Other food industries",
+      "Shirts, collars, underclothing",
+      "Hosiery",
+      "Tailoring",
+      "Cardboard boxes, paper bags, and stationery",
+      "Bread, biscuits, cakes drink industries",
+      "Heating and ventilating apparatus",
+      "Cocoa, chocolate, and sugar confectionery",
+      "Toys, games, and sports requisites",
+      "Stationery and typewriting requisites",
+      "Services and building distributive trades",
+      "Building",
+      "Hotel, boarding house, and related services",
+      "Public works contracting tramway and omnibus service",
+      "Entertainments and sports",
+      "Laundries, dyeing, and dry cleaning",
+      "Other road transport",
+      "Professional services",
+      "Gas, water, and electricity supply",
+      "Coal mining",
+      "Cotton",
+      "Shipbuilding and ship repairing",
+      "General engineering; engineers' iron and steel founding",
+      "Iron and steel"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on interwar Britain, examining both prosperous and depressed areas.",
+    "time_period_covered": "1923-1937",
+    "time_period_start": 1923,
+    "time_period_end": 1937,
+    "geographical_focus": "Great Britain and Northern Ireland"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Structural transformation",
+      "Mass-production methods",
+      "Conveyor systems"
+    ],
+    "dependent_variables": {
+      "displaced": "Workers from declining industries such as coal, shipbuilding, iron and steel products, and cotton textiles.",
+      "unemployment_or_underemployment": "High unemployment in declining industries, with limited reallocation to expanding industries.",
+      "duration": null,
+      "wage_changes": "New labor often expected lower wages than experienced industrial workers."
+    },
+    "moderators": [
+      "Geographical location",
+      "Union presence",
+      "Skill level"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Structural transformation",
+      "Demand for new labor",
+      "Interindustry mobility",
+      "Role of gender and age in labor demand"
+    ],
+    "text_fragments": [
+      "'we want to draw a distinction between labour which has already been employed and labour which is spare and has never been employed at all.'",
+      "'a very definite preference exists among contractors and others for local workers off farms rather than for travellers from a distance'."
+    ],
+    "narrative_descriptions": "The study describes how expanding industries in interwar Britain preferred new types of labor, such as women and young workers, over displaced workers from declining industries. This preference was due to the adaptability and lower wage expectations of new labor."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Mass-production methods",
+      "Conveyor systems"
+    ],
+    "economic_conditions": "Interwar period marked by structural transformation and economic shifts from export-oriented to home market industries.",
+    "institutional_context": "Influence of state policy and trade union action on labor allocation."
+  },
+  "outcomes": {
+    "main_findings": "Expanding industries in interwar Britain preferred new types of labor, such as women and young workers, over displaced workers from declining industries. This was due to the adaptability and lower wage expectations of new labor.",
+    "conclusions": "The structural transformation in interwar Britain led to a demand for new labor, contributing to the severity of unemployment in declining industries and uneven regional development.",
+    "long_term_impacts": "The process contributed to patterns of uneven regional development and highlighted the challenges of re-employing displaced workers in new industries."
+  }
+}

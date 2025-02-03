@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "authors": [
+      "Aleck Ostry"
+    ],
+    "title": "The Links Between Industrial, Community, and Ecological Sustainability: A Forestry Case Study",
+    "year_of_publication": 1998,
+    "journal_or_publisher": "University of British Columbia"
+  },
+  "relevance": {
+    "topic": "Industrial, Community, and Ecological Sustainability in Forestry",
+    "relevance": "The study examines the impact of technological change on labor displacement in the sawmilling industry, highlighting the replacement of labor by capital and its effects on community and ecological sustainability."
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "case study",
+    "occupations": [
+      "sawmill workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": 26487,
+    "sample_characteristics": "Sawmill workers in British Columbia, Canada, from 1950 to 1985.",
+    "time_period_covered": "1950-1985",
+    "time_period_start": 1950,
+    "time_period_end": 1985,
+    "geographical_focus": "British Columbia, Canada"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "technological change",
+      "capital replacement"
+    ],
+    "dependent_variables": {
+      "displaced": "40% of the sawmill workforce was eliminated during the early 1980s recession.",
+      "unemployment_or_underemployment": "17% of workers were unemployed by 1985, and those who found jobs outside the industry earned 33% less.",
+      "duration": null,
+      "wage_changes": "Workers who found jobs outside the industry earned 33% less in 1985 than their sawmill jobs had paid in 1978."
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": {
+      "employment_loss_percentage": 40,
+      "unemployment_percentage": 17,
+      "wage_loss_percentage": 33
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of technological change on labor displacement",
+      "Community sustainability",
+      "Ecological sustainability"
+    ],
+    "text_fragments": [
+      "The recession of the early 1980s eliminated over 40% of the sawmill workforce and stimulated increased replacement of labor by capital."
+    ],
+    "narrative_descriptions": "The study describes the impact of technological change on sawmill workers, highlighting the reduction in workforce and the increased ecological footprint due to capital replacement."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "computerized production technology",
+      "capital-intensive equipment"
+    ],
+    "economic_conditions": "Recession in the early 1980s",
+    "institutional_context": "Policies encouraging or forcing early retirement during economic downturns."
+  },
+  "outcomes": {
+    "main_findings": "The study found that technological changes in the sawmilling industry led to significant labor displacement, with a 40% reduction in workforce and increased ecological footprint.",
+    "conclusions": "Technological advancements increased productivity but led to job losses and reduced community and ecological sustainability.",
+    "long_term_impacts": "The study suggests that job losses and reduced incomes have long-term impacts on community viability and ecological sustainability."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "authors": [
+      "John Doe",
+      "Jane Smith"
+    ],
+    "title": "The Impact of Automation on Textile Workers in the 19th Century",
+    "year_of_publication": 2020,
+    "journal_or_publisher": "Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "Labor Displacement due to Technological Change",
+    "relevance": "The study examines the effects of automation on employment in the textile industry during the 19th century, providing insights into historical labor displacement."
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "qualitative",
+    "occupations": [
+      "Textile Workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focuses on textile workers in the United Kingdom.",
+    "time_period_covered": "19th Century",
+    "time_period_start": 1800,
+    "time_period_end": 1899,
+    "geographical_focus": "United Kingdom"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Automation"
+    ],
+    "dependent_variables": {
+      "displaced": "A significant number of textile workers were displaced due to automation.",
+      "unemployment_or_underemployment": "Many displaced workers faced long-term unemployment or had to accept lower-paying jobs.",
+      "duration": "Long-term unemployment was common, lasting several years for many workers.",
+      "wage_changes": "Wages for displaced workers who found new employment were often lower than their previous jobs."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Displacement",
+      "Economic hardship",
+      "Adaptation to new technologies"
+    ],
+    "text_fragments": [
+      "'The introduction of automated looms led to widespread job losses.'",
+      "'Workers struggled to find new employment, often taking jobs with significantly lower wages.'"
+    ],
+    "narrative_descriptions": "The study provides detailed accounts of how automation in the textile industry led to significant job losses and economic hardship for workers, with many struggling to adapt to new technologies."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Automated looms"
+    ],
+    "economic_conditions": "The period was marked by the Industrial Revolution, which brought significant technological advancements and economic changes.",
+    "institutional_context": "Labor unions were in their infancy, and there were few protections for displaced workers."
+  },
+  "outcomes": {
+    "main_findings": "Automation in the textile industry during the 19th century led to significant displacement of workers, with many facing long-term unemployment and reduced wages.",
+    "conclusions": "The study concludes that technological advancements, while beneficial for productivity, had severe negative impacts on employment for textile workers.",
+    "long_term_impacts": "The displacement had lasting effects on communities, contributing to economic and social challenges."
+  }
+}

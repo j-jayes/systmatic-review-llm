@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "authors": [
+      "Bruce Fehn"
+    ],
+    "title": "'Chickens come home to roost': Industrial reorganization, seniority, and gender conflict in the United Packinghouse Workers of America, 1956-1966",
+    "year_of_publication": 1993,
+    "journal_or_publisher": "Labor History"
+  },
+  "relevance": {
+    "topic": "Industrial reorganization, seniority, and gender conflict",
+    "relevance": "The study examines the impact of industrial reorganization and technological changes on labor displacement, particularly focusing on gender conflict and seniority issues within the United Packinghouse Workers of America.",
+    "technologies": [
+      "machines",
+      "new meat processing technologies"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "meatpacking workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on women workers in the United Packinghouse Workers of America, particularly in Ottumwa, Iowa.",
+    "time_period_covered": "1956-1966",
+    "time_period_start": 1956,
+    "time_period_end": 1966,
+    "geographical_focus": "United States, particularly Ottumwa, Iowa"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "industrial reorganization",
+      "technological changes"
+    ],
+    "dependent_variables": {
+      "displaced": "Thousands of women lost jobs due to technological and geographical reorganization in the meatpacking industry.",
+      "unemployment_or_underemployment": "Women were the first to be laid off as companies transformed production processes.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": [
+      "gender",
+      "seniority",
+      "union presence"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "gender conflict",
+      "seniority issues",
+      "union struggles"
+    ],
+    "text_fragments": [
+      "\"Chickens come home to roost\": Industrial reorganization, seniority, and gender conflict in the United Packinghouse Workers of America, 1956-1966",
+      "\"The machine menace is stalking all union members\""
+    ],
+    "narrative_descriptions": "The study provides a detailed account of how industrial reorganization and technological changes led to job displacement, focusing on gender conflict and the role of seniority in the United Packinghouse Workers of America."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "machines",
+      "new meat processing technologies"
+    ],
+    "economic_conditions": "Period of industrial reorganization and competition in the meatpacking industry.",
+    "institutional_context": "Union activities and the impact of the 1964 Civil Rights Act on employment practices."
+  },
+  "outcomes": {
+    "main_findings": "The introduction of machines and new meat processing technologies led to significant job displacement, particularly affecting women due to gendered job categories and dual seniority systems.",
+    "conclusions": "The study concludes that industrial reorganization and technological changes exacerbated gender conflict and highlighted the limitations of dual seniority systems in protecting women's employment.",
+    "long_term_impacts": "The study discusses the long-term impact of job displacement on women's employment opportunities and union solidarity."
+  }
+}

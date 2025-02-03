@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "authors": [
+      "M. I. Finley"
+    ],
+    "title": "Technical Innovation and Economic Progress in the Ancient World",
+    "year_of_publication": 1965,
+    "journal_or_publisher": "The Economic History Review"
+  },
+  "relevance": {
+    "topic": "Technical Innovation and Economic Progress in the Ancient World",
+    "relevance": "The study explores the limited impact of technological innovations on economic progress in the ancient world, particularly focusing on the Greek and Roman civilizations. It discusses the reasons for the lack of significant technological advancement and its implications for labor and productivity.",
+    "technologies": [
+      "gear",
+      "screw",
+      "rotary mill",
+      "water-mill",
+      "direct screw-press",
+      "glass-blowing",
+      "concrete",
+      "hollow bronze-casting",
+      "dioptra",
+      "torsion catapult",
+      "water-clock",
+      "water organ",
+      "automata"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "artisans",
+      "slaves",
+      "farmers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Neolithic to the end of the Roman Empire",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "Ancient Greek and Roman civilizations"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "technological innovations"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "limited technological progress",
+      "cultural attitudes towards innovation",
+      "economic rationalism",
+      "division of labor"
+    ],
+    "text_fragments": [
+      "The ancient world was characterized by a clear, almost total, divorce between science and practice.",
+      "The proposition is true, even if it is commonplace, and attempts to challenge it, which seem to be rather fashionable at the moment, are in my view misguided and certain to fail."
+    ],
+    "narrative_descriptions": "The study describes the limited technological progress in the ancient world, attributing it to cultural attitudes that separated science from practical application and a lack of economic rationalism. It highlights the sporadic use of innovations like the water-mill and the absence of significant productivity increases despite the presence of knowledge and resources."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "water-mill",
+      "screw-press",
+      "mechanical reaper"
+    ],
+    "economic_conditions": "The ancient world had a stable but low level of economic growth, with wealth primarily derived from land and conquest rather than technological innovation.",
+    "institutional_context": "The ancient world had a clear separation between science and practical application, with a focus on wealth through land and conquest rather than innovation."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that despite the presence of technological innovations, there was little economic progress in the ancient world due to cultural attitudes and a lack of economic rationalism.",
+    "conclusions": "The ancient world did not significantly advance in productivity or economic rationalism despite having the knowledge and resources, due to cultural attitudes that separated science from practical application.",
+    "long_term_impacts": null
+  }
+}

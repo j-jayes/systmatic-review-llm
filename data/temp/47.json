@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "authors": [
+      "Veronika Settele"
+    ],
+    "title": "Cows and capitalism: humans, animals and machines in West German barns, 1950-80",
+    "year_of_publication": 2018,
+    "journal_or_publisher": "European Review of History: Revue europ\u00e9enne d'histoire"
+  },
+  "relevance": {
+    "topic": "The impact of mechanization on labor displacement in West German dairy farming.",
+    "relevance": "The study examines how the introduction of milking machines in West German barns led to the displacement of agricultural workers, who moved to better-paid industrial jobs, and how this mechanization transformed the dairy farming industry."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "agricultural workers",
+      "farmers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on West German dairy farming sector, examining the transition from manual to mechanized milking processes.",
+    "time_period_covered": "1950-1980",
+    "time_period_start": 1950,
+    "time_period_end": 1980,
+    "geographical_focus": "West Germany"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "introduction of milking machines"
+    ],
+    "dependent_variables": {
+      "displaced": "Former agricultural workers displaced by milking machines.",
+      "unemployment_or_underemployment": "Workers moved to better-paid industrial jobs.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Mechanization of agriculture",
+      "Labor displacement",
+      "Economic transformation",
+      "Role of animals in production"
+    ],
+    "text_fragments": [
+      "'The milking machine had rapidly found its way into the German stables and it was slated to change the working world of the stables more quickly and more thoroughly than farmers initially could have imagined.'",
+      "'The labour shortage in agriculture provided decisive momentum for the mechanization of milking in the second half of the twentieth century.'"
+    ],
+    "narrative_descriptions": "The study describes the transition from manual to mechanized milking in West German barns, highlighting the economic and social impacts of this change on agricultural workers and the dairy farming industry."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "milking machines"
+    ],
+    "economic_conditions": "Post-war economic growth and industrialization in West Germany.",
+    "institutional_context": "State market regulation and subsidy systems in agriculture."
+  },
+  "outcomes": {
+    "main_findings": "The introduction of milking machines in West German barns led to the displacement of agricultural workers, who moved to better-paid industrial jobs, transforming the dairy farming industry into a mechanized, profit-oriented sector.",
+    "conclusions": "Mechanization in West German dairy farming led to significant labor displacement and economic transformation, challenging traditional narratives of capitalist expansion.",
+    "long_term_impacts": "The mechanization of milking contributed to the decline of small farms and the concentration of larger, more efficient dairy operations."
+  }
+}

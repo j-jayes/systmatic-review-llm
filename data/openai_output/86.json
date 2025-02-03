@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "R. M. Hartwell"
+    ],
+    "title": "The Rising Standard of Living in England, 1800-1850",
+    "year_of_publication": 1961,
+    "journal_or_publisher": "The Economic History Review"
+  },
+  "relevance": {
+    "topic": "The impact of the Industrial Revolution on living standards in England",
+    "relevance": "The study discusses the effects of technological advancements during the Industrial Revolution on the standard of living, which is relevant to understanding labor displacement and economic changes.",
+    "technologies": [
+      "Industrial machinery",
+      "Steam power"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "industrial workers",
+      "urban poor"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1800-1850",
+    "time_period_start": 1800,
+    "time_period_end": 1850,
+    "geographical_focus": "England"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "industrial machinery",
+      "steam power"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": "The study suggests that despite technological advancements, there was no significant decline in average real wages due to labor displacement.",
+      "duration": null,
+      "wage_changes": "Real wages of the majority of English workers were rising between 1800 and 1850."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Rising living standards",
+      "Impact of industrialization on labor",
+      "Economic growth and income distribution"
+    ],
+    "text_fragments": [
+      "'The employment effect, however, was also potentially large. Many of the new machines required less labour per unit of output, so that, theoretically, the consequent labour displacement could have been large enough to have prevented real wages from rising.'",
+      "'The conclusion from consumption figures is unquestionably that the amount and variety of food consumed increased between 1800 and 1850.'"
+    ],
+    "narrative_descriptions": "The study provides a detailed narrative of the changes in living standards during the Industrial Revolution, arguing for an upward trend in living standards based on various economic indicators."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "industrial machinery",
+      "steam power"
+    ],
+    "economic_conditions": "Period of economic growth with increasing national income and industrial output.",
+    "institutional_context": "Government interventions included protective acts like the factory and truck acts, and enabling acts such as legislation for savings banks and friendly societies."
+  },
+  "outcomes": {
+    "main_findings": "The study argues for an upward trend in living standards during the Industrial Revolution, supported by evidence of increased consumption and stable or rising real wages.",
+    "conclusions": "The standard of living for most workers was rising, slowly during the war, more quickly after 1815, and rapidly after 1840.",
+    "long_term_impacts": "The study suggests that the Industrial Revolution brought about significant social and economic changes, including the beginning of the emancipation of women."
+  }
+}

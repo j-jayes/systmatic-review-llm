@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "authors": [
+      "Lars Fredrik Andersson",
+      "Magnus Lindmark"
+    ],
+    "title": "Is Structural Change Speeding Up? The Case of Sweden, 1850-2000",
+    "year_of_publication": 2008,
+    "journal_or_publisher": "Scandinavian Economic History Review"
+  },
+  "relevance": {
+    "topic": "Structural change and its impact on productivity and labor market conditions in Sweden from 1850 to 2000.",
+    "relevance": "The study examines the impact of structural change on labor market conditions, including job gains and losses, which is directly relevant to understanding labor displacement due to technological change.",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "agriculture",
+      "manufacturing",
+      "services"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "Swedish labor market from 1850 to 2000",
+    "time_period_covered": "1850-2000",
+    "time_period_start": 1850,
+    "time_period_end": 2000,
+    "geographical_focus": "Sweden"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "structural change"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses job losses in contracting industries and job gains in expanding industries.",
+      "unemployment_or_underemployment": "The study suggests that rapid structural change may lead to increased unemployment due to the need for major career transitions.",
+      "duration": null,
+      "wage_changes": "The study implies that structural change may result in lower wages when workers secure jobs in different industries."
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "industrialization",
+      "postwar economic changes"
+    ],
+    "economic_conditions": "The study covers periods of industrialization, world wars, and postwar economic growth.",
+    "institutional_context": "The study discusses the role of human capital and the impact of structural change on labor market conditions."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that structural change contributed positively to productivity growth until the 1960s, after which its impact became negative. Sectoral reallocation of labor has increased over time, with more intense job gains and losses in the postwar period.",
+    "conclusions": "Structural change has had varying impacts on productivity and employment over time, with increased sectoral reallocation in the postwar period. The study suggests that the challenges of labor reallocation are greater today due to lower population growth and the need for industry-specific skills.",
+    "long_term_impacts": "The study suggests that structural change poses challenges for labor reallocation, potentially leading to structural unemployment due to the scrapping of industry-specific skills."
+  }
+}

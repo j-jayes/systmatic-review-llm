@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "authors": [
+      "Mark Glick"
+    ],
+    "title": "The Regulation Approach: Theory and History",
+    "year_of_publication": 1988,
+    "journal_or_publisher": "G. Dosi et al., eds., Technical Change and Economic Theory, London"
+  },
+  "relevance": {
+    "topic": "The Regulation Approach and its impact on understanding capitalist economic transformations",
+    "relevance": "The study is relevant as it discusses the historical phases of capitalist development and the impact of technological changes on labor processes, particularly through the lens of the Regulation School's theory.",
+    "technologies": [
+      "Taylorism",
+      "Fordism",
+      "Mechanization"
+    ]
+  },
+  "design": {
+    "study_type": "theoretical",
+    "methodology": "historical analysis",
+    "occupations": [
+      "factory workers",
+      "craft workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "19th to 20th century",
+    "time_period_start": 1800,
+    "time_period_end": 1970,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Taylorism",
+      "Fordism",
+      "Mechanization"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Taylorism",
+      "Fordism",
+      "Mechanization"
+    ],
+    "economic_conditions": "Periods of economic growth and crisis, including the Great Depression and post-World War II boom.",
+    "institutional_context": "The study discusses the role of labor policies and class struggles in shaping economic outcomes."
+  },
+  "outcomes": {
+    "main_findings": "The Regulation School identifies different modes of capitalist development, each characterized by specific institutional forms and labor processes, such as Taylorism and Fordism.",
+    "conclusions": "The study concludes that the Regulation School's framework provides a useful lens for understanding the historical evolution of capitalist economies and the role of technological change in shaping labor relations.",
+    "long_term_impacts": null
+  }
+}

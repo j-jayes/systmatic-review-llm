@@ -7,12 +7,19 @@
     "year_of_publication": 1997,
     "journal_or_publisher": "The Journal of Economic History"
   },
+  "relevance": {
+    "topic": "The impact of the Fair Labor Standards Act of 1938 on southern industries",
+    "relevance": "The study examines the impact of the Fair Labor Standards Act of 1938, which imposed a minimum wage, on employment and technological changes in the southern seamless hosiery and lumber industries, highlighting labor displacement due to regulatory changes.",
+    "technologies": [
+      "Minimum wage legislation"
+    ]
+  },
   "design": {
     "study_type": "mixed-methods",
     "methodology": "quasi-experimental analysis",
     "occupations": [
-      "seamless hosiery",
-      "lumber"
+      "Seamless hosiery workers",
+      "Lumber workers"
     ],
     "occupation_types": [
       "Main",
@@ -21,53 +28,59 @@
     "occupation_classifications": null,
     "gross_vs_net": "net",
     "sample_size": null,
-    "sample_characteristics": null,
+    "sample_characteristics": "Southern seamless hosiery and lumber industries",
     "time_period_covered": "1938-1942",
+    "time_period_start": 1938,
+    "time_period_end": 1942,
     "geographical_focus": "Southern United States"
   },
   "key_variables": {
     "independent_variables": [
-      "minimum wage legislation"
+      "Minimum wage legislation"
     ],
     "dependent_variables": {
-      "displaced": "The entire net job loss for the industry over the two-year period was due to cutbacks in low-wage firms.",
-      "unemployment_or_underemployment": "Employment in the southern lumber industry would likely have been more adversely affected but for two factors: changes in the resource base and firms avoiding the minimum wage.",
+      "displaced": "Job losses were concentrated in low-wage firms, particularly in the South.",
+      "unemployment_or_underemployment": "Employment decreased in low-wage firms, particularly in the South.",
       "duration": null,
-      "wage_changes": "In 1940, approximately one-third of workers in the seamless hosiery industry earned no more than 2.5 cents over the 32.5 cent minimum rate."
+      "wage_changes": "Wages increased significantly in low-wage firms to comply with the FLSA."
     },
     "moderators": [
-      "regional differences",
-      "firm size",
-      "industry type"
+      "Industry type",
+      "Regional differences"
     ]
   },
   "quantitative_data": {
     "effect_sizes": null,
-    "statistical_measures": null
+    "statistical_measures": {
+      "employment_changes_seamless_hosiery": -16.95,
+      "employment_changes_lumber": 9.52,
+      "wage_increase_seamless_hosiery": 35.58,
+      "wage_increase_lumber": 16.52
+    }
   },
   "qualitative_data": {
     "key_themes": [
-      "technological substitution",
-      "regional economic impact",
-      "evasion of labor laws"
+      "Impact of minimum wage on employment",
+      "Technological change due to wage legislation",
+      "Regional economic differences"
     ],
     "text_fragments": [
       "'The [FLSA] as a whole presents itself to us as a reincarnation of the NRA in a more virulent form.'",
       "'A flat minimum price means paying a sorry slow-moving, devil-may-care, good-for-nothing specimen as much as a good man that is worth two to five times as much anywhere-anytime.'"
     ],
-    "narrative_descriptions": "The study describes how the FLSA led to increased mechanization in the hosiery industry and evasion of wage laws in the lumber industry."
+    "narrative_descriptions": "The study describes how the FLSA led to increased mechanization in the seamless hosiery industry and evasion of wage laws in the lumber industry."
   },
   "historical_context": {
     "technological_changes": [
-      "mechanization in hosiery",
-      "portable sawmills in lumber"
+      "Mechanization in seamless hosiery",
+      "Use of automatic knitting machines"
     ],
-    "economic_conditions": "The period was marked by war-related government purchases and changes in the resource base.",
-    "institutional_context": "The Fair Labor Standards Act of 1938 imposed a binding minimum wage on certain industries."
+    "economic_conditions": "The period was marked by regulatory changes and war-related economic conditions.",
+    "institutional_context": "The Fair Labor Standards Act of 1938 imposed a minimum wage, affecting labor markets in the South."
   },
   "outcomes": {
-    "main_findings": "The FLSA led to increased mechanization in the hosiery industry and evasion of wage laws in the lumber industry.",
-    "conclusions": "The minimum wage had a significant impact on employment policies and production processes in low-wage firms.",
-    "long_term_impacts": "The FLSA may have made foreign imports more competitive, particularly of low-cost products produced by unskilled labor."
+    "main_findings": "The FLSA led to increased mechanization in the seamless hosiery industry and evasion of wage laws in the lumber industry, with differing impacts on employment.",
+    "conclusions": "The FLSA had significant impacts on employment and production processes in low-wage southern industries, with increased mechanization in hosiery and evasion in lumber.",
+    "long_term_impacts": "The FLSA may have made foreign imports more competitive, potentially affecting long-term industry viability."
   }
 }

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "authors": [
+      "Jos\u00e9 Alejandro Cifuentes Sarmiento"
+    ],
+    "title": "La industria del ladrillo y la urbanizaci\u00f3n de San Crist\u00f3bal, 1910-1940",
+    "year_of_publication": 2020,
+    "journal_or_publisher": "Anuario Colombiano de Historia Social y de la Cultura"
+  },
+  "relevance": {
+    "topic": "The relationship between the brick industry and urbanization in Bogot\u00e1",
+    "relevance": "The study is relevant as it examines the impact of technological advancements in brick production on labor and urbanization in Bogot\u00e1, highlighting the coexistence of modern and artisanal production methods."
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "brick makers",
+      "factory workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on the southeastern sector of Bogot\u00e1, specifically San Crist\u00f3bal, during the early 20th century.",
+    "time_period_covered": "1910-1940",
+    "time_period_start": 1910,
+    "time_period_end": 1940,
+    "geographical_focus": "San Crist\u00f3bal, Bogot\u00e1, Colombia"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "modern brick factories",
+      "artisanal brick production"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "coexistence of modern and artisanal production",
+      "urbanization driven by industrial and artisanal brick production"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the historical development of the brick industry in San Crist\u00f3bal, highlighting the coexistence of modern factories and artisanal production, and their impact on urbanization."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "industrial coal-fueled ovens",
+      "modern brick factories"
+    ],
+    "economic_conditions": "Period of urban growth in Bogot\u00e1 during the early 20th century.",
+    "institutional_context": "Limited state intervention in urban planning, with private urban developers leading the process."
+  },
+  "outcomes": {
+    "main_findings": "The brick industry, both modern and artisanal, played a significant role in the urbanization of San Crist\u00f3bal, contributing to the development of worker neighborhoods.",
+    "conclusions": "The study concludes that the brick industry was crucial in shaping the urban landscape of southeastern Bogot\u00e1, with modern factories and artisanal production coexisting and influencing urban growth.",
+    "long_term_impacts": null
+  }
+}

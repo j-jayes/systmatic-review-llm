@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "authors": [
+      "Evan P. Bennett"
+    ],
+    "title": "Manning the Fields: Remaking Women's Work in the Tobacco South in the Twentieth Century",
+    "year_of_publication": 2008,
+    "journal_or_publisher": "The Journal of Peasant Studies"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in tobacco agriculture",
+    "relevance": "The study examines the displacement of women from tobacco agriculture due to technological advancements and policy changes, highlighting the gendered impact of these changes.",
+    "technologies": [
+      "mechanization",
+      "chemical use",
+      "H-2A guestworker program"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "tobacco farm workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Twentieth Century",
+    "time_period_start": 1900,
+    "time_period_end": 1999,
+    "geographical_focus": "American South"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "chemical use",
+      "H-2A guestworker program"
+    ],
+    "dependent_variables": {
+      "displaced": "Women were largely displaced from tobacco agriculture.",
+      "unemployment_or_underemployment": "Women moved into non-farm labor markets.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "defeminization of labor",
+      "impact of technology on gender roles",
+      "policy-driven labor changes"
+    ],
+    "text_fragments": [
+      "'The disappearance of women from the tobacco workforce is not simply an unfortunate side-effect of the American South's agricultural modernization, but a central component of its design.'"
+    ],
+    "narrative_descriptions": "The study provides a detailed historical account of how technological and policy changes led to the displacement of women from tobacco agriculture, emphasizing the gendered nature of these changes."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanization",
+      "chemical use",
+      "H-2A guestworker program"
+    ],
+    "economic_conditions": "Post-World War II economic changes, including the expansion of manufacturing and service industries.",
+    "institutional_context": "State agricultural, labor, and immigration policies facilitated the transition from family to wage labor."
+  },
+  "outcomes": {
+    "main_findings": "Technological advancements and policy changes led to the displacement of women from tobacco agriculture, with men and machines taking over traditional women's roles.",
+    "conclusions": "The displacement of women was a result of deliberate policy and technological changes, not a natural progression.",
+    "long_term_impacts": "The study suggests that the displacement of women had significant social and cultural impacts, altering traditional family and labor structures."
+  }
+}

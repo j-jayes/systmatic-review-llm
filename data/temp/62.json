@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "authors": [
+      "David Autor",
+      "Caroline Chin",
+      "Anna Salomons",
+      "Bryan Seegmiller"
+    ],
+    "title": "New Frontiers: The Origins and Content of New Work, 1940-2018",
+    "year_of_publication": 2024,
+    "journal_or_publisher": "Quarterly Journal of Economics"
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis",
+    "occupations": [
+      "production occupations",
+      "clerical occupations",
+      "professional occupations",
+      "service occupations"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1940-2018",
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "augmentation innovations",
+      "automation innovations"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "automation",
+      "augmentation"
+    ],
+    "economic_conditions": "The study covers a period of significant technological change and economic shifts, including the rise of digital technologies and globalization.",
+    "institutional_context": "The study does not explicitly detail institutional contexts but implies changes in labor demand due to technological advancements."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that new work emerges in response to technological innovations that complement occupational outputs and demand shocks that raise occupational demand. Augmentation innovations boost labor demand, while automation innovations erode it.",
+    "conclusions": "The study concludes that augmentation and automation have countervailing effects on labor demand, with augmentation boosting and automation eroding occupational employment.",
+    "long_term_impacts": null
+  }
+}

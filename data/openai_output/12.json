@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "authors": [
+      "Sonya O. Rose"
+    ],
+    "title": "Gender antagonism and class conflict: Exclusionary strategies of male trade unionists in nineteenth-century Britain",
+    "year_of_publication": 1988,
+    "journal_or_publisher": "Social History"
+  },
+  "relevance": {
+    "topic": "Gender antagonism and class conflict in labor markets",
+    "relevance": "The study explores how male trade unionists in 19th-century Britain used exclusionary strategies against women in the labor market, which is relevant to understanding labor displacement due to technological change and gender dynamics.",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "cotton spinners",
+      "tailors",
+      "hosiery workers",
+      "silk throwsters",
+      "carpet weavers",
+      "compositors",
+      "metalworkers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "19th century",
+    "time_period_start": 1800,
+    "time_period_end": 1899,
+    "geographical_focus": "Britain"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "introduction of women into male-dominated trades",
+      "mechanization"
+    ],
+    "dependent_variables": {
+      "displaced": "Male workers in various trades were displaced by the introduction of women workers.",
+      "unemployment_or_underemployment": "Male workers faced unemployment or had to seek work in other sectors when women were introduced into their trades.",
+      "duration": null,
+      "wage_changes": "Women were paid significantly lower wages than men for the same work, leading to wage suppression."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "gender antagonism",
+      "class conflict",
+      "exclusionary strategies",
+      "industrial transformation",
+      "masculinity and breadwinning"
+    ],
+    "text_fragments": [
+      "'Rivals of Men! Why should they be rivals? Why not co-workers?'",
+      "'The low price of female labor made it the most profitable as well as the most agreeable occupation for a female to superintend her own domestic establishment.'"
+    ],
+    "narrative_descriptions": "The study describes how male trade unionists in 19th-century Britain used exclusionary strategies to prevent women from entering their trades, driven by a combination of gender antagonism and class conflict."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanization",
+      "introduction of self-acting mule"
+    ],
+    "economic_conditions": "Industrial transformation and economic competition in 19th-century Britain.",
+    "institutional_context": "Trade unions and labor movements were significant in shaping employment practices and gender roles."
+  },
+  "outcomes": {
+    "main_findings": "Male trade unionists in 19th-century Britain employed exclusionary strategies against women to protect their jobs and wages, driven by gender antagonism and class conflict.",
+    "conclusions": "The exclusion of women from certain trades contributed to gender-segregated employment, which remains a feature of the labor market.",
+    "long_term_impacts": "The study suggests that exclusionary practices contributed to long-term gender segregation in the labor market, which continues to affect wage equality."
+  }
+}

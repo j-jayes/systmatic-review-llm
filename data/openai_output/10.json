@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "authors": [
+      "Joseph Pierce",
+      "Mary Lawhon",
+      "Tyler McCreary"
+    ],
+    "title": "From precarious work to obsolete labour? Implications of technological disemployment for geographical scholarship",
+    "year_of_publication": 2018,
+    "journal_or_publisher": "Geografiska Annaler: Series B, Human Geography"
+  },
+  "relevance": {
+    "topic": "Implications of technological disemployment for geographical scholarship",
+    "relevance": "The study discusses the impact of automation and technological change on labor displacement, making it highly relevant to the field of labor displacement due to technological change.",
+    "technologies": [
+      "automation",
+      "mechanization",
+      "robotics",
+      "computer science"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "theoretical analysis",
+    "occupations": [
+      "retail workers",
+      "warehouse workers",
+      "taxi and livery drivers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Contemporary period",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "Global"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "automation",
+      "mechanization",
+      "robotics",
+      "computer science"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the potential for widespread disemployment due to automation, affecting a large number of workers across various sectors.",
+      "unemployment_or_underemployment": "The study suggests that technological disemployment could lead to increased unemployment and underemployment.",
+      "duration": null,
+      "wage_changes": "The study mentions declines in wages in warehousing due to automation."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "technological disemployment",
+      "obsolescence of labour",
+      "precarity",
+      "uneven development"
+    ],
+    "text_fragments": [
+      "'robots could replace nearly a third of the U.S. workforce by 2030'",
+      "'robots are winning the race for American jobs'"
+    ],
+    "narrative_descriptions": "The study provides a detailed narrative on how automation is leading to the obsolescence of labor, with examples from various industries such as retail and transportation."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "automation",
+      "mechanization",
+      "robotics",
+      "computer science"
+    ],
+    "economic_conditions": "The study discusses the current economic conditions as a period of significant technological change impacting labor markets globally.",
+    "institutional_context": "The study highlights the need for new labor policies and social responses to address the challenges posed by technological disemployment."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that technological advancements, particularly in automation and robotics, are leading to a potential obsolescence of labor, with significant implications for employment and economic structures.",
+    "conclusions": "The study concludes that there is a need for a paradigm shift in understanding the relationship between labor, technology, and social distribution, as traditional employment models may no longer be viable.",
+    "long_term_impacts": "The study suggests that the long-term impacts of technological disemployment could include widespread poverty and social inequality if not addressed through new policies and social frameworks."
+  }
+}

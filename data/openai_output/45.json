@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "authors": [
+      "James Feigenbaum",
+      "Daniel P. Gross"
+    ],
+    "title": "Answering the Call of Automation: How the Labor Market Adjusted to Mechanizing Telephone Operation",
+    "year_of_publication": 2024,
+    "journal_or_publisher": "Quarterly Journal of Economics"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the impact of automation on labor markets, specifically focusing on the displacement of telephone operators due to mechanization, making it highly relevant to the field of labor displacement caused by technological change.",
+    "technologies": [
+      "mechanical switching technology",
+      "automation"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "telephone operators"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Young, white, American-born women in U.S. cities with populations less than or equal to 100,000 in 1920.",
+    "time_period_covered": "1910-1940",
+    "time_period_start": 1910,
+    "time_period_end": 1940,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "automation"
+    ],
+    "dependent_variables": {
+      "displaced": "The number of young, white, American-born women working as telephone operators dropped by 50% to 80% after mechanization.",
+      "unemployment_or_underemployment": "Incumbent operators were less likely to be working and more likely to be in lower-paying occupations.",
+      "duration": null,
+      "wage_changes": "No significant evidence of wage changes in local labor markets post-automation."
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Labor market adjustment",
+      "Displacement of workers",
+      "Emergence of new work"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes how the labor market adjusted to the mechanization of telephone operation, with incumbent operators facing job loss and future cohorts finding employment in other sectors."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanical switching technology"
+    ],
+    "economic_conditions": "The study period includes the Great Depression, which affected labor demand and economic conditions.",
+    "institutional_context": "AT&T was the principal U.S. telephone service provider, and its decisions on mechanization were influenced by technical demands and regulatory factors."
+  },
+  "outcomes": {
+    "main_findings": "The mechanization of telephone operation led to a significant reduction in the number of telephone operators, but future cohorts found employment in other sectors, mitigating the overall impact on employment rates.",
+    "conclusions": "While automation displaced incumbent workers, the labor market adjusted over time, with new employment opportunities emerging in other sectors.",
+    "long_term_impacts": "The study suggests that while incumbent workers faced significant challenges, future generations were able to adapt to the changing labor market."
+  }
+}

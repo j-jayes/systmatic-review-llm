@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "authors": [
+      "Warren C. Whatley"
+    ],
+    "title": "Labor for the Picking: The New Deal in the South",
+    "year_of_publication": 1983,
+    "journal_or_publisher": "Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the displacement of sharetenants due to the introduction of wage laborers and preharvest machinery during the Great Depression, influenced by AAA policies."
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "sharetenants",
+      "wage laborers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on the Delta region, covering 23 counties in Mississippi, Arkansas, and Louisiana.",
+    "time_period_covered": "1930-1940",
+    "time_period_start": 1930,
+    "time_period_end": 1940,
+    "geographical_focus": "Delta region in the Southern United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "preharvest machinery",
+      "AAA policies"
+    ],
+    "dependent_variables": {
+      "displaced": "33% of tenant labor force displaced by 1940",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "tenant displacement",
+      "mechanization",
+      "AAA policies"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes how AAA policies and economic conditions during the Great Depression led to the displacement of sharetenants and the adoption of wage labor and mechanization."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "preharvest machinery",
+      "mechanical cotton picker"
+    ],
+    "economic_conditions": "Great Depression",
+    "institutional_context": "AAA policies increased land value and relaxed labor constraints, leading to tenant displacement."
+  },
+  "outcomes": {
+    "main_findings": "AAA policies and economic conditions during the Great Depression led to significant tenant displacement and the adoption of wage labor and mechanization.",
+    "conclusions": "The New Deal policies inadvertently altered the labor market structure in the Cotton South, favoring landlords and leading to tenant displacement.",
+    "long_term_impacts": "The economic and social structure of the Cotton South was permanently altered, with a shift towards wage labor and mechanization."
+  }
+}

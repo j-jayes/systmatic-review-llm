@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "authors": [
+      "Craig Heinicke"
+    ],
+    "title": "African-American Migration and Mechanized Cotton Harvesting; 1950-1960",
+    "year_of_publication": 1994,
+    "journal_or_publisher": "Baldwin-Wallace College"
+  },
+  "relevance": {
+    "topic": "African-American migration and mechanized cotton harvesting",
+    "relevance": "The study examines the impact of mechanized cotton harvesting on African-American migration from the rural South, a key topic in labor displacement due to technological change."
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "cotton harvesters"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "African-Americans in the rural South, particularly in Arkansas, Louisiana, and Mississippi",
+    "time_period_covered": "1950-1960",
+    "time_period_start": 1950,
+    "time_period_end": 1960,
+    "geographical_focus": "Southern United States, particularly Arkansas, Louisiana, and Mississippi"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanized cotton harvesting"
+    ],
+    "dependent_variables": {
+      "displaced": "Estimated 380,402 African-Americans displaced due to mechanized cotton harvesting",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": {
+      "percentage_of_mechanized_harvesting_by_state_1959": 36,
+      "net_migration_from_three_states": 566000,
+      "net_migration_from_secessionist_south": 1583000
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of mechanization on migration",
+      "Economic transformation of the South",
+      "Displacement of African-American workers"
+    ],
+    "text_fragments": [
+      "The mechanical cotton picker directly accounts for, at the most, 24% of the 1950-1960 African-American net migration from the South."
+    ],
+    "narrative_descriptions": "The study challenges the hypothesis that mechanized cotton harvesting was the primary cause of African-American migration, suggesting other factors also played significant roles."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanical cotton picker"
+    ],
+    "economic_conditions": "Post-World War II economic adjustments, decline in cotton production",
+    "institutional_context": "Civil Rights movement, changes in southern labor market dynamics"
+  },
+  "outcomes": {
+    "main_findings": "The study finds that mechanized cotton harvesting accounted for a smaller proportion of African-American migration from the rural South than previously thought.",
+    "conclusions": "Mechanized cotton harvesting was not the main force behind African-American migration in the 1950s; other factors such as better opportunities in the North and reduction in cotton acreage also played significant roles.",
+    "long_term_impacts": "The study suggests that the mechanical cotton picker was part of broader historical forces leading to the decline of the Old South and the relocation of African-Americans."
+  }
+}

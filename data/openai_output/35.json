@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "authors": [
+      "Jane Humphries"
+    ],
+    "title": "The lure of aggregates and the pitfalls of the patriarchal perspective: a critique of the high wage economy interpretation of the British industrial revolution",
+    "year_of_publication": 2013,
+    "journal_or_publisher": "Economic History Review"
+  },
+  "relevance": {
+    "topic": "Critique of the high wage economy interpretation of the British industrial revolution",
+    "relevance": "The study critiques the high wage economy interpretation of the British industrial revolution, emphasizing the role of cheap female and child labor in industrialization, which is relevant to understanding labor displacement due to technological change.",
+    "technologies": [
+      "Spinning jenny",
+      "Steam engine",
+      "Smelting of iron ore using coal"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "agricultural laborers",
+      "miners",
+      "textile workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on working-class families in Britain during the industrial revolution, particularly those with large family sizes and reliance on female and child labor.",
+    "time_period_covered": "1700-1878",
+    "time_period_start": 1700,
+    "time_period_end": 1878,
+    "geographical_focus": "Britain"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "High wage economy",
+      "Availability of cheap female and child labor"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Critique of high wage economy",
+      "Role of female and child labor",
+      "Household economy"
+    ],
+    "text_fragments": [
+      "The account of the high wage economy is misleading because it focuses on men and male wages, underestimates the relative caloric needs of women and children.",
+      "The availability of cheap and amenable female and child labor offers a broader interpretation of the industrial revolution."
+    ],
+    "narrative_descriptions": "The study provides a critique of the high wage economy interpretation of the British industrial revolution, arguing that it overlooks the role of cheap female and child labor in driving industrialization."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Spinning jenny",
+      "Steam engine",
+      "Smelting of iron ore using coal"
+    ],
+    "economic_conditions": "Period of industrialization in Britain, characterized by debates on high wage economy versus labor-intensive production methods.",
+    "institutional_context": "The study critiques the patriarchal perspective and methodology that focus on male wages and overlook the contributions of female and child labor."
+  },
+  "outcomes": {
+    "main_findings": "The high wage economy interpretation is misleading as it focuses on male wages and neglects the role of cheap female and child labor in industrialization.",
+    "conclusions": "The industrial revolution was driven not only by high male wages but also by the availability of cheap female and child labor, which provided an alternative explanation for inventive and innovative activity.",
+    "long_term_impacts": null
+  }
+}

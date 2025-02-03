@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "authors": [
+      "Bruce Fehn"
+    ],
+    "title": "'Chickens come home to roost': Industrial reorganization, seniority, and gender conflict in the United Packinghouse Workers of America, 1956-1966",
+    "year_of_publication": 1993,
+    "journal_or_publisher": "Labor History"
+  },
+  "relevance": {
+    "topic": "Industrial reorganization and labor displacement",
+    "relevance": "The study examines the impact of industrial reorganization and technological changes on labor displacement, focusing on gender conflict and seniority issues within the United Packinghouse Workers of America during 1956-1966."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Packinghouse workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1956-1966",
+    "time_period_start": 1956,
+    "time_period_end": 1966,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Industrial reorganization",
+      "Technological changes"
+    ],
+    "dependent_variables": {
+      "displaced": "Thousands of women lost jobs due to technological and geographical reorganization in the meatpacking industry.",
+      "unemployment_or_underemployment": "Women were the first to be laid off, and men with less seniority remained employed.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Gender conflict",
+      "Seniority issues",
+      "Union responses"
+    ],
+    "text_fragments": [
+      "\"Chickens come home to roost\": Industrial reorganization, seniority, and gender conflict in the United Packinghouse Workers of America, 1956-1966"
+    ],
+    "narrative_descriptions": "The study describes how industrial reorganization and technological changes led to job displacement, particularly affecting women in the meatpacking industry. It highlights the gender conflict and seniority issues that arose as a result."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Introduction of machines in meatpacking plants"
+    ],
+    "economic_conditions": "Period of industrial reorganization and competition in the meatpacking industry.",
+    "institutional_context": "Union responses to gender-based job displacement and the impact of the 1964 Civil Rights Act."
+  },
+  "outcomes": {
+    "main_findings": "The study found that industrial reorganization and technological changes led to significant job displacement, particularly for women, and highlighted the gender conflict and seniority issues within the union.",
+    "conclusions": "The failure to address gender-based job structures and dual seniority systems led to entrenched gender divisions in labor, exacerbated by technological changes.",
+    "long_term_impacts": null
+  }
+}

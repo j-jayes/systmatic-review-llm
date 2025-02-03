@@ -7,11 +7,20 @@
     "year_of_publication": 2010,
     "journal_or_publisher": "Labor History"
   },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the impact of automation on labor displacement, focusing on the United Auto Workers and their strategies to manage technological change.",
+    "technologies": [
+      "Automation",
+      "Transfer machines",
+      "Servo-mechanisms"
+    ]
+  },
   "design": {
     "study_type": "qualitative",
     "methodology": "historical analysis",
     "occupations": [
-      "Auto Workers"
+      "Auto workers"
     ],
     "occupation_types": [
       "Main"
@@ -21,15 +30,19 @@
     "sample_size": null,
     "sample_characteristics": null,
     "time_period_covered": "1950-1965",
+    "time_period_start": 1950,
+    "time_period_end": 1965,
     "geographical_focus": "United States"
   },
   "key_variables": {
     "independent_variables": [
-      "automation"
+      "Automation",
+      "Transfer machines",
+      "Servo-mechanisms"
     ],
     "dependent_variables": {
-      "displaced": "UAW reported 160,000 autoworkers displaced between 1947 and 1960.",
-      "unemployment_or_underemployment": "Persistently high unemployment rates, with long-term unemployment over two million when Kennedy assumed office.",
+      "displaced": "Significant number of auto workers displaced due to automation.",
+      "unemployment_or_underemployment": "Increased unemployment and underemployment among displaced workers.",
       "duration": null,
       "wage_changes": null
     },
@@ -38,28 +51,28 @@
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "ambivalence towards automation",
-      "impact of automation on labor",
-      "strategies to manage technological change"
+      "Ambivalence towards automation",
+      "Impact of automation on labor",
+      "Strategies to manage technological change"
     ],
     "text_fragments": [
-      "'radical productivity increases' could very easily mean 'unemployment and misery instead of security and abundance'.",
-      "'Automation must be met sanely and constructively'"
+      "'Automation must be met sanely and constructively'",
+      "'radical productivity increases' could very easily mean 'unemployment and misery instead of security and abundance'"
     ],
     "narrative_descriptions": "The study describes the ambivalence of labor leaders towards automation, highlighting their efforts to manage its impact through collective bargaining and political action."
   },
   "historical_context": {
     "technological_changes": [
-      "automation",
-      "Detroit automation",
-      "transfer machines"
+      "Automation",
+      "Transfer machines",
+      "Servo-mechanisms"
     ],
     "economic_conditions": "Post-WWII economic growth with increasing automation in manufacturing.",
-    "institutional_context": "Labor policies focused on managing technological change through collective bargaining and political action."
+    "institutional_context": "Labor policies and union strategies to manage technological change."
   },
   "outcomes": {
-    "main_findings": "Automation contributed to the decline in manufacturing employment and organized labor's influence in America.",
-    "conclusions": "Reuther and the UAW attempted to manage automation's impact through collective bargaining and political action, but ultimately failed to prevent labor displacement.",
-    "long_term_impacts": "The study suggests that the failure to manage automation's impact contributed to the long-term decline of organized labor in America."
+    "main_findings": "Automation led to significant labor displacement in the auto industry, with unions attempting to manage its impact through collective bargaining and political action.",
+    "conclusions": "While automation was inevitable, its impact on labor could have been mitigated through better management and policy interventions.",
+    "long_term_impacts": "The study suggests that the failure to manage automation's impact contributed to the decline of organized labor in the U.S."
   }
 }

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "authors": [
+      "Alf Hornborg"
+    ],
+    "title": "Footprints in the cotton fields: The Industrial Revolution as time space appropriation and -environmental load displacement",
+    "year_of_publication": 2005,
+    "journal_or_publisher": "Elsevier"
+  },
+  "relevance": {
+    "topic": "Industrial Revolution and labor displacement",
+    "relevance": "The study examines the displacement of labor and land due to the Industrial Revolution, focusing on the British textile industry and its global impacts."
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Textile industry workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on British textile industry and its global trade relations in the mid-19th century.",
+    "time_period_covered": "Late 18th to mid-19th century",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "United Kingdom"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Industrialization",
+      "Technological development in textile industry"
+    ],
+    "dependent_variables": {
+      "displaced": "The study quantifies the displacement of labor and land due to the British textile industry's reliance on imports.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Industrial Revolution",
+      "Textile industry mechanization"
+    ],
+    "economic_conditions": "Period of industrial expansion and global trade in the 19th century.",
+    "institutional_context": "Colonial trade policies and economic relations between Britain and its colonies."
+  },
+  "outcomes": {
+    "main_findings": "The study finds significant displacement of labor and land due to the British textile industry's reliance on imported raw materials, highlighting unequal exchange and environmental load displacement.",
+    "conclusions": "The Industrial Revolution involved significant appropriation of global labor and land resources, contributing to technological and economic disparities.",
+    "long_term_impacts": null
+  }
+}

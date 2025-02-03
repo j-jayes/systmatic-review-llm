@@ -30,6 +30,11 @@ class StudyMetadata(BaseModel):
     year_of_publication: int = Field(..., description="The year in which the study was published.")
     journal_or_publisher: str = Field(..., description="Name of the journal or publication outlet.")
 
+class StudyRelevance(BaseModel):
+    topic: str = Field(..., description="The topic or subject of the study.")
+    relevance: str = Field(..., description="Is any part of the study relevant to the field of labor displacement due to technological change, and if so, how.")
+    technologies: List[str] = Field(..., description="Technologies or technological changes discussed in the study.")
+
 class StudyDesign(BaseModel):
     study_type: str = Field(..., description='e.g., "qualitative", "quantitative", "mixed-methods"')
     methodology: str = Field(..., description="The study's research method, e.g., historical analysis, econometric modeling, case study.")
@@ -40,6 +45,8 @@ class StudyDesign(BaseModel):
     sample_size: Optional[int] = Field(None, description="Number of workers or entities involved in the study, if reported.")
     sample_characteristics: Optional[str] = Field(None, description="Details on the demographics or geographical focus of the sample.")
     time_period_covered: str = Field(..., description="The historical timeframe or period covered by the study.")
+    time_period_start: Optional[int] = Field(None, description="The start year of the time period covered.")
+    time_period_end: Optional[int] = Field(None, description="The end year of the time period covered.")
     geographical_focus: str = Field(..., description="The region, country, or location where the study was conducted.")
 
 class DependentVariables(BaseModel):
@@ -74,6 +81,7 @@ class Outcomes(BaseModel):
 
 class StudyExtraction(BaseModel):
     metadata: StudyMetadata = Field(..., description="Basic metadata about the study.")
+    relevance: StudyRelevance = Field(..., description="Relevance of the study to the field of labor displacement due to technological change.")
     design: StudyDesign = Field(..., description="Study design and methodological details.")
     key_variables: KeyVariables = Field(..., description="Key variables extracted from the study.")
     quantitative_data: Optional[QuantitativeData] = Field(None, description="Quantitative data if available.")
@@ -137,7 +145,7 @@ def process_markdown_file(filepath: str):
 
         # Save the output JSON.
         with open(output_filepath, "w", encoding="utf-8") as outfile:
-            json.dump(extracted_data, outfile, indent=2)
+            json.dump(extracted_data, outfile, indent=2, ensure_ascii=False)
 
         logging.info(f"Processed and saved extraction for {filepath} to {output_filepath}")
 

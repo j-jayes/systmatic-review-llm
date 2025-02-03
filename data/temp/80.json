@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "authors": [
+      "Guy Standing"
+    ],
+    "title": "The notion of technological unemployment",
+    "year_of_publication": 1984,
+    "journal_or_publisher": "International Labour Review"
+  },
+  "relevance": {
+    "topic": "Technological unemployment",
+    "relevance": "The study explores the concept of technological unemployment, examining historical and theoretical perspectives on how technological change affects employment, making it highly relevant to the field of labor displacement due to technological change."
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "manufacturing",
+      "agriculture",
+      "service"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "19th to 20th century",
+    "time_period_start": 1800,
+    "time_period_end": 1980,
+    "geographical_focus": "Global"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "automation",
+      "mechanisation",
+      "technological change"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "technological unemployment",
+      "capital-labour substitution",
+      "international division of labour"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study discusses various forms of technological unemployment, including frictional, saturation, occupational, and international technological unemployment, and examines historical perspectives from classical and neo-classical economists."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "automation",
+      "mechanisation",
+      "information technology"
+    ],
+    "economic_conditions": "Depression and low economic growth in the 1970s and early 1980s",
+    "institutional_context": "Policies of OECD countries, international trade policies, and the role of multinational corporations"
+  },
+  "outcomes": {
+    "main_findings": "Technological change has complex effects on employment, leading to various forms of technological unemployment. The study highlights the need for a disaggregated approach to understand these effects.",
+    "conclusions": "Technological unemployment is a multifaceted phenomenon influenced by institutional and economic factors. It requires policies to stimulate demand and social innovations to mitigate its effects.",
+    "long_term_impacts": null
+  }
+}
