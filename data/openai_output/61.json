@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "authors": [
+      "MOSES S. MUSOKE"
+    ],
+    "title": "Mechanizing Cotton Production in the American South: The Tractor, 1915-1960",
+    "year_of_publication": 1976,
+    "journal_or_publisher": "Rutgers University"
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "cotton farmers",
+      "sharecroppers",
+      "laborers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on cotton farmers in the American South, particularly in Mississippi, South Carolina, and Texas.",
+    "time_period_covered": "1915-1960",
+    "geographical_focus": "American South"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "tractor adoption",
+      "mechanization",
+      "cotton picker adoption"
+    ],
+    "dependent_variables": {
+      "displaced": "Sharecroppers' farms declined by more than 90% between 1930 and 1959.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "mechanization of agriculture",
+      "displacement of labor",
+      "economic transformation"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the transformation of the cotton industry in the American South due to the adoption of tractors and other mechanized equipment, leading to significant changes in labor dynamics and agricultural practices."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "tractor",
+      "cotton picker"
+    ],
+    "economic_conditions": "The study covers a period of significant economic transformation in the American South, including the Great Depression and post-World War II economic changes.",
+    "institutional_context": "The study discusses the impact of southern social and economic institutions on the mechanization of cotton production."
+  },
+  "outcomes": {
+    "main_findings": "The adoption of tractors and mechanization in the cotton industry led to a significant decline in sharecropping and transformed the agricultural landscape of the American South.",
+    "conclusions": "Mechanization, particularly the adoption of tractors, played a crucial role in transforming the cotton industry, leading to increased efficiency and the decline of traditional labor practices like sharecropping.",
+    "long_term_impacts": "The mechanization of cotton production had profound social and economic consequences, including the decline of small farms and the concentration of cotton production in regions better suited to mechanization."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "authors": [
+      "Martin Brown",
+      "Peter Philips"
+    ],
+    "title": "Craft Labor and Mechanization in Nineteenth-Century American Canning",
+    "year_of_publication": 1986,
+    "journal_or_publisher": "Journal of Economic History"
+  },
+  "design": {
+    "study_type": "case study",
+    "methodology": "historical analysis",
+    "occupations": [
+      "cappers",
+      "processors"
+    ],
+    "occupation_types": [
+      "Main",
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1860-1896",
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "deskilling machinery",
+      "automative machinery"
+    ],
+    "dependent_variables": {
+      "displaced": "Craft workers, particularly cappers and processors, were displaced by mechanization.",
+      "unemployment_or_underemployment": "Mechanization led to reduced demand for skilled craft workers, potentially leading to unemployment or underemployment.",
+      "duration": null,
+      "wage_changes": "Wages for cappers decreased from $3.00 to $1.44 per day after mechanization."
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "deskilling",
+      "labor displacement",
+      "technological innovation"
+    ],
+    "text_fragments": [
+      "\"The Boss-Capper helped hasten the day of his own exit through his overbearing thoughtlessness.\"",
+      "\"Why Cap Longer by Old Methods when Cox's Capper Fills the Bill-It Saves Labor-It Saves Solder-It Never Tires-It Never Strikes.\""
+    ],
+    "narrative_descriptions": "The study describes how mechanization in the canning industry led to the displacement of skilled craft workers, particularly cappers and processors, by reducing their bargaining power and replacing them with machines."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "pressure cooker",
+      "capping machine",
+      "automatic labeler"
+    ],
+    "economic_conditions": "Period of growth in the canning industry with increasing demand for canned goods.",
+    "institutional_context": "Craft workers had significant bargaining power, which was challenged by the introduction of mechanization."
+  },
+  "outcomes": {
+    "main_findings": "Mechanization in the canning industry reduced the control of craft workers over production, leading to their displacement and wage reductions.",
+    "conclusions": "Innovative mechanization strategies in the canning industry were successful in reducing labor costs and increasing profitability by displacing skilled craft workers and increasing productivity.",
+    "long_term_impacts": "The mechanization led to a decline in craft union power and a shift towards a lower-wage workforce."
+  }
+}

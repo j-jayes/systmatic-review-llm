@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "authors": [
+      "J. L. van Zanden"
+    ],
+    "title": "The First Green Revolution: The Growth of Production and Productivity in European Agriculture, 1870-1914",
+    "year_of_publication": 1991,
+    "journal_or_publisher": "The Economic History Review"
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "agricultural laborers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1870-1914",
+    "geographical_focus": "Western Europe"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "use of chemical fertilizers",
+      "use of purchased feed stuffs"
+    ],
+    "dependent_variables": {
+      "displaced": "rapid decline of the number of agricultural labourers",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": "Real wages of agricultural labourers expressed in kilograms of wheat doubled in almost all European countries between 1870 and 1910"
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "mechanization",
+      "use of chemical fertilizers",
+      "use of purchased feed stuffs"
+    ],
+    "economic_conditions": "period of agricultural depression and rising nominal wages",
+    "institutional_context": "lack of institutional change in British agriculture, role of cooperatives in continental Europe"
+  },
+  "outcomes": {
+    "main_findings": "The study found that the rise of small family farms and the decline of large-scale farming based on wage work were significant trends. Innovations such as chemical fertilizers and purchased feed stuffs were land-saving and crucial for agricultural productivity growth.",
+    "conclusions": "The study concludes that the first 'green revolution' led to increased agricultural productivity and a shift towards small family farms in Western Europe, with significant regional differences in adoption and productivity.",
+    "long_term_impacts": null
+  }
+}

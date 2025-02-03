@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "Jeremy Atack",
+      "Robert A. Margo",
+      "Paul W. Rhode"
+    ],
+    "title": "De-skilling: Evidence from late nineteenth century American manufacturing",
+    "year_of_publication": 2023,
+    "journal_or_publisher": "Explorations in Economic History"
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "skilled artisans",
+      "semi-skilled operatives",
+      "common laborers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": 4398,
+    "sample_characteristics": "Data from the 13th Annual Report of the U.S. Commissioner of Labor, focusing on production operations in manufacturing.",
+    "time_period_covered": "late nineteenth century",
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "division of labor"
+    ],
+    "dependent_variables": {
+      "displaced": "De-skilling occurred in almost 36 percent of the production operations analyzed.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": {
+      "mean_value_of_de_skill": 0.357,
+      "mean_value_of_mechanized": 0.553,
+      "percent_explained_of_mean_value_of_de_skill": 16
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "de-skilling",
+      "mechanization",
+      "division of labor"
+    ],
+    "text_fragments": [
+      "The longstanding view in US economic history is that the shift in manufacturing in the nineteenth century from the hand labor artisan shop to the machine labor of the mechanized factory led to ' labor de-skilling ' -the substitution of less skilled workers, such as operatives, for skilled craft workers."
+    ],
+    "narrative_descriptions": "The study investigates the shift from hand labor to mechanized factory labor, focusing on the de-skilling of workers at the production operation level."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanization",
+      "use of inanimate power"
+    ],
+    "economic_conditions": "Period of industrial growth in the late nineteenth century.",
+    "institutional_context": "The study was conducted under the auspices of the U.S. Department of Labor, using data from the 13th Annual Report of the U.S. Commissioner of Labor."
+  },
+  "outcomes": {
+    "main_findings": "Mechanization induced de-skilling at the production operation level, but accounted for only 16 percent of the de-skilling on average.",
+    "conclusions": "While mechanization led to de-skilling, the division of labor accounted for a substantially larger fraction of the de-skilling observed.",
+    "long_term_impacts": null
+  }
+}
