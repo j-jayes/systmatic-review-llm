@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "authors": [
+      "Raelene Frances"
+    ],
+    "title": "The Politics of Work: Gender and Labour in Victoria, 1880-1939",
+    "year_of_publication": 1993,
+    "journal_or_publisher": "Cambridge University Press"
+  },
+  "relevance": {
+    "topic": "Gender and Labour in Victoria",
+    "relevance": "The study examines the impact of economic and technological changes on labor, focusing on gender divisions and the role of unions, employers, and the state in shaping work and wage levels.",
+    "technologies": [
+      "Sewing machines",
+      "Gas engines",
+      "Cutting machines",
+      "Linotype machines",
+      "Goodyear welter",
+      "Blake sole-sewer",
+      "Rex pulling-over system"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Clothing",
+      "Bootmaking",
+      "Printing"
+    ],
+    "occupation_types": [
+      "Main",
+      "Main",
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on gender and labor in Victoria, Australia, covering various industries and the impact of technological and economic changes.",
+    "time_period_covered": "1880-1939",
+    "time_period_start": 1880,
+    "time_period_end": 1939,
+    "geographical_focus": "Victoria, Australia"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Mechanization",
+      "Subdivision of labor",
+      "Unionization",
+      "State intervention"
+    ],
+    "dependent_variables": {
+      "displaced": "Significant displacement in bootmaking and tailoring due to mechanization and subdivision of labor.",
+      "unemployment_or_underemployment": "Increased unemployment and underemployment in the boot industry due to mechanization.",
+      "duration": "Prolonged unemployment during economic downturns, particularly in the 1890s.",
+      "wage_changes": "Wage reductions in tailoring and bootmaking; wage increases in some sectors due to union actions."
+    },
+    "moderators": [
+      "Gender",
+      "Union presence",
+      "Economic conditions"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Gender division of labor",
+      "Impact of mechanization",
+      "Union strategies",
+      "State intervention"
+    ],
+    "text_fragments": [
+      "'The advent of machines and women' in tailoring, 1874",
+      "'The weekly wage system has elevated the men'"
+    ],
+    "narrative_descriptions": "The study describes the historical context of labor changes in Victoria, focusing on gender roles, union activities, and the impact of technological advancements on labor processes."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Sewing machines",
+      "Gas engines",
+      "Cutting machines",
+      "Linotype machines",
+      "Goodyear welter",
+      "Blake sole-sewer",
+      "Rex pulling-over system"
+    ],
+    "economic_conditions": "Periods of economic growth and depression, particularly the 1890s depression and post-World War I recovery.",
+    "institutional_context": "Introduction of Wages Boards and federal arbitration; state intervention in labor markets."
+  },
+  "outcomes": {
+    "main_findings": "Technological advancements and economic changes significantly altered labor dynamics, with mechanization leading to displacement and changes in gender roles within industries.",
+    "conclusions": "The study concludes that technological and economic changes, along with union and state interventions, played crucial roles in shaping labor markets and gender divisions in Victoria.",
+    "long_term_impacts": "Long-term impacts include shifts in gender roles and labor practices, with ongoing challenges in achieving wage equality and job security."
+  }
+}

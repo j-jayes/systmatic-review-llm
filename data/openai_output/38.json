@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "authors": [
+      "Paul Phillips",
+      "Erin Phillips"
+    ],
+    "title": "Women and Work: Inequality in the Canadian Labour Market",
+    "year_of_publication": 2000,
+    "journal_or_publisher": "James Lorimer & Company Ltd., Publishers"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study discusses the impact of technological change, globalization, and economic restructuring on women's employment in Canada, highlighting labor displacement and changes in job opportunities.",
+    "technologies": [
+      "Microelectronics",
+      "Automation",
+      "Information Technology"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Clerical workers",
+      "Manufacturing workers",
+      "Service workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "Focus on Canadian women in various sectors including clerical, manufacturing, and service industries.",
+    "time_period_covered": "1980s to 1990s",
+    "time_period_start": 1980,
+    "time_period_end": 1999,
+    "geographical_focus": "Canada"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Technological change",
+      "Globalization",
+      "Economic restructuring"
+    ],
+    "dependent_variables": {
+      "displaced": "Significant job losses in manufacturing and clerical sectors, particularly affecting women.",
+      "unemployment_or_underemployment": "Increased unemployment and underemployment among women, especially in manufacturing and clerical jobs.",
+      "duration": "Not specified",
+      "wage_changes": "Wage stagnation and decline in certain sectors, with a narrowing gender wage gap due to falling male wages."
+    },
+    "moderators": [
+      "Gender",
+      "Industry type",
+      "Union presence"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of technological change on women's employment",
+      "Gender wage gap",
+      "Unionization and labor rights"
+    ],
+    "text_fragments": [
+      "The second negative portent for female equality was the emergence of the neo-conservative economic agenda in the 1980s — free trade, restructuring, deregulation, privatization, retrenchment in the public sector and in social programs, and the assault on unionism."
+    ],
+    "narrative_descriptions": "The study provides a detailed account of how technological change and economic policies have affected women's employment opportunities and conditions in Canada."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Microelectronics",
+      "Automation",
+      "Information Technology"
+    ],
+    "economic_conditions": "Period of economic restructuring and globalization, with significant impacts on labor markets.",
+    "institutional_context": "Neo-liberal policies, deregulation, and privatization affecting labor markets and social programs."
+  },
+  "outcomes": {
+    "main_findings": "Technological change and economic restructuring have led to significant job displacement for women, particularly in clerical and manufacturing sectors.",
+    "conclusions": "The study concludes that while technological advancements have created new opportunities, they have also exacerbated gender inequalities in the labor market.",
+    "long_term_impacts": "Potential long-term impacts include increased economic insecurity for women and a need for policy interventions to address gender disparities."
+  }
+}

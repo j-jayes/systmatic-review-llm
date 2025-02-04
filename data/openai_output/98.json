@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "authors": [
+      "H. Clare Pentland"
+    ],
+    "title": "Labour and Capital in Canada, 1650-1860",
+    "year_of_publication": 1981,
+    "journal_or_publisher": "James Lorimer & Company, Publishers"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in Canada from 1650 to 1860",
+    "relevance": "The study is relevant as it examines the transformation of labor markets and the impact of industrial capitalism on labor displacement in Canada.",
+    "technologies": [
+      "Industrial capitalism",
+      "Mechanization",
+      "Steam power"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "canoemen",
+      "traders",
+      "artisans",
+      "laborers",
+      "farmers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on various ethnic groups in Canada, including French-Canadians, English, Scottish, Irish, and Americans, and their roles in the labor market.",
+    "time_period_covered": "1650-1860",
+    "time_period_start": 1650,
+    "time_period_end": 1860,
+    "geographical_focus": "Canada"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "industrial capitalism",
+      "mechanization",
+      "steam power"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the displacement of traditional labor roles such as artisans and laborers due to industrial capitalism.",
+      "unemployment_or_underemployment": "The study highlights the underemployment of French-Canadians and the employment challenges faced by Irish immigrants.",
+      "duration": null,
+      "wage_changes": "The study notes the lowering of wages due to the influx of Irish laborers and the availability of cheap labor."
+    },
+    "moderators": [
+      "ethnic background",
+      "geographical location",
+      "economic conditions"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "labor displacement",
+      "industrial capitalism",
+      "ethnic tensions",
+      "labor market transformation"
+    ],
+    "text_fragments": [
+      "The tasks of this study are to delineate the personal organization of labor as it appeared in various Canadian employments up till about 1850, and to trace the transformation that produced a capitalistic labor market and a well-developed capitalistic economy, shortly after 1850."
+    ],
+    "narrative_descriptions": "The study provides a detailed account of the transformation of the Canadian labor market from a feudal system to a capitalist one, highlighting the roles of different ethnic groups and the impact of industrialization."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "industrial capitalism",
+      "mechanization",
+      "steam power"
+    ],
+    "economic_conditions": "The study covers a period of economic transformation in Canada, marked by the shift from a feudal to a capitalist economy.",
+    "institutional_context": "The study discusses the role of British colonial policies and the influence of European economic practices on Canadian labor markets."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that the transformation to industrial capitalism in Canada led to significant labor displacement and changes in the labor market, with ethnic tensions influencing employment outcomes.",
+    "conclusions": "The study concludes that industrial capitalism fundamentally altered the Canadian labor market, creating new employment opportunities while displacing traditional labor roles.",
+    "long_term_impacts": "The study suggests that the long-term impacts of this transformation included the establishment of a capitalist labor market and the integration of various ethnic groups into the industrial economy."
+  }
+}

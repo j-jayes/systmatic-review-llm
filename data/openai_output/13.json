@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "authors": [
+      "Kay Saunders"
+    ],
+    "title": "Indentured Labour in the British Empire 1834–1920",
+    "year_of_publication": 1984,
+    "journal_or_publisher": "Croom Helm Ltd"
+  },
+  "relevance": {
+    "topic": "Indentured Labour in the British Empire",
+    "relevance": "The study is relevant as it explores the historical context and impact of indentured labor, a form of labor displacement due to technological and economic changes in the British Empire.",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Indentured servants"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on indentured laborers in the British Empire, including regions like the West Indies, British Guiana, Trinidad, Mauritius, Fiji, Malaya, and Queensland.",
+    "time_period_covered": "1834-1920",
+    "time_period_start": 1834,
+    "time_period_end": 1920,
+    "geographical_focus": "British Empire"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Indentured labor system"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the displacement of laborers from their home countries to various colonies under indenture.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Labor displacement",
+      "Indentured servitude",
+      "Colonial economic policies",
+      "Racial and social dynamics"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study provides a detailed account of the processes and impacts of labor displacement through indentured servitude in the British Empire, highlighting the economic, social, and racial dynamics involved."
+  },
+  "historical_context": {
+    "technological_changes": [],
+    "economic_conditions": "The study covers a period of economic transition in the British Empire, where labor was needed for plantation economies following the abolition of slavery.",
+    "institutional_context": "The study discusses the policies and regulations governing indentured labor, including contracts and the role of colonial governments."
+  },
+  "outcomes": {
+    "main_findings": "Indentured labor was a crucial component in maintaining the plantation economies of the British Empire post-slavery, but it involved significant exploitation and control over laborers.",
+    "conclusions": "The study concludes that while indentured labor helped sustain colonial economies, it perpetuated systems of exploitation and racial hierarchy.",
+    "long_term_impacts": "The study suggests long-term impacts on the social and economic structures of the colonies, as well as on the descendants of indentured laborers."
+  }
+}

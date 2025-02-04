@@ -1,0 +1,67 @@
+authors,file,time_period_start,time_period_end,technologies
+MOSES S. MUSOKE,61.json,1915.0,1960.0,"Tractor, Cotton picker"
+Eric W. Sager,36.json,1871.0,1931.0,"household technology, electric vacuum cleaners, electric-powered washing machines"
+Fredrik Lilja,16.json,1865.0,1950.0,"Fencing, Windmills"
+Warren C. Whatley,57.json,1930.0,1940.0,"preharvest machinery, mechanical cotton picker"
+E. Wyndham Hulme,94.json,,,"textile industry, salt manufacturing, mining, glass making, soap making, alum production, dredging machines, furnaces, drainage engines, window glass, saltpeter, sulphur and oil production, Spanish leather, machine for grinding, iron tempering, window glass, Cendre de Namour"
+Adrian J. Randall,82.json,1790.0,1809.0,"Spinning jenny, Scribbling engine, Gig mill, Shearing frame"
+Jon Burrows,6.json,1907.0,1919.0,"Digital projectors, Celluloid projectors"
+Allison Rebecca Wente,83.json,1900.0,1930.0,"Player Piano, Phonograph"
+"Lars Fredrik Andersson, Magnus Lindmark",56.json,1850.0,2000.0,
+Michael J. Hiscox,17.json,1820.0,1990.0,"Factory production, Specialized equipment, Microelectronics, Robotics, Telecommunications, Chemical engineering, Micro-biology"
+Sabino Kornrich,40.json,1900.0,2000.0,"Household appliances, Ready-to-use products, Electricity, Gas"
+Terrell James Orr,60.json,1965.0,1985.0,"mechanical harvesting, limb shakers, water blasters, air blasters"
+J. L. van Zanden,76.json,1870.0,1914.0,"mechanization, chemical fertilizers, concentrated feeds"
+Mark Glick,102.json,1800.0,1970.0,"Taylorism, Fordism, Mechanization"
+Veronika Settele,47.json,1950.0,1980.0,Milking machines
+"Joseph Pierce, Mary Lawhon, Tyler McCreary",10.json,,,"automation, mechanization, robotics, computer science"
+"Randolph Barker, William H. Meyers, Cristina M. Crisostomo, Bart Duff",51.json,1966.0,1970.0,"High-yielding rice varieties, Mechanization, Irrigation pumps, Tractors, Mechanical threshers, Rotary weeders"
+"John Doe, Jane Smith",84.json,1800.0,1899.0,Automation
+John Pickard,26.json,1788.0,1936.0,Fencing
+John Pickard,88.json,1810.0,1880.0,"Fencing, Iron wire"
+Rowena Gray,67.json,1900.0,1940.0,Electrification
+"Jaakko Pehkonen, Tapani Neuvonen, Jari Ojala",30.json,1869.0,1914.0,Steam engine
+David Steigerwald,89.json,1950.0,1965.0,"Automation, Transfer machines, Servo-mechanisms"
+"Javier Silvestre, John E. Murray",50.json,1898.0,1907.0,Mechanical ventilation
+"Wayne A. Grove, Craig Heinicke",46.json,1949.0,1964.0,"mechanical cotton pickers, spindle pickers"
+"Sanna-Mari Hynninen, Jari Ojala, Jaakko Pehkonen",69.json,1869.0,1914.0,Steam engine
+Jim Carlopio,2.json,1200.0,1985.0,"Dependent machines, Semi-automatic machines, Automatic machines"
+R. M. Hartwell,86.json,1800.0,1850.0,"Industrial machinery, Steam power"
+Federico Ciliberto,90.json,1885.0,1910.0,"Ring spinning, Automatic looms"
+Warren C. Whatley,28.json,1850.0,1942.0,"mechanical cotton picker, tractor"
+Alf Hornborg,53.json,,,"Textile industry, Industrial Revolution"
+Sonya O. Rose,12.json,1800.0,1899.0,
+"James Feigenbaum, Daniel P. Gross",45.json,1910.0,1940.0,"mechanical switching technology, automation"
+D. J. Huppatz,65.json,1925.0,1939.0,"Vending machines, Automated retail technologies"
+José Alejandro Cifuentes Sarmiento,73.json,1910.0,1940.0,"industrial ovens, coal-fueled ovens"
+"Alan L. Olmstead, Paul W. Rhode",24.json,1910.0,1960.0,Tractor
+"Jeremy Atack, Robert A. Margo, Paul W. Rhode",49.json,1890.0,1899.0,"Mechanization, Automation"
+"Martin Brown, Peter Philips",48.json,1860.0,1890.0,"Deskilling machinery, Pressure cookers, Capping machines, Labeling machines"
+"Patrick Baur, Alastair Iles",64.json,1945.0,1980.0,"Mechanization, Agricultural machines, Robotics"
+Sarah Mills,33.json,1800.0,2018.0,"Power looms, Jacquard looms, Digital Jacquard looms, Thread Controller loom (TC1/TC2)"
+Tobias Karlsson,44.json,1921.0,1921.0,Cigar production machines
+"Darrell J. Glaser, Ahmed S. Rahman",52.json,1865.0,1911.0,"Steam propulsion, Ironcladding, Propellers, Rifled barrels, Exploding projectiles"
+Carol E. Heim,29.json,1923.0,1937.0,"Mass-production methods, Conveyor systems"
+Grace Palladino,91.json,1934.0,1970.0,"automation, automatic elevators"
+M. I. Finley,68.json,,,"gear, screw, rotary mill, water-mill, direct screw-press, glass-blowing, concrete, hollow bronze-casting, dioptra, torsion catapult, water-clock, water organ, automata"
+Minayo Nasiali,3.json,1950.0,1959.0,"Diesel ships, Steamships"
+E. J. Hobsbawm,8.json,1800.0,1950.0,
+Andrew J. Seltzer,75.json,1938.0,1942.0,Minimum wage legislation
+Evan P. Bennett,59.json,1900.0,1999.0,"mechanization, chemical use, H-2A guestworker program"
+Simon Schaffer,4.json,1810.0,1830.0,"Difference Engine, Analytical Engine"
+Guy Standing,80.json,1800.0,1980.0,"Automation, Information Technology, Micro-chips"
+"Martin Ivanov, Michael Kopsidis",14.json,1870.0,1910.0,"Textile manufacturing, Modern manufacturing"
+Craig Heinicke,43.json,1950.0,1960.0,mechanical cotton harvester
+Bruce Fehn,42.json,1956.0,1966.0,"machines, new meat processing technologies"
+Marco Vivarelli,15.json,,,"ICTs, process innovations, product innovations"
+Gloria Vollmers,54.json,1912.0,1935.0,Stringing machines
+Aleck Ostry,78.json,1950.0,1985.0,"Computerized production technology, Flexible production methods"
+Kendra Smith-Howard,97.json,1965.0,1980.0,Disposable diapers
+Jan van den Ende,81.json,1899.0,1965.0,"Punched-card machines, Digital computers"
+Tim Mason,39.json,1925.0,1940.0,"Mechanization, Rationalization"
+Beatrice Moring,19.json,1800.0,1900.0,
+George E. Barnett,58.json,1800.0,1925.0,"Linotype, Stone-planer, Semi-automatic bottle machine, Owens bottle machine"
+"Frédéric Baudron, Brian Sims, Scott Justice, David G. Kahan, Richard Rose, Saidi Mkomwa, Pascal Kaumbutho, John Sariah, Raymond Nazare, Girma Moges, Bruno Gérard",23.json,2000.0,2014.0,"Two-wheel tractors, Conservation agriculture"
+"Willis Peterson, Yoav Kislev",74.json,1930.0,1964.0,mechanical cotton harvester
+"David Autor, Caroline Chin, Anna Salomons, Bryan Seegmiller",62.json,1940.0,2018.0,"automation, augmentation, artificial intelligence, robotics, information and communications technologies"
+Jane Humphries,35.json,1700.0,1878.0,"Spinning jenny, Steam engine, Smelting of iron ore using coal"

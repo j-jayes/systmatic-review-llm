@@ -1,0 +1,33 @@
+---
+title: "Plots"
+format: html
+---
+
+
+```{r}
+library(tidyverse)
+
+df <- readxl::read_excel(here::here("analysis", "clustered_technologies.xlsx"))
+
+df_names <- read_csv(here::here("data", "temp", "extracted_technologies.csv")) %>%
+    select(authors, file)
+
+df <- df %>% inner_join(df_names, by = c("file" = "file"))
+
+df <- df %>%
+    mutate()
+
+df %>%
+    filter(str_detect(author_label, "Glick")) %>%
+    view() *
+    arrange(authors) %>%
+        count(author_label, sort = T)
+ggplot() +
+    geom_point(aes(x = time_period_start, y = author_label, color = cluster)) +
+    geom_point(aes(x = time_period_end, y = author_label, color = cluster)) +
+    scale_x_continuous(limits = c(1800, NA)) 
+
+```
+
+
+  geom_segment( aes(x=x, xend=x, y=value1, yend=value2), color="grey") +

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "authors": [
+      "T. Alderton",
+      "M. Bloor",
+      "E. Kahveci",
+      "T. Lane",
+      "H. Sampson",
+      "M. Thomas",
+      "N. Winchester",
+      "B. Wu",
+      "M. Zhao"
+    ],
+    "title": "The global seafarer: Living and working conditions in a globalized industry",
+    "year_of_publication": 2004,
+    "journal_or_publisher": "International Labour Office"
+  },
+  "relevance": {
+    "topic": "Living and working conditions of seafarers in a globalized industry",
+    "relevance": "The study is relevant as it examines the impact of globalization on the labor market for seafarers, including the displacement of traditional labor markets and the emergence of a global labor market.",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "Case study and historical analysis",
+    "occupations": [
+      "Seafarers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Various nationalities of seafarers, including those from developing and developed countries",
+    "time_period_covered": "Late 20th century to early 21st century",
+    "time_period_start": 1970,
+    "time_period_end": 2000,
+    "geographical_focus": "Global"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Globalization",
+      "Flagging out",
+      "Crew nationality"
+    ],
+    "dependent_variables": {
+      "displaced": "Not specified",
+      "unemployment_or_underemployment": "Not specified",
+      "duration": "Not specified",
+      "wage_changes": "Wage disparities among different nationalities and ranks"
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of globalization on seafarers",
+      "Mixed nationality crews",
+      "Labor market dynamics"
+    ],
+    "text_fragments": [
+      "\"A sailor could feel himself separated from the world and at the same time physically crushed by the presence of his comrades.\"",
+      "\"The industry's increasingly desperate preoccupation with crew costs, which led to the formation of a global labour market, was a reflection of trading conditions.\""
+    ],
+    "narrative_descriptions": "The study describes the transformation of the seafaring labor market due to globalization, highlighting the shift from national to global labor markets and the implications for seafarers' working conditions."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Containerization",
+      "Satellite communications"
+    ],
+    "economic_conditions": "Globalization and economic restructuring in the shipping industry",
+    "institutional_context": "Changes in flag state regulations and the rise of open registries"
+  },
+  "outcomes": {
+    "main_findings": "The study finds that globalization has led to the emergence of a global labor market for seafarers, characterized by mixed nationality crews and significant wage disparities.",
+    "conclusions": "The study concludes that the global labor market for seafarers has resulted in both opportunities and challenges, including increased competition and regulatory challenges.",
+    "long_term_impacts": "The study discusses the potential long-term impacts on seafarers' communities and the need for better regulatory frameworks."
+  }
+}

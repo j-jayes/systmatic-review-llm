@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "authors": [
+      "Thomas Ellison"
+    ],
+    "title": "The Cotton Trade of Great Britain",
+    "year_of_publication": 1886,
+    "journal_or_publisher": "Effingham Wilson, Royal Exchange, London"
+  },
+  "relevance": {
+    "topic": "The historical development of the cotton trade in Great Britain and its impact on labor and industry.",
+    "relevance": "The study provides a detailed historical account of the cotton trade in Great Britain, highlighting the technological advancements and their impact on labor and industry, making it highly relevant to the field of labor displacement due to technological change.",
+    "technologies": [
+      "Water-Frame",
+      "Mule",
+      "Power-Loom",
+      "Saw-Gin"
+    ]
+  },
+  "design": {
+    "study_type": "historical",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Cotton Spinners",
+      "Cotton Weavers",
+      "Cotton Brokers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on the cotton industry in Great Britain, particularly in Lancashire and Liverpool.",
+    "time_period_covered": "18th to 19th century",
+    "time_period_start": 1700,
+    "time_period_end": 1885,
+    "geographical_focus": "Great Britain"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Invention of the Water-Frame",
+      "Invention of the Mule",
+      "Invention of the Power-Loom",
+      "Invention of the Saw-Gin"
+    ],
+    "dependent_variables": {
+      "displaced": "Significant displacement of hand spinners and weavers due to mechanization.",
+      "unemployment_or_underemployment": "Increased unemployment among traditional weavers and spinners.",
+      "duration": "Long-term displacement as mechanization became widespread.",
+      "wage_changes": "Wages for skilled machine operators were higher than for traditional hand workers."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Technological advancement in cotton spinning and weaving",
+      "Impact of mechanization on labor",
+      "Economic growth and industrialization",
+      "Trade and market expansion"
+    ],
+    "text_fragments": [
+      "The invention of the Water-Frame, the Mule, and the Power-Loom revolutionized the cotton industry.",
+      "The transition from domestic to factory systems led to significant labor displacement."
+    ],
+    "narrative_descriptions": "The study describes the transformation of the cotton industry from a domestic to a factory-based system, highlighting the role of technological innovations in driving economic and industrial growth."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Water-Frame",
+      "Mule",
+      "Power-Loom",
+      "Saw-Gin"
+    ],
+    "economic_conditions": "Period of rapid industrial growth and expansion in the cotton industry.",
+    "institutional_context": "The study discusses the role of trade policies and market regulations in shaping the cotton industry."
+  },
+  "outcomes": {
+    "main_findings": "The introduction of mechanized spinning and weaving technologies significantly increased production efficiency but also led to widespread labor displacement.",
+    "conclusions": "Technological advancements in the cotton industry were pivotal in transforming Great Britain's economy but had profound impacts on traditional labor markets.",
+    "long_term_impacts": "The shift to mechanized production created new industrial labor opportunities but also led to the decline of traditional handcraft skills."
+  }
+}

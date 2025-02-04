@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "authors": [
+      "David Edgerton"
+    ],
+    "title": "The Shock of the Old: Technology and Global History Since 1900",
+    "year_of_publication": 2007,
+    "journal_or_publisher": "Oxford University Press"
+  },
+  "relevance": {
+    "topic": "Technology and Global History",
+    "relevance": "The study discusses the impact of technology on global history, including labor displacement due to technological changes.",
+    "technologies": [
+      "Steam power",
+      "Nuclear power",
+      "Internet",
+      "Contraceptive pill",
+      "Bicycles",
+      "Motor cars",
+      "Aeroplanes",
+      "Wooden furniture",
+      "Cotton textiles",
+      "Radio",
+      "Television",
+      "Cinema",
+      "Electronic computer",
+      "Nuclear power stations",
+      "Bombers",
+      "Ocean-going passenger ships",
+      "Organic food",
+      "Classical music instruments",
+      "Rickshaw",
+      "Condom",
+      "Horse",
+      "Sewing machine",
+      "Spinning wheel",
+      "Haber-Bosch process",
+      "Hydrogenation of coal",
+      "Cemented-carbide tools",
+      "Bicycles",
+      "Corrugated iron",
+      "Cement",
+      "Asbestos",
+      "DDT",
+      "Chain saw",
+      "Refrigerator"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Engineers",
+      "Technicians",
+      "Laborers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1900-2000",
+    "time_period_start": 1900,
+    "time_period_end": 2000,
+    "geographical_focus": "Global"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Technological advancements"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Technological change",
+      "Historical impact",
+      "Globalization",
+      "Innovation",
+      "Use-based history"
+    ],
+    "text_fragments": [
+      "\"The world is indeed changing radically, but this way of thinking is not among them.\"",
+      "\"The new history will be surprisingly different.\""
+    ],
+    "narrative_descriptions": "The study provides a narrative on how technology has been used throughout history, emphasizing the importance of use-based history over innovation-centric views."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Steam power",
+      "Nuclear power",
+      "Internet",
+      "Contraceptive pill",
+      "Bicycles",
+      "Motor cars",
+      "Aeroplanes",
+      "Wooden furniture",
+      "Cotton textiles",
+      "Radio",
+      "Television",
+      "Cinema",
+      "Electronic computer",
+      "Nuclear power stations",
+      "Bombers",
+      "Ocean-going passenger ships",
+      "Organic food",
+      "Classical music instruments",
+      "Rickshaw",
+      "Condom",
+      "Horse",
+      "Sewing machine",
+      "Spinning wheel",
+      "Haber-Bosch process",
+      "Hydrogenation of coal",
+      "Cemented-carbide tools",
+      "Bicycles",
+      "Corrugated iron",
+      "Cement",
+      "Asbestos",
+      "DDT",
+      "Chain saw",
+      "Refrigerator"
+    ],
+    "economic_conditions": "Varied across the 20th century, including periods of growth and recession.",
+    "institutional_context": "The study discusses the role of national policies and global interactions in shaping technological adoption and use."
+  },
+  "outcomes": {
+    "main_findings": "The study argues for a use-based history of technology, emphasizing the importance of how technologies are used rather than when they are invented.",
+    "conclusions": "Technological history should focus on the use and impact of technologies rather than solely on innovation and invention.",
+    "long_term_impacts": "The study suggests that understanding the use of technology can provide insights into long-term societal changes."
+  }
+}

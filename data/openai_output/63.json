@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "Sean T. Cadigan"
+    ],
+    "title": "Newfoundland and Labrador: A History",
+    "year_of_publication": 2009,
+    "journal_or_publisher": "University of Toronto Press"
+  },
+  "relevance": {
+    "topic": "History of Newfoundland and Labrador",
+    "relevance": "The study provides a comprehensive history of Newfoundland and Labrador, including the impact of natural resources and economic changes on the region's development. It touches on the effects of industrialization and economic policies, which are relevant to understanding labor displacement due to technological and economic changes.",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "fishing",
+      "sealing",
+      "mining",
+      "forestry"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study covers a broad historical period and includes various demographic groups in Newfoundland and Labrador.",
+    "time_period_covered": "Prehistoric times to the present (2009)",
+    "time_period_start": null,
+    "time_period_end": 2009,
+    "geographical_focus": "Newfoundland and Labrador"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "economic policies",
+      "industrialization",
+      "resource management"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "economic development",
+      "resource management",
+      "industrialization",
+      "colonial policies"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study provides a detailed narrative of the historical development of Newfoundland and Labrador, focusing on the impact of natural resources and economic policies on the region's social and economic structures."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "railway development",
+      "mining",
+      "forestry",
+      "fishing technologies"
+    ],
+    "economic_conditions": "The study covers various economic conditions, including periods of economic growth and depression, influenced by resource management and industrial policies.",
+    "institutional_context": "The study discusses colonial and post-colonial governance, economic policies, and their impact on Newfoundland and Labrador's development."
+  },
+  "outcomes": {
+    "main_findings": "The history of Newfoundland and Labrador is marked by its reliance on natural resources, which shaped its economic and social development. Industrialization and economic policies had significant impacts on the region's labor market and economic structures.",
+    "conclusions": "Newfoundland and Labrador's history is deeply intertwined with its natural resources, and economic policies have played a crucial role in shaping its development. The study highlights the challenges and opportunities faced by the region in balancing resource management and economic growth.",
+    "long_term_impacts": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "authors": [
+      "P. Gaskell"
+    ],
+    "title": "Manufacturing Population of England: Its Moral, Social, and Physical Conditions, and the Changes Which Have Arisen from the Use of Steam Machinery; with an Examination of Enfant Labour",
+    "year_of_publication": 1833,
+    "journal_or_publisher": "Baldwin and Cradock"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the impact of steam machinery on the manufacturing population of England, highlighting the social, moral, and economic changes, including labor displacement.",
+    "technologies": [
+      "Steam machinery"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "weavers",
+      "spinners",
+      "factory workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1760-1833",
+    "time_period_start": 1760,
+    "time_period_end": 1833,
+    "geographical_focus": "England"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "use of steam machinery"
+    ],
+    "dependent_variables": {
+      "displaced": "The introduction of steam machinery led to the displacement of hand-loom weavers and spinners.",
+      "unemployment_or_underemployment": "Many displaced workers faced unemployment or had to accept lower wages in factories.",
+      "duration": null,
+      "wage_changes": "Wages for hand-loom weavers decreased significantly as steam machinery became prevalent."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "displacement of traditional labor",
+      "social and moral decline",
+      "impact of industrialization on family structures"
+    ],
+    "text_fragments": [
+      "The introduction of steam machinery has led to the displacement of hand-loom weavers and spinners.",
+      "The social and moral conditions of the manufacturing population have deteriorated due to industrialization."
+    ],
+    "narrative_descriptions": "The study provides a detailed account of the social, moral, and economic impacts of steam machinery on the manufacturing population, highlighting the displacement of traditional labor and the resulting social issues."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "steam machinery"
+    ],
+    "economic_conditions": "Period of industrial growth and expansion in England.",
+    "institutional_context": "Lack of effective labor regulations and social safety nets during the industrial revolution."
+  },
+  "outcomes": {
+    "main_findings": "The use of steam machinery significantly altered the manufacturing landscape, leading to the displacement of traditional labor and contributing to social and moral decline.",
+    "conclusions": "The study concludes that while steam machinery increased production, it also led to significant social and economic challenges, including labor displacement and the breakdown of traditional family structures.",
+    "long_term_impacts": "The long-term impacts include the erosion of traditional family roles and community structures, leading to social instability."
+  }
+}

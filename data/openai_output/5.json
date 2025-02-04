@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "authors": [
+      "Simon Trezise",
+      "Ruth Barton"
+    ],
+    "title": "Music and Sound in Silent Film: From the Nickelodeon to The Artist",
+    "year_of_publication": 2019,
+    "journal_or_publisher": "Routledge"
+  },
+  "relevance": {
+    "topic": "The role of music and sound in silent films",
+    "relevance": "The study explores the historical context and impact of music and sound in silent films, which is relevant to understanding the broader implications of technological changes in the film industry and their effects on labor, particularly musicians.",
+    "technologies": [
+      "Mechanical instruments",
+      "Phonographs",
+      "Player pianos"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Musicians",
+      "Pianists",
+      "Orchestra conductors"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on musicians in the silent film era, particularly in the United States and Europe.",
+    "time_period_covered": "1895-1930",
+    "time_period_start": 1895,
+    "time_period_end": 1930,
+    "geographical_focus": "Global, with a focus on the United States and Europe"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Introduction of mechanical instruments",
+      "Use of phonographs",
+      "Player pianos"
+    ],
+    "dependent_variables": {
+      "displaced": "Musicians displaced by mechanical instruments and phonographs.",
+      "unemployment_or_underemployment": "Increased unemployment among live musicians due to mechanization.",
+      "duration": null,
+      "wage_changes": "Reduction in wages for musicians as mechanical instruments replaced live performances."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Displacement of musicians by technology",
+      "Cultural impact of music in silent films",
+      "Economic implications of mechanization in the film industry"
+    ],
+    "text_fragments": [
+      "\"The taste for maudlin sentiment, worthless melodrama, unhealthy sensation, is being strengthened and confirmed . . . there is little truth of nature, no psychology, no characterisation, in the typical film-fiction of the day, which drugs and stultifies the seniors, and vitiates the juniors by scenes and ideas unfitted to their years.\""
+    ],
+    "narrative_descriptions": "The study describes the transition from live music to mechanical accompaniment in silent films, highlighting the cultural and economic impacts on musicians."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Mechanical instruments",
+      "Phonographs",
+      "Player pianos"
+    ],
+    "economic_conditions": "Post-World War I economic conditions, with a focus on the entertainment industry's adaptation to new technologies.",
+    "institutional_context": "The rise of the film industry and the decline of live performance venues, leading to changes in employment for musicians."
+  },
+  "outcomes": {
+    "main_findings": "The introduction of mechanical instruments and phonographs in silent films led to the displacement of live musicians, altering the cultural landscape of the film industry.",
+    "conclusions": "Technological advancements in the film industry significantly impacted musicians, leading to job displacement and changes in the nature of musical accompaniment in films.",
+    "long_term_impacts": "The mechanization of music in films contributed to a broader trend of technological displacement in the arts, affecting the livelihoods of musicians and altering cultural practices."
+  }
+}
