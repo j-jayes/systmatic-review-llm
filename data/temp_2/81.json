@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "authors": [
+      "Jan van den Ende"
+    ],
+    "title": "The Number Factory: Punched-Card Machines at the Dutch Central Bureau of Statistics",
+    "year_of_publication": 1994,
+    "journal_or_publisher": "IEEE Annals of the History of Computing"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the impact of punched-card machines on labor organization and displacement at the Dutch Central Bureau of Statistics, highlighting the transition from manual to mechanized data processing.",
+    "technologies": [
+      "Punched-card machines",
+      "Digital computers"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Sorting and counting clerks",
+      "Keypunch operators",
+      "Machine operators"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on the Dutch Central Bureau of Statistics and its employees from 1899 to the mid-1960s.",
+    "time_period_covered": "1899 to mid-1960s",
+    "time_period_start": 1899,
+    "time_period_end": 1965,
+    "geographical_focus": "Netherlands"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Punched-card machines",
+      "Digital computers"
+    ],
+    "dependent_variables": {
+      "displaced": "The transition from manual counting to punched-card machines displaced manual sorting and counting clerks.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Mechanization of data processing",
+      "Labor displacement",
+      "Technological adoption"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the transition from manual data processing to punched-card machines and later digital computers, focusing on changes in labor organization and the impact on workers."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Punched-card machines",
+      "Digital computers"
+    ],
+    "economic_conditions": "The study covers periods of economic growth, the 1930s economic crisis, and post-World War II recovery.",
+    "institutional_context": "The DCBS was an independent government office responsible for social statistics, influenced by government policies and labor market conditions."
+  },
+  "outcomes": {
+    "main_findings": "The adoption of punched-card machines at the DCBS led to significant changes in labor organization, with a shift from manual to mechanized data processing, eventually paving the way for digital computers.",
+    "conclusions": "Technological advancements in data processing at the DCBS were driven by increasing statistical demands and the need for efficiency, rather than solely by technological improvements.",
+    "long_term_impacts": null
+  }
+}

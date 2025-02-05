@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "authors": [
+      "Guy Standing"
+    ],
+    "title": "The notion of technological unemployment",
+    "year_of_publication": 1984,
+    "journal_or_publisher": "International Labour Review"
+  },
+  "relevance": {
+    "topic": "Technological Unemployment",
+    "relevance": "The study explores the concept of technological unemployment, examining historical and theoretical perspectives on how technological change affects employment, making it highly relevant to the field of labor displacement due to technological change.",
+    "technologies": [
+      "Automation",
+      "Information Technology",
+      "Micro-chips"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Manufacturing",
+      "Agriculture",
+      "Service"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "19th to 20th century",
+    "time_period_start": 1800,
+    "time_period_end": 1980,
+    "geographical_focus": "Global"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Automation",
+      "Information Technology",
+      "Micro-chips"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses various forms of technological unemployment, including frictional, saturation, occupational, and international technological unemployment.",
+      "unemployment_or_underemployment": "The study examines how technological change can lead to different forms of unemployment, including cyclical and structural unemployment.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Technological unemployment",
+      "Cyclical unemployment",
+      "Structural unemployment",
+      "International division of labor"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study provides a detailed narrative on the historical and theoretical perspectives of technological unemployment, discussing how technological change has historically influenced labor markets and employment patterns."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Automation",
+      "Information Technology",
+      "Micro-chips"
+    ],
+    "economic_conditions": "The study discusses economic conditions during depressions and periods of economic growth, highlighting how technological change has been perceived as both a cause of and a solution to economic malaise.",
+    "institutional_context": "The study touches on labor policies and the role of unions in influencing employment outcomes in the context of technological change."
+  },
+  "outcomes": {
+    "main_findings": "The study identifies various forms of technological unemployment and discusses the complexities in defining and measuring technological unemployment.",
+    "conclusions": "Technological unemployment is a complex phenomenon influenced by various factors, including economic conditions, labor policies, and technological advancements. It is essential to take a disaggregated approach to understand its impact on employment.",
+    "long_term_impacts": "The study discusses the long-term impacts of technological change on employment patterns, including the shift from manufacturing to service employment and the potential for jobless growth."
+  }
+}

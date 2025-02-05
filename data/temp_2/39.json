@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "authors": [
+      "Tim Mason"
+    ],
+    "title": "Women in Germany, 1925-1940: Family, Welfare and Work. Part I",
+    "year_of_publication": 1976,
+    "journal_or_publisher": "Oxford University Press"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study discusses the impact of Nazi policies on women's employment in Germany, including the effects of technological changes in industry that led to increased demand for unskilled female labor.",
+    "technologies": [
+      "Mechanization",
+      "Rationalization"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Family assistants",
+      "Agricultural laborers",
+      "Industrial workers",
+      "White-collar workers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on women in Germany, particularly during the Nazi regime, covering various social classes and occupations.",
+    "time_period_covered": "1925-1940",
+    "time_period_start": 1925,
+    "time_period_end": 1940,
+    "geographical_focus": "Germany"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Mechanization",
+      "Rationalization"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the displacement of women from certain jobs due to Nazi policies and economic conditions.",
+      "unemployment_or_underemployment": "Many women were pushed out of the workforce or into less secure jobs.",
+      "duration": null,
+      "wage_changes": "Wages for women were generally lower than for men, and many women worked in low-paid, unskilled jobs."
+    },
+    "moderators": [
+      "Social class",
+      "Marital status",
+      "Economic conditions"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of Nazi policies on women's employment",
+      "Role of women in the Nazi economy",
+      "Social and economic pressures on women"
+    ],
+    "text_fragments": [
+      "'The socially useful labour of almost 13 million adult women was confined to caring for present and future members of the active labour force.'",
+      "'The regime's policies towards women were in fact policies towards the family, policies towards the whole population.'"
+    ],
+    "narrative_descriptions": "The study provides a detailed account of the social and economic conditions affecting women in Germany during the Nazi regime, highlighting the contradictions in Nazi policies towards women and the family."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Mechanization",
+      "Rationalization"
+    ],
+    "economic_conditions": "The study covers the period of the Great Depression and the lead-up to World War II, highlighting economic instability and labor shortages.",
+    "institutional_context": "Nazi policies were highly repressive towards women, emphasizing traditional roles and limiting women's participation in the workforce."
+  },
+  "outcomes": {
+    "main_findings": "Nazi policies had a significant impact on women's employment, pushing many out of the workforce or into less secure jobs, while also increasing the demand for unskilled female labor in certain industries.",
+    "conclusions": "The study concludes that Nazi policies were both repressive and contradictory, as they sought to limit women's roles while also relying on their labor for economic and military purposes.",
+    "long_term_impacts": "The study suggests that the Nazi regime's policies had lasting effects on the social and economic roles of women in Germany."
+  }
+}

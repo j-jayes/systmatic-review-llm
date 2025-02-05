@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "authors": [
+      "Jim Carlopio"
+    ],
+    "title": "A history of social psychological reactions to new technology",
+    "year_of_publication": 1985,
+    "journal_or_publisher": "Industrial Technology Institute"
+  },
+  "relevance": {
+    "topic": "Social psychological reactions to new technology",
+    "relevance": "The study examines historical reactions to technological changes, focusing on labor displacement and the social psychological impacts of mechanization and automation.",
+    "technologies": [
+      "Dependent machines",
+      "Semi-automatic machines",
+      "Automatic machines"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Textile workers",
+      "Machine operators"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1200-1985",
+    "time_period_start": 1200,
+    "time_period_end": 1985,
+    "geographical_focus": "Europe and America"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Mechanization",
+      "Automation"
+    ],
+    "dependent_variables": {
+      "displaced": "Many workers displaced from their jobs due to labor-replacing technologies.",
+      "unemployment_or_underemployment": "Workers displaced by automation face unemployment or underemployment.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Labor displacement",
+      "Exploitation",
+      "Job redesign",
+      "Unionism"
+    ],
+    "text_fragments": [
+      "'The second problem, job displacement, has been too long ignored by Europe and America.'",
+      "'Management needs to see that it is wiser to devise production systems that make use of the flexibility and intelligence of people.'"
+    ],
+    "narrative_descriptions": "The study provides a historical narrative of workers' reactions to technological changes, highlighting phases of labor-saving, labor-enslaving, and labor-replacing technologies."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Dependent machines",
+      "Semi-automatic machines",
+      "Automatic machines"
+    ],
+    "economic_conditions": "Industrial Revolution and subsequent technological advancements.",
+    "institutional_context": "Unionism and labor policies addressing job displacement and working conditions."
+  },
+  "outcomes": {
+    "main_findings": "Workers historically react against exploitation and job displacement due to technological changes.",
+    "conclusions": "Technological advancements have historically led to labor displacement, and current practices need to address this issue more effectively.",
+    "long_term_impacts": "Potential long-term impacts include increased unemployment and societal challenges if job displacement is not addressed."
+  }
+}

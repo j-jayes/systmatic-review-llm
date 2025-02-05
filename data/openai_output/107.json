@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "authors": [
+      "Bruno Caprettini",
+      "Hans-Joachim Voth"
+    ],
+    "title": "Rage against the Machines: Labor-Saving Technology and Unrest in Industrializing England",
+    "year_of_publication": 2020,
+    "journal_or_publisher": "American Economic Review: Insights"
+  },
+  "relevance": {
+    "topic": "Labor-Saving Technology and Social Unrest",
+    "relevance": "The study examines the impact of labor-saving technology, specifically threshing machines, on social unrest during the Swing Riots in 1830s England, providing insights into the relationship between technological change and labor displacement.",
+    "technologies": [
+      "Threshing machines"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "agricultural laborers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": 9674,
+    "sample_characteristics": "Parishes in England during the 1830s, focusing on agricultural workers and the adoption of threshing machines.",
+    "time_period_covered": "1800-1832",
+    "time_period_start": 1800,
+    "time_period_end": 1832,
+    "geographical_focus": "England"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Threshing machines"
+    ],
+    "dependent_variables": {
+      "displaced": "Increased probability of riots in parishes with threshing machines",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Winter unemployment was higher in areas with threshing machines",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Downward pressure on wages due to labor-saving technology",
+      "wage_changes_percent": null
+    },
+    "moderators": [
+      "Enclosure of common land",
+      "Proximity to manufacturing centers"
+    ]
+  },
+  "quantitative_data": {
+    "effect_sizes": [
+      0.389,
+      0.353,
+      6.361,
+      6.557
+    ],
+    "statistical_measures": {
+      "OLS_coefficients": 0.389,
+      "IV_coefficients": 6.361,
+      "F_statistic": 17.7
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Labor-saving technology and social unrest",
+      "Impact of enclosures on labor displacement"
+    ],
+    "text_fragments": [
+      "Where alternative employment opportunities softened the blow of new technology there was less rioting.",
+      "In parishes without threshing machines, the riot probability was 13.6 percent; in places where they had spread, it was twice as high 26.1 percent."
+    ],
+    "narrative_descriptions": "The study describes how the adoption of threshing machines, a labor-saving technology, led to increased social unrest in 1830s England, particularly in areas where enclosures had impoverished workers."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Threshing machines"
+    ],
+    "economic_conditions": "Period of industrialization with significant technological change and job displacement.",
+    "institutional_context": "Enclosures and Poor Laws affected labor conditions and contributed to unrest."
+  },
+  "outcomes": {
+    "main_findings": "Threshing machines significantly increased the likelihood of riots during the Swing Riots in 1830s England.",
+    "conclusions": "Labor-saving technology can lead to social unrest, especially in areas with limited alternative employment opportunities and where enclosures have reduced workers' income.",
+    "long_term_impacts": "The study suggests that rapid technological change can lead to political instability and violence, highlighting the importance of considering the distributional effects of new technology."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "Potential biases due to unobserved variables and measurement error in technology adoption.",
+    "coherence": "The data consistently supports the conclusion that threshing machines contributed to unrest.",
+    "adequacy_of_data": "Rich data from multiple sources, including newspapers and agricultural surveys, supports the findings.",
+    "relevance": "Highly relevant to understanding the impact of technological change on labor displacement and social unrest.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
+  }
+}

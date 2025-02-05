@@ -9,50 +9,25 @@
   },
   "relevance": {
     "topic": "Technology and Global History",
-    "relevance": "The study discusses the impact of technology on global history, including labor displacement due to technological changes.",
+    "relevance": "The study discusses the historical impact of technology on global history, including labor displacement due to technological change.",
     "technologies": [
       "Steam power",
       "Nuclear power",
       "Internet",
+      "Automobiles",
+      "Aviation",
       "Contraceptive pill",
-      "Bicycles",
-      "Motor cars",
-      "Aeroplanes",
-      "Wooden furniture",
-      "Cotton textiles",
-      "Radio",
+      "Computers",
       "Television",
-      "Cinema",
-      "Electronic computer",
-      "Nuclear power stations",
-      "Bombers",
-      "Ocean-going passenger ships",
-      "Organic food",
-      "Classical music instruments",
-      "Rickshaw",
-      "Condom",
-      "Horse",
-      "Sewing machine",
-      "Spinning wheel",
-      "Haber-Bosch process",
-      "Hydrogenation of coal",
-      "Cemented-carbide tools",
-      "Bicycles",
-      "Corrugated iron",
-      "Cement",
-      "Asbestos",
-      "DDT",
-      "Chain saw",
-      "Refrigerator"
+      "Radio",
+      "Electricity"
     ]
   },
   "design": {
     "study_type": "qualitative",
     "methodology": "historical analysis",
     "occupations": [
-      "Engineers",
-      "Technicians",
-      "Laborers"
+      "General labor"
     ],
     "occupation_types": [
       "Main"
@@ -68,73 +43,59 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Technological advancements"
+      "Technological advancements such as steam power, nuclear power, internet, automobiles, aviation, contraceptive pill, computers, television, radio, electricity"
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Technological change",
-      "Historical impact",
-      "Globalization",
-      "Innovation",
-      "Use-based history"
+      "The persistence of old technologies",
+      "The impact of technology on global history",
+      "The role of technology in economic and social change"
     ],
     "text_fragments": [
-      "\"The world is indeed changing radically, but this way of thinking is not among them.\"",
-      "\"The new history will be surprisingly different.\""
+      "\"The world consumed more coal in 2000 than in 1950 or 1900.\"",
+      "\"The horse made a greater contribution to Nazi conquest than the V2.\""
     ],
-    "narrative_descriptions": "The study provides a narrative on how technology has been used throughout history, emphasizing the importance of use-based history over innovation-centric views."
+    "narrative_descriptions": "The book provides a narrative on how old technologies have persisted and continued to play significant roles in global history, challenging the notion that technological progress is solely about new inventions."
   },
   "historical_context": {
     "technological_changes": [
       "Steam power",
       "Nuclear power",
       "Internet",
+      "Automobiles",
+      "Aviation",
       "Contraceptive pill",
-      "Bicycles",
-      "Motor cars",
-      "Aeroplanes",
-      "Wooden furniture",
-      "Cotton textiles",
-      "Radio",
+      "Computers",
       "Television",
-      "Cinema",
-      "Electronic computer",
-      "Nuclear power stations",
-      "Bombers",
-      "Ocean-going passenger ships",
-      "Organic food",
-      "Classical music instruments",
-      "Rickshaw",
-      "Condom",
-      "Horse",
-      "Sewing machine",
-      "Spinning wheel",
-      "Haber-Bosch process",
-      "Hydrogenation of coal",
-      "Cemented-carbide tools",
-      "Bicycles",
-      "Corrugated iron",
-      "Cement",
-      "Asbestos",
-      "DDT",
-      "Chain saw",
-      "Refrigerator"
+      "Radio",
+      "Electricity"
     ],
-    "economic_conditions": "Varied across the 20th century, including periods of growth and recession.",
-    "institutional_context": "The study discusses the role of national policies and global interactions in shaping technological adoption and use."
+    "economic_conditions": "Periods of growth and technological advancement throughout the 20th century.",
+    "institutional_context": "The study discusses the role of national policies and global interactions in shaping technological adoption and impact."
   },
   "outcomes": {
-    "main_findings": "The study argues for a use-based history of technology, emphasizing the importance of how technologies are used rather than when they are invented.",
-    "conclusions": "Technological history should focus on the use and impact of technologies rather than solely on innovation and invention.",
-    "long_term_impacts": "The study suggests that understanding the use of technology can provide insights into long-term societal changes."
+    "main_findings": "The study finds that old technologies have persisted and continued to play significant roles in global history, challenging the notion that technological progress is solely about new inventions.",
+    "conclusions": "Technological history should consider the continued use and impact of older technologies, not just new innovations.",
+    "long_term_impacts": "The study suggests that the persistence of old technologies has long-term impacts on economic and social structures."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is qualitative and may not account for all quantitative impacts of technological change.",
+    "coherence": "The study provides a coherent narrative on the persistence of old technologies.",
+    "adequacy_of_data": "The study uses historical analysis to provide a rich narrative, but lacks quantitative data.",
+    "relevance": "The study is relevant to understanding the historical impact of technology on global history.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

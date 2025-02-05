@@ -8,52 +8,37 @@
     "journal_or_publisher": "The Law Quarterly Review"
   },
   "relevance": {
-    "topic": "History of the English Patent System",
-    "relevance": "The study provides a historical analysis of the English patent system, detailing how technological advancements and the introduction of new industries were managed through patents, which is relevant to understanding labor displacement due to technological change.",
+    "topic": "History of the Patent System",
+    "relevance": "The study is relevant as it discusses the historical development of the patent system, which indirectly relates to labor displacement due to technological change by examining how patents facilitated the introduction of new industries and technologies.",
     "technologies": [
-      "textile industry",
-      "salt manufacturing",
-      "mining",
-      "glass making",
-      "soap making",
-      "alum production",
-      "dredging machines",
-      "furnaces",
-      "drainage engines",
-      "window glass",
-      "saltpeter",
-      "sulphur and oil production",
-      "Spanish leather",
-      "machine for grinding",
-      "iron tempering",
-      "window glass",
-      "Cendre de Namour"
+      "Textile industry",
+      "Salt manufacturing",
+      "Mining",
+      "Glass making",
+      "Soap making",
+      "Alum and Copperas production",
+      "Sulphur and oil production",
+      "Window glass production",
+      "Machine manufacturing"
     ]
   },
   "design": {
     "study_type": "historical analysis",
     "methodology": "historical analysis",
     "occupations": [
-      "weavers",
-      "dyers",
-      "fullers",
-      "clockmakers",
-      "miners",
-      "armorers",
-      "shipwrights",
-      "glass makers",
-      "iron founders",
-      "soap makers",
-      "dredging machine operators",
-      "furnace operators",
-      "drainage engine operators",
-      "alum producers",
-      "sulphur and oil producers",
-      "leather workers",
-      "machine operators",
-      "iron workers",
-      "glass makers",
-      "cloth dyers"
+      "Weavers",
+      "Dyers",
+      "Fullers",
+      "Clockmakers",
+      "Miners",
+      "Glassmakers",
+      "Soapmakers",
+      "Alum producers",
+      "Copperas producers",
+      "Sulphur producers",
+      "Oil producers",
+      "Window glass producers",
+      "Machine manufacturers"
     ],
     "occupation_types": [
       "Main"
@@ -69,57 +54,57 @@
   },
   "key_variables": {
     "independent_variables": [
-      "introduction of new industries",
-      "patent grants"
+      "Introduction of new industries",
+      "Granting of patents"
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "introduction of new industries",
-      "patent system evolution",
-      "Crown's role in industrial promotion",
-      "impact of foreign expertise"
+      "Introduction of new industries",
+      "Role of the Crown in industrial development",
+      "Impact of patents on industry",
+      "Historical development of patent law"
     ],
-    "text_fragments": [
-      "'the Crown has power to grant many privileges of the sake of the public good'",
-      "'the inventor bringeth to and for the Commonwealth a new industry'"
-    ],
-    "narrative_descriptions": "The study describes the historical evolution of the English patent system, focusing on how the Crown used patents to introduce and promote new industries, often by attracting foreign expertise. It highlights the transition from medieval practices to the more structured patent system under Elizabeth I, and the eventual development of the modern patent specification."
+    "text_fragments": null,
+    "narrative_descriptions": "The study provides a detailed historical account of the development of the patent system in England, highlighting the role of the Crown in granting patents to promote new industries and technologies."
   },
   "historical_context": {
     "technological_changes": [
-      "introduction of textile industry",
-      "salt manufacturing",
-      "mining techniques",
-      "glass making",
-      "soap making",
-      "alum production",
-      "dredging machines",
-      "furnaces",
-      "drainage engines",
-      "window glass",
-      "saltpeter",
-      "sulphur and oil production",
-      "Spanish leather",
-      "machine for grinding",
-      "iron tempering",
-      "window glass",
-      "Cendre de Namour"
+      "Introduction of textile industry",
+      "Salt manufacturing",
+      "Mining techniques",
+      "Glass making",
+      "Soap making",
+      "Alum and Copperas production",
+      "Sulphur and oil production",
+      "Window glass production",
+      "Machine manufacturing"
     ],
-    "economic_conditions": "Transition from a pastoral and mining society to a more industrialized economy.",
-    "institutional_context": "The Crown played a central role in granting patents to promote new industries, often involving foreign experts to introduce new technologies and processes."
+    "economic_conditions": "The study covers a period of industrial development and the rise of new industries in England.",
+    "institutional_context": "The study discusses the role of the Crown and the legal framework surrounding the granting of patents to promote industrial development."
   },
   "outcomes": {
-    "main_findings": "The study finds that the English patent system evolved from a tool for the Crown to promote new industries by granting monopolies to foreign experts, to a more structured system under Elizabeth I, which laid the groundwork for modern patent law.",
-    "conclusions": "The historical development of the patent system was crucial in introducing new industries to England, which in turn influenced labor markets and industrial growth.",
-    "long_term_impacts": "The introduction of new industries through patents had lasting impacts on the English economy, contributing to industrial growth and the eventual rise of a capitalist middle class."
+    "main_findings": "The study finds that the Crown played a significant role in promoting new industries through the granting of patents, which facilitated the introduction of new technologies and industrial processes.",
+    "conclusions": "The patent system evolved from a tool for promoting new industries to a more structured legal framework, influencing the development of modern patent law.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is based on historical documents and may be limited by the availability and accuracy of these records.",
+    "coherence": "The study provides a coherent historical narrative of the development of the patent system.",
+    "adequacy_of_data": "The study relies on historical records, which provide a rich source of data for understanding the development of the patent system.",
+    "relevance": "The study is relevant to understanding the historical context of patent law and its impact on industrial development.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

@@ -10,8 +10,8 @@
     "journal_or_publisher": "Explorations in Economic History"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the impact of mechanization on labor displacement and de-skilling in late nineteenth-century American manufacturing, making it highly relevant to the field.",
+    "topic": "De-skilling in late nineteenth century American manufacturing",
+    "relevance": "The study is highly relevant as it examines the impact of mechanization on labor displacement and de-skilling, a key aspect of technological change affecting employment.",
     "technologies": [
       "Mechanization",
       "Automation"
@@ -21,21 +21,20 @@
     "study_type": "quantitative",
     "methodology": "historical analysis",
     "occupations": [
-      "Skilled artisans",
-      "Semi-skilled operatives",
-      "Common laborers"
+      "skilled artisans",
+      "semi-skilled operatives",
+      "common laborers"
     ],
     "occupation_types": [
-      "Main",
-      "Supplementary"
+      "Main"
     ],
     "occupation_classifications": [
       "1950 occupation codes"
     ],
     "gross_vs_net": "gross",
     "sample_size": 4398,
-    "sample_characteristics": "The study focuses on production operations in late nineteenth-century American manufacturing, using data from the 1899 Hand and Machine Labor study.",
-    "time_period_covered": "Late nineteenth century",
+    "sample_characteristics": "The study focuses on production operations in late nineteenth century American manufacturing, using data from the 1899 Hand and Machine Labor Study.",
+    "time_period_covered": "late nineteenth century",
     "time_period_start": 1890,
     "time_period_end": 1899,
     "geographical_focus": "United States"
@@ -47,9 +46,12 @@
     ],
     "dependent_variables": {
       "displaced": "De-skilling occurred in almost 36 percent of the production operations analyzed.",
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": "Machine labor used less skilled blue-collar time, which was more costly than semi-skilled time.",
+      "wage_changes_percent": null
     },
     "moderators": [
       "Scale of production",
@@ -73,21 +75,30 @@
       "Division of labor"
     ],
     "text_fragments": [
-      "The shift from the 'old-fashioned hand process' to the 'modern machine methods' led to worker de-skilling at the production operation level."
+      "The adoption of inanimate power, which we call 'mechanization,' did induce de-skilling at the production operation level.",
+      "Mechanization per se accounted for only a fraction of the difference."
     ],
-    "narrative_descriptions": "The study describes the process of mechanization and its impact on the skill levels required for production operations, highlighting the shift from skilled artisans to semi-skilled operatives and common laborers."
+    "narrative_descriptions": "The study investigates the shift from hand labor to machine labor and its impact on worker skills, using data from the 1899 Hand and Machine Labor Study."
   },
   "historical_context": {
     "technological_changes": [
       "Mechanization",
-      "Use of inanimate power"
+      "Division of labor"
     ],
-    "economic_conditions": "Period of industrial growth in the United States during the late nineteenth century.",
-    "institutional_context": "The study was conducted in the context of the U.S. Department of Labor's investigation into the effects of machinery on labor."
+    "economic_conditions": "Period of industrial growth in the late nineteenth century.",
+    "institutional_context": "The study does not provide specific details on labor policies or regulations."
   },
   "outcomes": {
-    "main_findings": "Mechanization led to de-skilling in production operations, with a significant shift from skilled to semi-skilled and common labor.",
-    "conclusions": "While mechanization contributed to de-skilling, the division of labor and scale of production were more significant factors.",
-    "long_term_impacts": "The study suggests that the division of labor and mechanization had lasting impacts on the skill composition of the workforce."
+    "main_findings": "Mechanization led to de-skilling, but accounted for only 16 percent of the de-skilling on average. The division of labor accounted for a larger fraction.",
+    "conclusions": "De-skilling was common in mechanized factories compared to traditional artisan hand production. Mechanization had a modest effect, while division of labor was more significant.",
+    "long_term_impacts": "The study suggests that the division of labor and mechanization contributed to long-term changes in the skill composition of the workforce."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have limitations in terms of accuracy and completeness.",
+    "coherence": "The data and analysis are consistent and support the conclusions drawn about de-skilling and mechanization.",
+    "adequacy_of_data": "The data from the 1899 Hand and Machine Labor Study is rich and detailed, providing a strong basis for analysis.",
+    "relevance": "The study is highly relevant to understanding the impact of mechanization on labor displacement and de-skilling.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

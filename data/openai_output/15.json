@@ -9,37 +9,40 @@
   },
   "relevance": {
     "topic": "Innovation and Employment",
-    "relevance": "The study surveys the theoretical and empirical literature on the impact of innovation on employment, critiquing the compensation theory which suggests that market forces will fully compensate for labor displacement due to technological change.",
+    "relevance": "The study is relevant as it surveys the theoretical and empirical literature on the employment consequences of innovation, particularly focusing on the compensation theory and its critiques.",
     "technologies": [
       "ICTs",
-      "process innovations",
-      "product innovations"
+      "automation",
+      "microelectronics"
     ]
   },
   "design": {
     "study_type": "qualitative",
-    "methodology": "literature review",
+    "methodology": "survey",
     "occupations": [],
     "occupation_types": [],
     "occupation_classifications": null,
     "gross_vs_net": "net",
     "sample_size": null,
     "sample_characteristics": null,
-    "time_period_covered": "19th century to early 21st century",
-    "time_period_start": null,
-    "time_period_end": null,
-    "geographical_focus": "Global"
+    "time_period_covered": "1960-1997",
+    "time_period_start": 1960,
+    "time_period_end": 1997,
+    "geographical_focus": "OECD countries"
   },
   "key_variables": {
     "independent_variables": [
-      "process innovations",
-      "product innovations"
+      "process innovation",
+      "product innovation"
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -51,20 +54,28 @@
       "market compensation mechanisms"
     ],
     "text_fragments": null,
-    "narrative_descriptions": "The study critiques the compensation theory, which posits that market forces will fully compensate for the labor-saving impacts of technological innovations. It discusses various compensation mechanisms and their limitations."
+    "narrative_descriptions": "The study critiques the compensation theory, which suggests that market forces should fully compensate for the labor-saving impacts of process innovations. It discusses various compensation mechanisms and their limitations."
   },
   "historical_context": {
     "technological_changes": [
       "ICTs",
-      "process innovations",
-      "product innovations"
+      "automation",
+      "microelectronics"
     ],
-    "economic_conditions": "Periods of technological change, such as the Industrial Revolution and the diffusion of ICTs.",
-    "institutional_context": "The study discusses the role of economic theories and market mechanisms in addressing technological unemployment."
+    "economic_conditions": "The study covers periods of technological change and economic growth, particularly focusing on the diffusion of ICTs and its impact on employment.",
+    "institutional_context": "The study discusses the role of market forces and economic theories in addressing technological unemployment."
   },
   "outcomes": {
-    "main_findings": "The study concludes that while compensation mechanisms exist, they do not fully counterbalance the labor displacement caused by technological innovations.",
-    "conclusions": "The relationship between technological change and employment is complex, and compensation mechanisms do not guarantee full employment recovery.",
+    "main_findings": "The study finds that while compensation mechanisms are always at work, they do not guarantee complete counter-balancing of dismissed workers due to process innovations.",
+    "conclusions": "The relationship between technological change and employment is complex and cannot be fully explained by compensation theory alone. Empirical studies show mixed results depending on the level of analysis and the type of innovation.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on existing literature and theoretical frameworks, which may not fully capture the complexities of technological change and employment.",
+    "coherence": "The study provides a coherent critique of the compensation theory, supported by historical and empirical evidence.",
+    "adequacy_of_data": "The study is based on a survey of existing literature, which provides a broad but not necessarily deep data foundation.",
+    "relevance": "The study is highly relevant to understanding the employment impacts of technological change, particularly in the context of ICTs.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "authors": [
+      "John Pickard"
+    ],
+    "title": "The Transition from Shepherding to Fencing in Colonial Australia",
+    "year_of_publication": 2023,
+    "journal_or_publisher": "Department of Physical Geography, Macquarie University"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the transition from labor-intensive shepherding to capital-intensive fencing in colonial Australia, highlighting the technological, social, and economic changes that led to labor displacement.",
+    "technologies": [
+      "Fencing",
+      "Iron wire"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Shepherds"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1810-1880s",
+    "time_period_start": 1810,
+    "time_period_end": 1880,
+    "geographical_focus": "Colonial Australia"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Fencing",
+      "Iron wire",
+      "Poisoning of dingoes"
+    ],
+    "dependent_variables": {
+      "displaced": "Shepherds were displaced as fencing became widespread.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": "High wages during the gold rushes contributed to the transition."
+    },
+    "moderators": [
+      "Legislation",
+      "Economic conditions",
+      "Technological advancements"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Technological change",
+      "Labor displacement",
+      "Economic impact"
+    ],
+    "text_fragments": [
+      "The transition from shepherding to fencing in colonial Australia was a technological revolution replacing labour with capital."
+    ],
+    "narrative_descriptions": "The study describes the complex transition from shepherding to fencing, involving technological, social, and economic changes."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Fencing",
+      "Iron wire",
+      "Poisoning of dingoes"
+    ],
+    "economic_conditions": "High demand for meat and high wages during the gold rushes.",
+    "institutional_context": "Legislative changes granting land tenure and reducing Aboriginal populations."
+  },
+  "outcomes": {
+    "main_findings": "The transition to fencing led to significant labor displacement of shepherds, driven by technological, social, and economic changes.",
+    "conclusions": "Fencing replaced shepherding as a more efficient and capital-intensive method of managing sheep, driven by a combination of technological advancements and economic pressures.",
+    "long_term_impacts": null
+  }
+}

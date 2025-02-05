@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Social psychological reactions to new technology",
-    "relevance": "The study examines historical reactions to technological changes, focusing on labor displacement and the social psychological impacts of mechanization and automation.",
+    "relevance": "The study is relevant as it discusses historical labor displacement due to technological changes, focusing on workers' reactions to different phases of technological advancement.",
     "technologies": [
       "Dependent machines",
       "Semi-automatic machines",
@@ -41,10 +41,13 @@
       "Automation"
     ],
     "dependent_variables": {
-      "displaced": "Many workers displaced from their jobs due to labor-replacing technologies.",
-      "unemployment_or_underemployment": "Workers displaced by automation face unemployment or underemployment.",
+      "displaced": "Many workers displaced from their jobs due to labor-replacing technology.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Workers displaced from production processes into supervision, planning, and maintenance roles.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -52,13 +55,12 @@
   "qualitative_data": {
     "key_themes": [
       "Labor displacement",
-      "Exploitation",
-      "Job redesign",
-      "Unionism"
+      "Worker exploitation",
+      "Technological advancement"
     ],
     "text_fragments": [
-      "'The second problem, job displacement, has been too long ignored by Europe and America.'",
-      "'Management needs to see that it is wiser to devise production systems that make use of the flexibility and intelligence of people.'"
+      "'The third phase in this history of technology may be seen from the workers' point of view as the introduction of labour-replacing processes.'",
+      "'Unfortunately, this phase also has the potential to devalue workers, undermine their power and skills, and displace many workers from their jobs.'"
     ],
     "narrative_descriptions": "The study provides a historical narrative of workers' reactions to technological changes, highlighting phases of labor-saving, labor-enslaving, and labor-replacing technologies."
   },
@@ -69,11 +71,19 @@
       "Automatic machines"
     ],
     "economic_conditions": "Industrial Revolution and subsequent technological advancements.",
-    "institutional_context": "Unionism and labor policies addressing job displacement and working conditions."
+    "institutional_context": "Unionism and labor movements in response to technological changes."
   },
   "outcomes": {
-    "main_findings": "Workers historically react against exploitation and job displacement due to technological changes.",
-    "conclusions": "Technological advancements have historically led to labor displacement, and current practices need to address this issue more effectively.",
-    "long_term_impacts": "Potential long-term impacts include increased unemployment and societal challenges if job displacement is not addressed."
+    "main_findings": "Workers historically reacted against exploitation and job displacement due to technological changes.",
+    "conclusions": "Technological advancements have historically led to labor displacement, and current practices need to address job displacement more effectively.",
+    "long_term_impacts": "The study suggests that if job displacement is not addressed, it could lead to significant societal issues, including unemployment among retirees."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is primarily qualitative and historical, which may limit the generalizability of its findings.",
+    "coherence": "The study provides a coherent historical narrative of technological changes and their impact on labor.",
+    "adequacy_of_data": "The study uses historical examples and narratives to support its findings, but lacks quantitative data.",
+    "relevance": "The study is relevant to understanding historical labor displacement due to technological changes.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

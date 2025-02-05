@@ -8,19 +8,20 @@
     "journal_or_publisher": "Journal of Economic History"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines how southern agrarian labor contracts impeded the mechanization of cotton production, which is directly related to labor displacement due to technological change.",
+    "topic": "Impact of labor contracts on mechanization in the Cotton South",
+    "relevance": "The study examines how labor contracts in the Cotton South impeded mechanization, which is relevant to understanding labor displacement due to technological change.",
     "technologies": [
       "mechanical cotton picker",
       "tractor"
     ]
   },
   "design": {
-    "study_type": "qualitative",
+    "study_type": "quantitative",
     "methodology": "historical analysis",
     "occupations": [
       "cotton farmers",
-      "plantation workers"
+      "sharecroppers",
+      "tenant farmers"
     ],
     "occupation_types": [
       "Main"
@@ -28,49 +29,61 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "The study focuses on southern counties in the United States, particularly those with plantation systems.",
-    "time_period_covered": "1850-1942",
+    "sample_characteristics": "The study focuses on the Cotton South, particularly plantation counties, using historical census data.",
+    "time_period_covered": "1850-1960",
     "time_period_start": 1850,
-    "time_period_end": 1942,
-    "geographical_focus": "Southern United States"
+    "time_period_end": 1960,
+    "geographical_focus": "Cotton South, USA"
   },
   "key_variables": {
     "independent_variables": [
-      "mechanical cotton picker",
-      "tractor"
+      "annual labor contracts",
+      "share tenancy",
+      "sharecropping"
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
-  "quantitative_data": null,
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
   "qualitative_data": {
     "key_themes": [
-      "Impact of labor contracts on mechanization",
-      "Seasonality of labor demand",
-      "Institutional impediments to technological adoption"
+      "impact of labor contracts on mechanization",
+      "seasonality of labor demand",
+      "institutional impediments to mechanization"
     ],
-    "text_fragments": [
-      "\"The traditional view of cotton mechanization... is that southern agrarian institutions impeded progress.\"",
-      "\"Annual labor contracts also made it difficult to mechanize large portions of plantations.\""
-    ],
-    "narrative_descriptions": "The study describes how annual labor contracts in the southern United States created disincentives for mechanization, particularly in cotton production, due to the seasonal nature of labor demand and the structure of labor markets."
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes how annual labor contracts and share tenancy arrangements in the Cotton South created disincentives for mechanization, particularly partial mechanization, due to the need to maintain a stable labor force for peak agricultural periods."
   },
   "historical_context": {
     "technological_changes": [
       "mechanical cotton picker",
       "tractor"
     ],
-    "economic_conditions": "The study covers a period of technological transition in agriculture, with a focus on the lag in mechanization in the Southern United States compared to other regions.",
-    "institutional_context": "The study discusses the role of annual labor contracts and sharecropping in hindering mechanization efforts."
+    "economic_conditions": "The study covers a period of technological lag in the Cotton South compared to other regions, with economic conditions influenced by the structure of agrarian institutions.",
+    "institutional_context": "The study focuses on the role of annual labor contracts and share tenancy in shaping labor markets and mechanization incentives."
   },
   "outcomes": {
-    "main_findings": "Southern agrarian labor contracts, particularly annual labor contracts, impeded the mechanization of cotton production by creating disincentives for adopting new technologies.",
-    "conclusions": "The structure of southern agrarian institutions, including labor contracts, significantly delayed the adoption of mechanization in cotton production, contributing to a lag in technological progress.",
-    "long_term_impacts": "The study suggests that the delay in mechanization due to labor contracts may have had long-term impacts on the economic development of the Southern United States."
+    "main_findings": "The study finds that annual labor contracts and share tenancy arrangements in the Cotton South impeded mechanization by creating disincentives for adopting labor-saving technologies.",
+    "conclusions": "Southern agrarian institutions, particularly annual labor contracts, significantly delayed the mechanization of cotton production, contributing to the region's technological lag.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data and interpretations, which may be subject to biases inherent in historical records.",
+    "coherence": "The study presents a coherent argument supported by historical data and analysis, though alternative explanations are acknowledged.",
+    "adequacy_of_data": "The study uses a combination of historical census data and qualitative accounts to support its conclusions.",
+    "relevance": "The study is highly relevant to understanding the impact of labor contracts on technological adoption in agriculture.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

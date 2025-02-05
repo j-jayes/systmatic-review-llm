@@ -9,8 +9,8 @@
     "journal_or_publisher": "Quarterly Journal of Economics"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the impact of automation on labor markets, specifically focusing on the displacement of telephone operators due to mechanization, making it highly relevant to the field of labor displacement caused by technological change.",
+    "topic": "Labor displacement due to automation in the telephone industry",
+    "relevance": "The study examines the impact of automation on labor displacement, specifically focusing on the mechanization of telephone operation and its effects on employment for young women.",
     "technologies": [
       "mechanical switching technology",
       "automation"
@@ -40,10 +40,13 @@
       "automation"
     ],
     "dependent_variables": {
-      "displaced": "The number of young, white, American-born women working as telephone operators dropped by 50% to 80% after mechanization.",
-      "unemployment_or_underemployment": "Incumbent operators were less likely to be working and more likely to be in lower-paying occupations.",
+      "displaced": "The number of young women employed as telephone operators fell by 50% to 80% after mechanization.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Incumbent operators were more likely to be in lower-paying occupations or not working at all a decade later.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "No significant evidence of wage changes in local labor markets post-automation."
+      "wage_changes": "No significant evidence of wage changes in local labor markets post-automation.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -53,23 +56,31 @@
   },
   "qualitative_data": {
     "key_themes": [
-      "Labor market adjustment",
-      "Displacement of workers",
-      "Emergence of new work"
+      "Labor displacement",
+      "Adaptation to technological change",
+      "Employment shifts"
     ],
     "text_fragments": null,
-    "narrative_descriptions": "The study describes how the labor market adjusted to the mechanization of telephone operation, with incumbent operators facing job loss and future cohorts finding employment in other sectors."
+    "narrative_descriptions": "The study describes how automation of telephone operation led to job losses for incumbent operators but did not reduce overall employment for future cohorts of young women, who found work in other sectors."
   },
   "historical_context": {
     "technological_changes": [
       "mechanical switching technology"
     ],
-    "economic_conditions": "The study period includes the Great Depression, which affected labor demand and economic conditions.",
-    "institutional_context": "AT&T was the principal U.S. telephone service provider, and its decisions on mechanization were influenced by technical demands and regulatory factors."
+    "economic_conditions": "Period of technological advancement and economic growth in the early 20th century.",
+    "institutional_context": "AT&T was the dominant telephone service provider, and its decision to automate was driven by the need to reduce costs and improve efficiency."
   },
   "outcomes": {
-    "main_findings": "The mechanization of telephone operation led to a significant reduction in the number of telephone operators, but future cohorts found employment in other sectors, mitigating the overall impact on employment rates.",
-    "conclusions": "While automation displaced incumbent workers, the labor market adjusted over time, with new employment opportunities emerging in other sectors.",
-    "long_term_impacts": "The study suggests that while incumbent workers faced significant challenges, future generations were able to adapt to the changing labor market."
+    "main_findings": "Automation of telephone operation led to significant job losses for incumbent operators but did not reduce overall employment rates for future cohorts of young women.",
+    "conclusions": "While existing workers faced job loss, local economies adjusted over medium horizons, with new employment opportunities emerging in other sectors.",
+    "long_term_impacts": "Incumbent operators were more likely to be in lower-paying occupations or not working a decade later."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have limitations in terms of accuracy and completeness.",
+    "coherence": "The data consistently supports the conclusion that automation led to job displacement but did not reduce overall employment rates for future cohorts.",
+    "adequacy_of_data": "The study uses comprehensive census data and a novel genealogy-based linking method to track employment outcomes.",
+    "relevance": "The study is highly relevant to understanding the impact of automation on labor markets, particularly for women in the early 20th century.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

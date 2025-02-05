@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "authors": [
+      "Wayne A. Grove",
+      "Craig Heinicke"
+    ],
+    "title": "Better Opportunities or Worse? The Demise of Cotton Harvest Labor, 1949-1964",
+    "year_of_publication": 2003,
+    "journal_or_publisher": "The Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in cotton harvesting",
+    "relevance": "The study examines the impact of mechanization on labor displacement in the cotton industry, focusing on the transition from hand-picked to machine-harvested cotton and its effects on employment.",
+    "technologies": [
+      "mechanical cotton pickers",
+      "spindle pickers"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "econometric modeling",
+    "occupations": [
+      "cotton harvest laborers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on 12 major cotton-producing states in the U.S. from 1949 to 1964, particularly affecting African-American workers.",
+    "time_period_covered": "1949-1964",
+    "time_period_start": 1949,
+    "time_period_end": 1964,
+    "geographical_focus": "12 major cotton-producing states in the U.S."
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "government farm programs",
+      "nonagricultural wages",
+      "cotton prices"
+    ],
+    "dependent_variables": {
+      "displaced": "The study estimates the decline in hand-harvested cotton labor due to mechanization and other factors.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": "Real harvest wages declined over the period."
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": {
+      "hand_harvested_cotton_mean": 512.3,
+      "hand_harvested_cotton_sd": 353.4,
+      "labor_compensation_mean": 12.16,
+      "labor_compensation_sd": 6.56,
+      "cotton_price_mean": 37.6,
+      "cotton_price_sd": 4.42,
+      "mechanical_harvesting_costs_mean": 8.27,
+      "mechanical_harvesting_costs_sd": 2.53,
+      "nonagricultural_wage_rates_mean": 1.68,
+      "nonagricultural_wage_rates_sd": 0.26
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "mechanization as a driver of labor displacement",
+      "government policies affecting labor demand",
+      "economic pressures on cotton prices"
+    ],
+    "text_fragments": [
+      "'I didn't stay out on that farm too long after they started usin' the cotton pickers and whatnot. That was the time we was told to leave the farm.' - Mae Bertha Carter"
+    ],
+    "narrative_descriptions": "The study describes the socioeconomic transformation in the cotton industry due to mechanization and its impact on labor displacement."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanical cotton pickers",
+      "spindle pickers"
+    ],
+    "economic_conditions": "Post-World War II economic conditions with falling cotton prices and rising nonagricultural wages.",
+    "institutional_context": "Government farm programs, including acreage reduction and the Soil Bank program, influenced labor demand."
+  },
+  "outcomes": {
+    "main_findings": "Mechanization and government programs were the primary drivers of the decline in hand-harvested cotton labor, with nonagricultural wages playing a smaller role than previously thought.",
+    "conclusions": "The study concludes that labor demand factors, particularly mechanization and government policies, were more significant than labor supply factors in the decline of hand-harvested cotton labor.",
+    "long_term_impacts": "The study suggests that technological displacement may have improved long-term black progress by reducing the incentive for southern political interests to maintain a system of social control."
+  }
+}

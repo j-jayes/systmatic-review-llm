@@ -9,21 +9,13 @@
   },
   "relevance": {
     "topic": "Technical Innovation and Economic Progress in the Ancient World",
-    "relevance": "The study explores the limited impact of technological innovations on economic progress in the ancient world, particularly focusing on the Greek and Roman civilizations. It discusses the reasons for the lack of significant technological advancement and its implications for labor and productivity.",
+    "relevance": "The study explores the limited impact of technological innovations on economic progress in ancient civilizations, particularly focusing on the Greeks and Romans. It discusses the reasons for the lack of significant technological advancement and its implications for labor and productivity.",
     "technologies": [
-      "gear",
-      "screw",
-      "rotary mill",
       "water-mill",
-      "direct screw-press",
-      "glass-blowing",
-      "concrete",
-      "hollow bronze-casting",
-      "dioptra",
-      "torsion catapult",
-      "water-clock",
-      "water organ",
-      "automata"
+      "screw-press",
+      "mechanical reaper",
+      "Archimedean screw",
+      "chain-pump"
     ]
   },
   "design": {
@@ -31,30 +23,38 @@
     "methodology": "historical analysis",
     "occupations": [
       "artisans",
-      "slaves",
-      "farmers"
+      "farmers",
+      "miners"
     ],
     "occupation_types": [
-      "Main"
+      "Main",
+      "Supplementary"
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
     "sample_characteristics": null,
-    "time_period_covered": "Neolithic to the end of the Roman Empire",
-    "time_period_start": null,
-    "time_period_end": null,
-    "geographical_focus": "Ancient Greek and Roman civilizations"
+    "time_period_covered": "150 B.C. to 600 A.D.",
+    "time_period_start": -150,
+    "time_period_end": 600,
+    "geographical_focus": "Ancient Greece and Rome"
   },
   "key_variables": {
     "independent_variables": [
-      "technological innovations"
+      "water-mill",
+      "screw-press",
+      "mechanical reaper",
+      "Archimedean screw",
+      "chain-pump"
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -62,28 +62,39 @@
   "qualitative_data": {
     "key_themes": [
       "limited technological progress",
-      "cultural attitudes towards innovation",
+      "cultural attitudes towards labor",
       "economic rationalism",
       "division of labor"
     ],
     "text_fragments": [
-      "The ancient world was characterized by a clear, almost total, divorce between science and practice.",
-      "The proposition is true, even if it is commonplace, and attempts to challenge it, which seem to be rather fashionable at the moment, are in my view misguided and certain to fail."
+      "'The ancient world was characterized by a clear, almost total, divorce between science and practice.'",
+      "'The ancients had a passion for recording inventions and inventors.'",
+      "'There was never a time, so far as I know, when the large landholders of antiquity did not prosper as a class.'"
     ],
-    "narrative_descriptions": "The study describes the limited technological progress in the ancient world, attributing it to cultural attitudes that separated science from practical application and a lack of economic rationalism. It highlights the sporadic use of innovations like the water-mill and the absence of significant productivity increases despite the presence of knowledge and resources."
+    "narrative_descriptions": "The study describes the limited technological progress in ancient Greece and Rome, attributing it to cultural attitudes towards labor and wealth, the lack of economic rationalism, and the absence of significant division of labor."
   },
   "historical_context": {
     "technological_changes": [
       "water-mill",
       "screw-press",
-      "mechanical reaper"
+      "mechanical reaper",
+      "Archimedean screw",
+      "chain-pump"
     ],
-    "economic_conditions": "The ancient world had a stable but low level of economic growth, with wealth primarily derived from land and conquest rather than technological innovation.",
-    "institutional_context": "The ancient world had a clear separation between science and practical application, with a focus on wealth through land and conquest rather than innovation."
+    "economic_conditions": "The ancient world had a clear interest in wealth but lacked significant technological progress to increase productivity.",
+    "institutional_context": "The study highlights the lack of economic rationalism and the cultural attitudes that prioritized wealth and status over technological advancement."
   },
   "outcomes": {
-    "main_findings": "The study finds that despite the presence of technological innovations, there was little economic progress in the ancient world due to cultural attitudes and a lack of economic rationalism.",
-    "conclusions": "The ancient world did not significantly advance in productivity or economic rationalism despite having the knowledge and resources, due to cultural attitudes that separated science from practical application.",
+    "main_findings": "The study finds that despite some technological innovations, there was limited economic progress in ancient Greece and Rome due to cultural attitudes and the lack of economic rationalism.",
+    "conclusions": "Technological innovations in the ancient world were not widely adopted or developed due to cultural and economic factors, leading to limited economic progress.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical analysis and interpretations, which may be subject to bias and lack quantitative data.",
+    "coherence": "The study provides a consistent narrative on the lack of technological progress in ancient civilizations, supported by historical examples.",
+    "adequacy_of_data": "The study uses historical texts and archaeological evidence, but lacks quantitative data to substantiate its conclusions.",
+    "relevance": "The study is relevant to understanding the historical context of technological change and its impact on labor and economic progress.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

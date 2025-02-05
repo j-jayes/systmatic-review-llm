@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "African-American migration and mechanized cotton harvesting",
-    "relevance": "The study examines the impact of mechanized cotton harvesting on African-American migration from the rural South, a key aspect of labor displacement due to technological change.",
+    "relevance": "The study examines the impact of mechanized cotton harvesting on African-American migration from the rural South, which is directly relevant to the field of labor displacement due to technological change.",
     "technologies": [
       "mechanical cotton harvester"
     ]
@@ -37,41 +37,39 @@
       "mechanization of cotton harvesting"
     ],
     "dependent_variables": {
-      "displaced": "Estimated 380,402 African-Americans displaced due to mechanization.",
+      "displaced": "Estimated number of African-Americans displaced by mechanized cotton harvesting.",
+      "displaced_number": 380402,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
-    "statistical_measures": {
-      "net_migration_rate_mean": 22.5,
-      "net_migration_rate_std_dev": 12
-    }
+    "statistical_measures": null
   },
-  "qualitative_data": {
-    "key_themes": [
-      "Impact of mechanization on migration",
-      "Economic displacement",
-      "Rural poverty"
-    ],
-    "text_fragments": [
-      "The mechanical cotton picker directly accounts for, at the most, 24% of the 1950-1960 African-American net migration from the South."
-    ],
-    "narrative_descriptions": "The study provides a detailed account of how mechanization in cotton harvesting contributed to African-American migration from the rural South, but also highlights that other factors played significant roles."
-  },
+  "qualitative_data": null,
   "historical_context": {
     "technological_changes": [
       "mechanical cotton harvester"
     ],
-    "economic_conditions": "Post-World War II economic adjustments, including reduced demand for agricultural labor.",
+    "economic_conditions": "Post-World War II economic conditions with a focus on agricultural mechanization and migration patterns.",
     "institutional_context": "The study discusses the broader implications of mechanization on southern labor markets and the decline of southern paternalism."
   },
   "outcomes": {
-    "main_findings": "The study finds that mechanized cotton harvesting accounted for a smaller proportion of African-American migration from the rural South than previously thought, estimating it at about 24%.",
-    "conclusions": "While mechanization played a role, other factors such as better opportunities in northern cities and reductions in cotton acreage were also significant in driving migration.",
-    "long_term_impacts": "The study suggests that the migration contributed to the redistribution of the African-American population to urban centers, impacting both the rural South and northern cities."
+    "main_findings": "The study finds that mechanized cotton harvesting directly accounted for at most 24% of the African-American migration from the South between 1950 and 1960.",
+    "conclusions": "The mechanical cotton picker was not the main force behind African-American migration to northern urban areas in the 1950s. Other factors, such as better opportunities in the North and reductions in cotton acreage, played significant roles.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study acknowledges that the estimates are upper bounds and that not all displaced individuals migrated.",
+    "coherence": "The study provides a coherent analysis of the relationship between mechanization and migration, though it emphasizes that mechanization was not the sole cause of migration.",
+    "adequacy_of_data": "The study uses historical data and estimates to substantiate its conclusions, though it notes the lack of precise data on the number of displaced individuals.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement, particularly in the context of African-American migration.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

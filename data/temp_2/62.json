@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "authors": [
+      "David Autor",
+      "Caroline Chin",
+      "Anna Salomons",
+      "Bryan Seegmiller"
+    ],
+    "title": "New Frontiers: The Origins and Content of New Work, 1940-2018",
+    "year_of_publication": 2024,
+    "journal_or_publisher": "Quarterly Journal of Economics"
+  },
+  "relevance": {
+    "topic": "The role of newly emerging job categories in counterbalancing the effects of task-displacing automation on labor demand.",
+    "relevance": "The study is highly relevant as it examines the emergence of new job categories ('new work') in response to technological changes, specifically automation and augmentation innovations, and their impact on labor demand.",
+    "technologies": [
+      "automation",
+      "augmentation",
+      "artificial intelligence",
+      "robotics",
+      "information and communications technologies"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis and econometric modeling",
+    "occupations": [
+      "professional occupations",
+      "service occupations",
+      "production occupations",
+      "clerical occupations"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "U.S. Census microdata from 1940 to 2018",
+    "time_period_covered": "1940-2018",
+    "time_period_start": 1940,
+    "time_period_end": 2018,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "automation",
+      "augmentation"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "emergence of new work",
+      "impact of technological change on labor demand",
+      "shift in job categories"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes how new job categories have emerged in response to technological innovations, shifting from middle-paid production and clerical occupations to high-paid professional and low-paid service occupations."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "automation",
+      "augmentation",
+      "artificial intelligence",
+      "robotics",
+      "information and communications technologies"
+    ],
+    "economic_conditions": "Post-World War II economic changes, including shifts in labor demand due to technological advancements.",
+    "institutional_context": "The study does not explicitly discuss institutional contexts such as labor policies or regulations."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that new work emerges in response to technological innovations that complement occupational outputs and demand shocks that raise occupational demand. Augmentation innovations boost labor demand, while automation innovations erode it.",
+    "conclusions": "Technological changes have led to the creation of new job categories that counterbalance the labor-displacing effects of automation. However, the demand-eroding effects of automation have intensified in recent decades.",
+    "long_term_impacts": null
+  }
+}

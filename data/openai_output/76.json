@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Agricultural productivity and technological change in European agriculture",
-    "relevance": "The study examines the impact of technological changes, such as mechanization and the use of chemical fertilizers, on agricultural productivity and labor displacement in European agriculture from 1870 to 1914.",
+    "relevance": "The study is relevant as it examines the impact of technological changes, such as mechanization and the use of chemical fertilizers, on agricultural productivity and labor displacement in European agriculture during the late 19th and early 20th centuries.",
     "technologies": [
       "mechanization",
       "chemical fertilizers",
@@ -28,7 +28,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "The study covers 15 European countries with varying levels of agricultural productivity and economic development.",
+    "sample_characteristics": "The study covers 16 European countries with a focus on agricultural productivity and labor displacement.",
     "time_period_covered": "1870-1914",
     "time_period_start": 1870,
     "time_period_end": 1914,
@@ -41,10 +41,13 @@
       "concentrated feeds"
     ],
     "dependent_variables": {
-      "displaced": "The study discusses the decline of agricultural laborers and the rise of family farms in Western Europe.",
-      "unemployment_or_underemployment": null,
+      "displaced": "The study discusses the decline of agricultural laborers and the rise of family farms.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study mentions the disappearance of large-scale farming based on wage work.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Real wages of agricultural laborers expressed in wheat doubled in almost all European countries between 1870 and 1910."
+      "wage_changes": "Real wages of agricultural laborers expressed in kilograms of wheat doubled in almost all European countries between 1870 and 1910.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -55,11 +58,11 @@
   "qualitative_data": {
     "key_themes": [
       "labor displacement",
-      "technological adoption",
+      "technological change",
       "agricultural productivity"
     ],
     "text_fragments": null,
-    "narrative_descriptions": "The study describes the transition from large-scale farming to small family farms and the adoption of land-saving technologies in response to economic pressures."
+    "narrative_descriptions": "The study provides a detailed narrative of the shift from large-scale farming to small family farms and the adoption of new technologies in European agriculture."
   },
   "historical_context": {
     "technological_changes": [
@@ -67,12 +70,20 @@
       "chemical fertilizers",
       "concentrated feeds"
     ],
-    "economic_conditions": "The period was marked by economic growth, rising wages, and agricultural depression due to falling cereal prices.",
-    "institutional_context": "The study notes the lack of institutional support in Britain compared to other European countries, affecting the adoption of new technologies."
+    "economic_conditions": "The period was marked by economic growth and rising real wages, leading to changes in agricultural practices.",
+    "institutional_context": "The study discusses the role of cooperatives and state-sponsored agricultural extension services in facilitating technological adoption."
   },
   "outcomes": {
-    "main_findings": "The study finds that technological changes led to increased agricultural productivity and a shift from large-scale farming to small family farms in Western Europe.",
-    "conclusions": "Technological innovations, particularly land-saving technologies, were crucial in increasing productivity and transforming European agriculture.",
-    "long_term_impacts": null
+    "main_findings": "The study finds that technological changes, such as the use of chemical fertilizers and mechanization, led to increased agricultural productivity and a shift from large-scale farming to small family farms.",
+    "conclusions": "Technological advancements in agriculture led to significant productivity gains and labor displacement, with small family farms becoming more prevalent.",
+    "long_term_impacts": "The study suggests that the shift to small family farms and increased productivity had long-term impacts on the agricultural landscape of Europe."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have inaccuracies due to under-reporting and variations in data collection methods across countries.",
+    "coherence": "The study provides a coherent analysis of the relationship between technological change and agricultural productivity.",
+    "adequacy_of_data": "The study uses a comprehensive database covering 60 agricultural and economic variables for 16 countries, providing a robust basis for analysis.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement in agriculture.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

@@ -5,13 +5,13 @@
       "Jari Ojala",
       "Jaakko Pehkonen"
     ],
-    "title": "Technological change and wage premiums: Historical evidence from linked employer-employee data",
+    "title": "Technological change and wage premiums: Historical evidence from linked employer -employee data",
     "year_of_publication": 2013,
     "journal_or_publisher": "Labour Economics"
   },
   "relevance": {
     "topic": "Technological change and wage premiums",
-    "relevance": "The study examines the impact of the steam engine on wage premiums, highlighting the polarizing effects of technological change on labor markets, which is directly relevant to the field of labor displacement due to technological change.",
+    "relevance": "The study is relevant as it examines the impact of technological change, specifically the steam engine, on wage premiums and labor displacement in the maritime industry, highlighting the polarizing effects of technology on different skill levels.",
     "technologies": [
       "Steam engine"
     ]
@@ -35,8 +35,8 @@
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
-    "sample_size": 650000,
-    "sample_characteristics": "Swedish merchant mariners from six port towns: Gävle, Härnösand, Hudiksvall, Karlskrona, Söderhamn, and Visby.",
+    "sample_size": 32480,
+    "sample_characteristics": "The sample consists of more than 32,000 individuals employed on over 1500 vessels in six Swedish port towns from 1869 to 1914.",
     "time_period_covered": "1869-1914",
     "time_period_start": 1869,
     "time_period_end": 1914,
@@ -48,41 +48,38 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "High-skilled and unskilled laborers improved their relative wage positions, while intermediate-skilled laborers saw a decline."
+      "wage_changes": "High-skilled and unskilled laborers improved their relative wage positions, while intermediate-skilled laborers saw a decline.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
-    "statistical_measures": {
-      "mean_wage_premium": 0.07,
-      "wage_variation_coefficient_sail": 0.43,
-      "wage_variation_coefficient_steam": 0.56
-    }
+    "statistical_measures": null
   },
-  "qualitative_data": {
-    "key_themes": [
-      "Technology-based polarisation",
-      "Skill-biased technological change"
-    ],
-    "text_fragments": [
-      "The steam technology had both new skill-demanding and skill-replacing aspects.",
-      "High-skilled and unskilled labourers improved their relative wage positions."
-    ],
-    "narrative_descriptions": "The study describes the transition from sail to steam technology in the maritime industry and its impact on occupational structures and wage distributions."
-  },
+  "qualitative_data": null,
   "historical_context": {
     "technological_changes": [
       "Steam engine"
     ],
-    "economic_conditions": "Period of industrialisation and economic growth in Sweden.",
-    "institutional_context": "The maritime industry was a small part of the Swedish economy, influenced by broader industrialisation trends."
+    "economic_conditions": "Period of industrialization and economic growth in Sweden.",
+    "institutional_context": "The maritime industry was undergoing a transition from sail to steam, affecting labor demand and occupational structures."
   },
   "outcomes": {
-    "main_findings": "The steam engine led to wage polarisation, benefiting high-skilled and unskilled workers while disadvantaging intermediate-skilled workers.",
-    "conclusions": "The study concludes that technological change, specifically the steam engine, had a polarising effect on the labor market, increasing wage inequality.",
+    "main_findings": "The study found that the steam technology had both skill-demanding and skill-replacing aspects, leading to wage polarization. High-skilled and unskilled laborers improved their wage positions relative to intermediate-skilled laborers.",
+    "conclusions": "The adoption of the steam engine fundamentally weakened the relative position of intermediate-skilled routine task laborers while benefiting high-skilled abstract task laborers and potentially unskilled manual task laborers.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have limitations in terms of completeness and accuracy.",
+    "coherence": "The data consistently supports the conclusions about wage polarization due to technological change.",
+    "adequacy_of_data": "The dataset is rich and detailed, providing comprehensive information on wages, occupations, and technological status.",
+    "relevance": "The study is highly relevant to understanding the historical impacts of technological change on labor markets.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

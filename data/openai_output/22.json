@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change",
-    "relevance": "The study is not directly relevant to labor displacement due to technological change. It is a novel about personal and family struggles in the aftermath of the dot-com bust.",
+    "relevance": "The study is not directly relevant to labor displacement due to technological change. It is a novel about personal and family dynamics in the aftermath of the dot-com bust.",
     "technologies": []
   },
   "design": {
@@ -18,10 +18,10 @@
     "occupations": [],
     "occupation_types": [],
     "occupation_classifications": null,
-    "gross_vs_net": "gross",
+    "gross_vs_net": "net",
     "sample_size": null,
     "sample_characteristics": null,
-    "time_period_covered": "Early 2000s",
+    "time_period_covered": "early 2000s",
     "time_period_start": 2000,
     "time_period_end": 2003,
     "geographical_focus": "San José, California"
@@ -30,9 +30,12 @@
     "independent_variables": [],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -41,21 +44,30 @@
     "key_themes": [
       "Family dynamics",
       "Economic hardship",
-      "Personal growth"
+      "Personal relationships"
     ],
     "text_fragments": [
-      "\"The Goodbye House\" is a novel about personal and family struggles in the aftermath of the dot-com bust."
+      "Katherine Watson, a forty-seven-year-old event planner and mother of two, moves back into her childhood home with her teenage son, Carter.",
+      "Scott Cochran, Katherine’s husband, had run through their money, including retirement accounts, investing in Internet startup companies."
     ],
-    "narrative_descriptions": "The novel explores the lives of a family dealing with economic and personal challenges in the early 2000s in San José, California."
+    "narrative_descriptions": "The novel explores the personal and family dynamics of Katherine Watson and her family in the aftermath of the early 2000s dot-com bust, focusing on themes of economic hardship, personal relationships, and family dynamics."
   },
   "historical_context": {
     "technological_changes": [],
-    "economic_conditions": "Post-dot-com bust economic conditions in the early 2000s.",
-    "institutional_context": "The novel does not focus on institutional contexts such as labor policies or regulations."
+    "economic_conditions": "The novel is set in the aftermath of the early 2000s dot-com bust, a period of economic downturn following the collapse of many internet companies.",
+    "institutional_context": "The novel does not focus on institutional context such as labor policies or regulations."
   },
   "outcomes": {
-    "main_findings": "The novel portrays the impact of economic downturns on personal and family life.",
-    "conclusions": "The story concludes with a sense of resilience and adaptation in the face of personal and economic challenges.",
+    "main_findings": "The novel portrays the struggles of a family dealing with economic hardship and personal challenges in the aftermath of the dot-com bust.",
+    "conclusions": "The novel concludes with a sense of resilience and adaptation as the characters navigate their personal and economic challenges.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "As a work of fiction, the novel does not adhere to methodological rigor typical of empirical studies.",
+    "coherence": "The narrative is coherent within the fictional context, but it does not provide empirical evidence.",
+    "adequacy_of_data": "The novel provides rich narrative detail but lacks empirical data.",
+    "relevance": "The novel is not relevant to empirical studies of labor displacement due to technological change.",
+    "overall_confidence": "Very Low",
+    "inclusion_decision": "Exclude"
   }
 }

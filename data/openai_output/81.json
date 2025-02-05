@@ -8,8 +8,8 @@
     "journal_or_publisher": "IEEE Annals of the History of Computing"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the impact of punched-card machines on labor organization and displacement at the Dutch Central Bureau of Statistics, highlighting the transition from manual to mechanized data processing.",
+    "topic": "Application of punched-card machinery for data processing at the Dutch Central Bureau of Statistics",
+    "relevance": "The study is relevant as it explores the historical labor displacement and organizational changes due to the introduction of punched-card machines, a precursor to digital computing.",
     "technologies": [
       "Punched-card machines",
       "Digital computers"
@@ -29,7 +29,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "The study focuses on the Dutch Central Bureau of Statistics and its employees from 1899 to the mid-1960s.",
+    "sample_characteristics": "Focus on the Dutch Central Bureau of Statistics and its employees.",
     "time_period_covered": "1899 to mid-1960s",
     "time_period_start": 1899,
     "time_period_end": 1965,
@@ -41,34 +41,48 @@
       "Digital computers"
     ],
     "dependent_variables": {
-      "displaced": "The transition from manual counting to punched-card machines displaced manual sorting and counting clerks.",
-      "unemployment_or_underemployment": null,
+      "displaced": "Manual data processing workers were displaced by punched-card machines.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Not explicitly mentioned, but there was a shift in labor roles.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Mechanization of data processing",
-      "Labor displacement",
-      "Technological adoption"
+      "Mechanization and automation of data processing",
+      "Labor displacement and reorganization",
+      "Technological advancement and its impact on labor"
     ],
-    "text_fragments": null,
-    "narrative_descriptions": "The study describes the transition from manual data processing to punched-card machines and later digital computers, focusing on changes in labor organization and the impact on workers."
+    "text_fragments": [
+      "The DCBS subjected the tallying and calculating work to increasing degrees of mechanization and automation.",
+      "The punched-card method was especially suited to complex statistics."
+    ],
+    "narrative_descriptions": "The study describes the transition from manual to mechanized data processing at the DCBS, highlighting the organizational and labor changes that accompanied the adoption of punched-card machines."
   },
   "historical_context": {
     "technological_changes": [
       "Punched-card machines",
       "Digital computers"
     ],
-    "economic_conditions": "The study covers periods of economic growth, the 1930s economic crisis, and post-World War II recovery.",
-    "institutional_context": "The DCBS was an independent government office responsible for social statistics, influenced by government policies and labor market conditions."
+    "economic_conditions": "The study covers periods of economic growth, the 1930s economic crisis, and post-war recovery.",
+    "institutional_context": "The DCBS was an independent office focusing on social statistics, influenced by government and societal demands for data."
   },
   "outcomes": {
-    "main_findings": "The adoption of punched-card machines at the DCBS led to significant changes in labor organization, with a shift from manual to mechanized data processing, eventually paving the way for digital computers.",
-    "conclusions": "Technological advancements in data processing at the DCBS were driven by increasing statistical demands and the need for efficiency, rather than solely by technological improvements.",
-    "long_term_impacts": null
+    "main_findings": "The increasing mechanization and automation at the DCBS were driven by the growing complexity and volume of statistical work, rather than just technological advancements.",
+    "conclusions": "The study concludes that the demand for more complex and accurate statistics was the primary driver for the adoption of punched-card machines and later digital computers at the DCBS.",
+    "long_term_impacts": "The study suggests that the mechanization and automation of data processing had lasting impacts on labor organization and the role of women in the workforce."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is based on historical records and may not capture all perspectives, particularly those of the workers affected.",
+    "coherence": "The study provides a coherent narrative linking technological changes to labor displacement and organizational changes.",
+    "adequacy_of_data": "The study uses a rich set of historical data from archives and reports, providing a detailed account of the period.",
+    "relevance": "The study is highly relevant to understanding the historical impact of technological change on labor displacement.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

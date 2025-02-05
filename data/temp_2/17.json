@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "authors": [
+      "Michael J. Hiscox"
+    ],
+    "title": "Interindustry Factor Mobility and Technological Change: Evidence on Wage and Profit Dispersion Across U.S. Industries, 1820-1990",
+    "year_of_publication": 2002,
+    "journal_or_publisher": "The Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "Interindustry factor mobility and technological change",
+    "relevance": "The study examines the impact of technological change on interindustry factor mobility, which is directly related to labor displacement due to technological advancements.",
+    "technologies": [
+      "Factory production",
+      "Specialized equipment",
+      "Microelectronics",
+      "Robotics",
+      "Telecommunications",
+      "Chemical engineering",
+      "Micro-biology"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "manufacturing workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1820-1990",
+    "time_period_start": 1820,
+    "time_period_end": 1990,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "technological changes",
+      "industrialization",
+      "transportation improvements",
+      "factory production",
+      "specialized equipment"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": "Interindustry wage differentials and profit dispersion"
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Factory production",
+      "Specialized equipment",
+      "Microelectronics",
+      "Robotics",
+      "Telecommunications",
+      "Chemical engineering",
+      "Micro-biology"
+    ],
+    "economic_conditions": "Industrialization in the 19th and 20th centuries",
+    "institutional_context": "Changes in regulations affecting interindustry factor movement"
+  },
+  "outcomes": {
+    "main_findings": "Interindustry factor mobility increased during the 19th century due to transportation improvements and factory production, but decreased in the 20th century with reliance on specialized equipment and knowledge.",
+    "conclusions": "Technological changes have significantly influenced interindustry factor mobility, with early industrialization increasing mobility and later stages decreasing it.",
+    "long_term_impacts": null
+  }
+}

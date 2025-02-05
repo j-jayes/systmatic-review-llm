@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "authors": [
+      "Phil Blackburn",
+      "Rod Coombs",
+      "Kenneth Green"
+    ],
+    "title": "Technology, Economic Growth, and the Labour Process",
+    "year_of_publication": 1985,
+    "journal_or_publisher": "St. Martin’s Press"
+  },
+  "relevance": {
+    "topic": "The impact of technological change on labor processes and economic growth.",
+    "relevance": "The study is relevant as it explores the historical and potential future impacts of technological changes, particularly automation and information technologies, on labor processes and economic growth.",
+    "technologies": [
+      "micro-electronics",
+      "information technologies",
+      "automation",
+      "numerical control",
+      "computer-aided manufacturing"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis",
+    "occupations": [
+      "clerical workers",
+      "machine operators",
+      "engineers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1850-1980s",
+    "time_period_start": 1850,
+    "time_period_end": 1980,
+    "geographical_focus": "United Kingdom and United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "automation",
+      "numerical control",
+      "computer-aided manufacturing"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the potential displacement of workers due to automation and technological advancements.",
+      "unemployment_or_underemployment": "The study suggests that technological advancements could lead to jobless growth, particularly in manufacturing and services.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "deskilling",
+      "automation",
+      "neo-Fordism",
+      "labor process changes"
+    ],
+    "text_fragments": [
+      "'Automation' as a general historic phenomenon was presented as a progression in which each of these dimensions of mechanisation had been successively brought into play in leading sectors.",
+      "The study discusses the potential for neo-Fordism as a new paradigm in labor processes."
+    ],
+    "narrative_descriptions": "The study provides a detailed historical account of the evolution of labor processes in response to technological changes, highlighting the shift from Fordism to neo-Fordism."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "automation",
+      "numerical control",
+      "computer-aided manufacturing"
+    ],
+    "economic_conditions": "The study covers periods of economic growth and recession, particularly focusing on the post-war economic boom and subsequent recessions.",
+    "institutional_context": "The study discusses the role of state policies and private sector strategies in shaping labor processes and technological adoption."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that technological advancements, particularly in automation and information technologies, have historically led to significant changes in labor processes, with potential for future shifts towards neo-Fordism.",
+    "conclusions": "Technological changes are likely to continue reshaping labor processes, potentially leading to increased productivity but also challenges such as job displacement and the need for new forms of work organization.",
+    "long_term_impacts": "The study suggests that long-term impacts of technological changes could include shifts in employment patterns and the need for new skills and work arrangements."
+  }
+}

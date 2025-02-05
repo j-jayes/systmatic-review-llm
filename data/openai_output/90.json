@@ -8,8 +8,8 @@
     "journal_or_publisher": "Explorations in Economic History"
   },
   "relevance": {
-    "topic": "Adoption of ring spinning technology in the British cotton industry",
-    "relevance": "The study examines the slow adoption of ring spinning technology in the British cotton industry, which is relevant to understanding labor displacement due to technological change.",
+    "topic": "Adoption of ring spinning in the British cotton industry",
+    "relevance": "The study is relevant as it examines the adoption of ring spinning technology in the British cotton industry, a key example of technological change impacting labor and industry structure.",
     "technologies": [
       "Ring spinning",
       "Automatic looms"
@@ -24,12 +24,12 @@
     ],
     "occupation_types": [
       "Main",
-      "Supplementary"
+      "Main"
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "The study focuses on cotton firms in Lancashire, Great Britain.",
+    "sample_characteristics": "Firm-level data from Lancashire's cotton firms",
     "time_period_covered": "1885-1910",
     "time_period_start": 1885,
     "time_period_end": 1910,
@@ -42,9 +42,12 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -55,12 +58,20 @@
       "Ring spinning",
       "Automatic looms"
     ],
-    "economic_conditions": "Period of industrial decline in Britain, losing industrial leadership to Germany and the United States.",
+    "economic_conditions": "Period of industrial decline in Britain, losing industrial leadership to Germany and the USA.",
     "institutional_context": "The study discusses the vertical organization of the cotton industry and its impact on technology adoption."
   },
   "outcomes": {
     "main_findings": "The study finds that the vertical organization of the industry did not impede the adoption of ring spinning technology. Non-integrated firms were the first to adopt rings, and the adoption rate among vertically integrated firms accelerated after 1902 due to technological complementarities with automatic looms.",
-    "conclusions": "Entrepreneurial failure does not explain the decline of the Lancashire cotton industry before World War I. The adoption of ring spinning was influenced by the complementarity with automatic looms, which were more efficient for coarse goods production.",
+    "conclusions": "Entrepreneurial failure does not explain the decline of the Lancashire cotton industry. The adoption of ring spinning was influenced by the industry's specialization and the complementarity with automatic looms.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on firm-level data, which may not capture broader industry trends.",
+    "coherence": "The data supports the conclusions about the adoption patterns of ring spinning technology.",
+    "adequacy_of_data": "The study uses comprehensive firm-level data from Worrall's Directories, providing a rich dataset for analysis.",
+    "relevance": "The study is highly relevant to understanding technological adoption in the context of industrial decline.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

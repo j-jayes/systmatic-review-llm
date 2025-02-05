@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "authors": [
+      "Sam Gindin"
+    ],
+    "title": "The Canadian Auto Workers: The Birth and Transformation of a Union",
+    "year_of_publication": 1995,
+    "journal_or_publisher": "James Lorimer & Company, Publishers Toronto"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in the Canadian auto industry",
+    "relevance": "The study is relevant as it discusses the historical context of labor displacement and unionization in the Canadian auto industry, particularly in response to technological changes such as the assembly line.",
+    "technologies": [
+      "Assembly line",
+      "Automation"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Auto workers",
+      "Union leaders"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on Canadian auto workers, particularly in Ontario",
+    "time_period_covered": "1930s to 1980s",
+    "time_period_start": 1930,
+    "time_period_end": 1985,
+    "geographical_focus": "Canada, primarily Ontario"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Assembly line",
+      "Automation"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the displacement of skilled workers due to the introduction of the assembly line.",
+      "unemployment_or_underemployment": "The study highlights the challenges faced by displaced workers in finding new employment.",
+      "duration": null,
+      "wage_changes": "Wage changes are discussed in the context of union negotiations and the impact of technological changes."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Unionization",
+      "Labor displacement",
+      "Technological change",
+      "Worker resistance"
+    ],
+    "text_fragments": [
+      "The assembly line was the culmination of a series of innovations in mechanical integration and flow of components.",
+      "The auto industry stood at the centre of the new stage of capitalism by virtue of its relative size, dynamic growth, importance to other key sectors, and revolutionary role in reorganizing production."
+    ],
+    "narrative_descriptions": "The study provides a detailed narrative of the rise of the Canadian Auto Workers union in response to labor displacement caused by technological changes in the auto industry."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Assembly line",
+      "Automation"
+    ],
+    "economic_conditions": "The study covers the Great Depression and post-war economic conditions, highlighting periods of economic growth and recession.",
+    "institutional_context": "The study discusses the role of unions, labor policies, and the impact of American influence on Canadian labor relations."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that the introduction of the assembly line led to significant labor displacement and the rise of unionization as a response.",
+    "conclusions": "The study concludes that technological changes in the auto industry significantly impacted labor dynamics, leading to the formation and evolution of the Canadian Auto Workers union.",
+    "long_term_impacts": "The study discusses the long-term impacts of unionization on labor rights and working conditions in the Canadian auto industry."
+  }
+}

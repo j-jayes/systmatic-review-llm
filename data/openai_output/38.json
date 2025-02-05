@@ -10,11 +10,11 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change",
-    "relevance": "The study discusses the impact of technological change, globalization, and economic restructuring on women's employment in Canada, highlighting labor displacement and changes in job opportunities.",
+    "relevance": "The study discusses the impact of technological change on women's employment, particularly in clerical and manufacturing jobs, highlighting labor displacement and changes in employment patterns.",
     "technologies": [
       "Microelectronics",
       "Automation",
-      "Information Technology"
+      "Computerization"
     ]
   },
   "design": {
@@ -31,54 +31,63 @@
     "occupation_classifications": null,
     "gross_vs_net": "net",
     "sample_size": null,
-    "sample_characteristics": "Focus on Canadian women in various sectors including clerical, manufacturing, and service industries.",
-    "time_period_covered": "1980s to 1990s",
-    "time_period_start": 1980,
-    "time_period_end": 1999,
+    "sample_characteristics": "Focus on Canadian labor market, particularly women in clerical, manufacturing, and service sectors.",
+    "time_period_covered": "20th century to 1998",
+    "time_period_start": 1900,
+    "time_period_end": 1998,
     "geographical_focus": "Canada"
   },
   "key_variables": {
     "independent_variables": [
       "Technological change",
       "Globalization",
-      "Economic restructuring"
+      "Deregulation",
+      "Privatization"
     ],
     "dependent_variables": {
-      "displaced": "Significant job losses in manufacturing and clerical sectors, particularly affecting women.",
-      "unemployment_or_underemployment": "Increased unemployment and underemployment among women, especially in manufacturing and clerical jobs.",
-      "duration": "Not specified",
-      "wage_changes": "Wage stagnation and decline in certain sectors, with a narrowing gender wage gap due to falling male wages."
+      "displaced": "Women in clerical and manufacturing jobs displaced due to technological advancements.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Increased unemployment and underemployment among women, particularly in clerical and manufacturing sectors.",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Wage stagnation and decline in certain sectors, with a narrowing wage gap due to declining male wages.",
+      "wage_changes_percent": null
     },
-    "moderators": [
-      "Gender",
-      "Industry type",
-      "Union presence"
-    ]
+    "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
       "Impact of technological change on women's employment",
-      "Gender wage gap",
-      "Unionization and labor rights"
+      "Gender inequality in the labor market",
+      "Effects of globalization and deregulation"
     ],
     "text_fragments": [
-      "The second negative portent for female equality was the emergence of the neo-conservative economic agenda in the 1980s — free trade, restructuring, deregulation, privatization, retrenchment in the public sector and in social programs, and the assault on unionism."
+      "The new technology also opens up a host of exciting possibilities.",
+      "The challenge of the new technology is to the quantity and quality of jobs for both women and men."
     ],
-    "narrative_descriptions": "The study provides a detailed account of how technological change and economic policies have affected women's employment opportunities and conditions in Canada."
+    "narrative_descriptions": "The study provides a detailed account of how technological change, globalization, and policy shifts have affected women's employment in Canada, leading to job displacement and changes in labor market dynamics."
   },
   "historical_context": {
     "technological_changes": [
       "Microelectronics",
       "Automation",
-      "Information Technology"
+      "Computerization"
     ],
-    "economic_conditions": "Period of economic restructuring and globalization, with significant impacts on labor markets.",
-    "institutional_context": "Neo-liberal policies, deregulation, and privatization affecting labor markets and social programs."
+    "economic_conditions": "Period of economic restructuring and globalization, with significant technological advancements.",
+    "institutional_context": "Neo-liberal policies, including deregulation and privatization, affecting labor market dynamics."
   },
   "outcomes": {
-    "main_findings": "Technological change and economic restructuring have led to significant job displacement for women, particularly in clerical and manufacturing sectors.",
-    "conclusions": "The study concludes that while technological advancements have created new opportunities, they have also exacerbated gender inequalities in the labor market.",
-    "long_term_impacts": "Potential long-term impacts include increased economic insecurity for women and a need for policy interventions to address gender disparities."
+    "main_findings": "Technological change and globalization have led to significant labor displacement among women, particularly in clerical and manufacturing jobs, with a shift towards part-time and lower-wage employment.",
+    "conclusions": "The study concludes that while technological advancements offer new opportunities, they also pose significant challenges to women's employment, necessitating policy interventions to address gender inequality.",
+    "long_term_impacts": "The long-term impacts include increased economic insecurity for women and a potential widening of gender inequality in the labor market."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical analysis, which may not capture all contemporary dynamics.",
+    "coherence": "The study provides a coherent narrative linking technological change to labor market outcomes for women.",
+    "adequacy_of_data": "The study uses a rich historical dataset but lacks contemporary quantitative data.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on women's employment.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

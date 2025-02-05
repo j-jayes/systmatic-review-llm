@@ -51,9 +51,12 @@ class StudyDesign(BaseModel):
 
 class DependentVariables(BaseModel):
     displaced: Optional[str] = Field(None, description="Description of the number or share of workers displaced.")
+    displaced_number: Optional[int] = Field(None, description="Number of workers displaced.")
     unemployment_or_underemployment: Optional[str] = Field(None, description="Employment outcomes post-displacement, e.g., details on unemployment or underemployment.")
+    unemployment_or_underemployment_number: Optional[int] = Field(None, description="Number of workers experiencing unemployment or underemployment.")
     duration: Optional[str] = Field(None, description="Duration of unemployment/underemployment following technological adoption.")
     wage_changes: Optional[str] = Field(None, description="Description of wage differences after displacement.")
+    wage_changes_percent: Optional[float] = Field(None, description="Percentage change in wages post-displacement.")
 
 class KeyVariables(BaseModel):
     independent_variables: List[str] = Field(..., description="List of technological changes examined, e.g., mechanization, automation.")
@@ -79,6 +82,32 @@ class Outcomes(BaseModel):
     conclusions: str = Field(..., description="Study's conclusions regarding the effects of technological changes on employment.")
     long_term_impacts: Optional[str] = Field(None, description="Discussions on the long-term effects of displacement on individuals, families, or communities.")
 
+class StudyQualityAssessment(BaseModel):
+    methodological_limitations: str = Field(
+        ..., 
+        description="Assessment of the quality of the primary studies contributing to the review finding, focusing on potential biases or flaws in study design and execution."
+    )
+    coherence: str = Field(
+        ..., 
+        description="Evaluation of the consistency and clarity of data supporting the review finding, determining if the evidence convincingly supports the conclusions."
+    )
+    adequacy_of_data: str = Field(
+        ..., 
+        description="Assessment of the richness and quantity of data underpinning the review finding, ensuring sufficient evidence to substantiate conclusions."
+    )
+    relevance: str = Field(
+        ..., 
+        description="Consideration of how applicable the primary data is to the specific context of the review question, ensuring the evidence is pertinent to the study's objectives."
+    )
+    overall_confidence: str = Field(
+        ..., 
+        description='Overall confidence in the evidence, summarized as "High", "Moderate", "Low", or "Very Low" based on the four components.'
+    )
+    inclusion_decision: str = Field(
+        ..., 
+        description='Decision on whether the source should be included in the review, e.g., "Include", "Exclude", or "Further Review Required".'
+    )
+
 class StudyExtraction(BaseModel):
     metadata: StudyMetadata = Field(..., description="Basic metadata about the study.")
     relevance: StudyRelevance = Field(..., description="Relevance of the study to the field of labor displacement due to technological change.")
@@ -88,6 +117,8 @@ class StudyExtraction(BaseModel):
     qualitative_data: Optional[QualitativeData] = Field(None, description="Qualitative data if available.")
     historical_context: HistoricalContext = Field(..., description="Historical and contextual information of the study.")
     outcomes: Outcomes = Field(..., description="Outcomes and conclusions of the study.")
+    quality_assessment: StudyQualityAssessment = Field(..., description="GRADE-CERQual-based assessment of the study quality.")
+
 
 # Extraction instructions that are sent along with the markdown file.
 EXTRACTION_INSTRUCTIONS = r"""

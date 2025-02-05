@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the impact of steam machinery on the manufacturing population of England, highlighting the social, moral, and economic changes, including labor displacement.",
+    "relevance": "The study is highly relevant as it examines the impact of steam machinery on the manufacturing population, including labor displacement and social changes.",
     "technologies": [
       "Steam machinery"
     ]
@@ -20,7 +20,7 @@
     "occupations": [
       "weavers",
       "spinners",
-      "factory workers"
+      "domestic manufacturers"
     ],
     "occupation_types": [
       "Main"
@@ -28,7 +28,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": null,
+    "sample_characteristics": "The study focuses on the manufacturing population in England, particularly in the context of the transition from domestic to factory-based production.",
     "time_period_covered": "1760-1833",
     "time_period_start": 1760,
     "time_period_end": 1833,
@@ -39,36 +39,48 @@
       "use of steam machinery"
     ],
     "dependent_variables": {
-      "displaced": "The introduction of steam machinery led to the displacement of hand-loom weavers and spinners.",
-      "unemployment_or_underemployment": "Many displaced workers faced unemployment or had to accept lower wages in factories.",
+      "displaced": "The transition from domestic to factory-based production led to the displacement of domestic manufacturers.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study discusses the social and economic challenges faced by displaced workers, including loss of domestic virtues and increased poverty.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Wages for hand-loom weavers decreased significantly as steam machinery became prevalent."
+      "wage_changes": "The introduction of steam machinery led to a decrease in wages for hand-loom weavers due to increased competition and mechanization.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "displacement of traditional labor",
-      "social and moral decline",
-      "impact of industrialization on family structures"
+      "Impact of steam machinery on labor",
+      "Social and moral decline due to industrialization",
+      "Displacement of domestic manufacturers",
+      "Changes in family structure and community dynamics"
     ],
     "text_fragments": [
-      "The introduction of steam machinery has led to the displacement of hand-loom weavers and spinners.",
-      "The social and moral conditions of the manufacturing population have deteriorated due to industrialization."
+      "'The domestic manufacturer possessed one great advantage over the factory labourer, which was that his occupation was carried on beneath the roof of his own cottage, and in the midst of his family.'",
+      "'The greatest misfortune-the most unfavourable change which has resulted from factory labour, is the breaking up of these family ties.'"
     ],
-    "narrative_descriptions": "The study provides a detailed account of the social, moral, and economic impacts of steam machinery on the manufacturing population, highlighting the displacement of traditional labor and the resulting social issues."
+    "narrative_descriptions": "The study provides a detailed account of the social, moral, and economic impacts of the transition from domestic manufacturing to factory-based production, highlighting the displacement of workers and the decline in social and family structures."
   },
   "historical_context": {
     "technological_changes": [
-      "steam machinery"
+      "Steam machinery"
     ],
-    "economic_conditions": "Period of industrial growth and expansion in England.",
-    "institutional_context": "Lack of effective labor regulations and social safety nets during the industrial revolution."
+    "economic_conditions": "The period was marked by rapid industrialization and the transition from domestic to factory-based production.",
+    "institutional_context": "The study discusses the lack of regulatory measures to protect workers and the social consequences of industrialization."
   },
   "outcomes": {
-    "main_findings": "The use of steam machinery significantly altered the manufacturing landscape, leading to the displacement of traditional labor and contributing to social and moral decline.",
-    "conclusions": "The study concludes that while steam machinery increased production, it also led to significant social and economic challenges, including labor displacement and the breakdown of traditional family structures.",
-    "long_term_impacts": "The long-term impacts include the erosion of traditional family roles and community structures, leading to social instability."
+    "main_findings": "The introduction of steam machinery led to significant social and economic changes, including the displacement of domestic manufacturers, the decline of family structures, and increased poverty and moral decline.",
+    "conclusions": "The study concludes that the use of steam machinery had profound negative impacts on the manufacturing population, disrupting traditional social structures and leading to widespread displacement and poverty.",
+    "long_term_impacts": "The long-term impacts include the erosion of domestic virtues, the breakdown of family units, and the creation of a new social order dominated by factory labor."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on qualitative observations and lacks quantitative data to support its conclusions.",
+    "coherence": "The study provides a coherent narrative of the social and economic impacts of steam machinery, but the lack of quantitative data limits the strength of its conclusions.",
+    "adequacy_of_data": "The data is rich in qualitative descriptions but lacks quantitative measures to substantiate the claims.",
+    "relevance": "The study is highly relevant to understanding the historical impacts of technological change on labor displacement.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

@@ -12,12 +12,13 @@
     "topic": "Labor Displacement due to Technological Change",
     "relevance": "The study examines the effects of automation on employment in the textile industry, providing insights into historical labor displacement.",
     "technologies": [
-      "Automation"
+      "Automation",
+      "Textile Machinery"
     ]
   },
   "design": {
-    "study_type": "qualitative",
-    "methodology": "historical analysis",
+    "study_type": "historical analysis",
+    "methodology": "qualitative",
     "occupations": [
       "Textile Workers"
     ],
@@ -35,13 +36,17 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Automation"
+      "Automation",
+      "Textile Machinery"
     ],
     "dependent_variables": {
-      "displaced": "A significant number of textile workers were displaced due to automation.",
-      "unemployment_or_underemployment": "Many displaced workers faced long-term unemployment or had to accept lower-paying jobs.",
-      "duration": "Long-term unemployment was common, lasting several years for many workers.",
-      "wage_changes": "Wages for those who found new employment were often lower than their previous jobs."
+      "displaced": "Significant number of workers displaced due to automation.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Increased unemployment and underemployment among displaced workers.",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Wages decreased for remaining workers due to oversupply of labor.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -49,25 +54,34 @@
   "qualitative_data": {
     "key_themes": [
       "Displacement",
-      "Economic hardship",
-      "Adaptation to new technologies"
+      "Economic Hardship",
+      "Technological Change"
     ],
     "text_fragments": [
       "'The introduction of automated looms led to widespread job losses.'",
-      "'Workers struggled to find employment in other sectors.'"
+      "'Workers faced significant economic hardship as a result of displacement.'"
     ],
-    "narrative_descriptions": "The study provides detailed accounts of how workers and their families coped with the economic challenges posed by job displacement."
+    "narrative_descriptions": "The study provides detailed accounts of how automation in the textile industry led to job losses and economic challenges for workers."
   },
   "historical_context": {
     "technological_changes": [
-      "Automated looms"
+      "Automated Looms",
+      "Spinning Machines"
     ],
-    "economic_conditions": "The period was marked by the Industrial Revolution, which brought significant economic changes.",
-    "institutional_context": "Labor unions were in their infancy, and there were few protections for displaced workers."
+    "economic_conditions": "Industrial Revolution period marked by rapid technological advancement and economic change.",
+    "institutional_context": "Lack of strong labor unions to protect workers' rights during this period."
   },
   "outcomes": {
-    "main_findings": "Automation in the textile industry led to significant job displacement and economic hardship for workers.",
-    "conclusions": "Technological advancements, while increasing productivity, had severe negative impacts on employment for certain groups.",
-    "long_term_impacts": "The study suggests that the displacement had lasting effects on communities, contributing to economic and social changes."
+    "main_findings": "Automation in the textile industry led to significant labor displacement and economic hardship for workers.",
+    "conclusions": "Technological advancements, while increasing productivity, had adverse effects on employment and wages in the textile sector.",
+    "long_term_impacts": "The study suggests long-term impacts on community structures and family dynamics due to sustained unemployment."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical records, which may not capture all dimensions of the impact.",
+    "coherence": "The data presented is consistent with historical accounts of the period.",
+    "adequacy_of_data": "The study provides a rich qualitative account but lacks quantitative data.",
+    "relevance": "The study is highly relevant to understanding historical labor displacement due to technological change.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "The skill content of technological change in early twentieth century United States",
-    "relevance": "The study examines the impact of electrification on labor displacement and skill distribution in the early 20th century U.S., providing insights into how technological change affects employment patterns.",
+    "relevance": "The study is relevant as it examines the impact of electrification on labor displacement and skill distribution in the early 20th century U.S., drawing parallels with modern technological changes like computerization.",
     "technologies": [
       "Electrification"
     ]
@@ -27,7 +27,7 @@
       "Main"
     ],
     "occupation_classifications": null,
-    "gross_vs_net": "net",
+    "gross_vs_net": "gross",
     "sample_size": 411530,
     "sample_characteristics": "Workers in the manufacturing sector in the United States, aged 12-70, from 1900 to 1940.",
     "time_period_covered": "1900-1940",
@@ -40,10 +40,13 @@
       "Electrification"
     ],
     "dependent_variables": {
-      "displaced": "The study does not specify the exact number of workers displaced but indicates a shift in demand from dexterity-intensive jobs to clerical and manual tasks.",
-      "unemployment_or_underemployment": null,
+      "displaced": "Hollowing out of the skill distribution, with middle-skill jobs declining.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Not explicitly detailed, but implied through changes in skill demand.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "The study suggests a decline in wage differentials within U.S. manufacturing up to 1950, with a decrease in the skill premium for high-skill blue-collar workers."
+      "wage_changes": "Downward trend in wage differentials within U.S. manufacturing up to 1950.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -51,27 +54,25 @@
     "effect_sizes": null,
     "statistical_measures": null
   },
-  "qualitative_data": {
-    "key_themes": [
-      "Hollowing out of skill distribution",
-      "Skill-biased technological change",
-      "Unskill-biased technological change"
-    ],
-    "text_fragments": [
-      "Electrification increased the demand for clerical, numerical, planning and people skills relative to manual skills while simultaneously reducing relative demand for the dexterity-intensive jobs."
-    ],
-    "narrative_descriptions": "The study describes the impact of electrification on the skill distribution in manufacturing, showing a shift in demand from dexterity-intensive jobs to clerical and manual tasks."
-  },
+  "qualitative_data": null,
   "historical_context": {
     "technological_changes": [
       "Electrification"
     ],
-    "economic_conditions": "Period of industrial growth and technological advancement in the early 20th century.",
-    "institutional_context": "The study period includes the Great Depression and the New Deal era, which influenced labor policies and employment conditions."
+    "economic_conditions": "Period of industrial growth and technological advancement in the U.S.",
+    "institutional_context": "No consistent and nationally-representative measures of education pre-1940, motivating the focus on task-based skill measures."
   },
   "outcomes": {
-    "main_findings": "Electrification led to a 'hollowing out' of the skill distribution, increasing demand for clerical and manual tasks while reducing demand for dexterity-intensive jobs.",
-    "conclusions": "Technological change in the early 20th century U.S. was unskill-biased for blue-collar tasks but skill-biased on aggregate, contributing to changes in wage differentials.",
-    "long_term_impacts": "The study suggests that the hollowing out of the skill distribution had implications for wage inequality and labor market dynamics."
+    "main_findings": "Electrification led to a 'hollowing out' of the skill distribution, increasing demand for clerical and managerial skills while reducing demand for dexterity-intensive jobs.",
+    "conclusions": "Early 20th-century technological change was unskill-biased for blue-collar tasks but skill-biased on aggregate, contributing to changes in wage differentials.",
+    "long_term_impacts": "Potential implications for historical literature on inequality, suggesting alternative explanations for falling wage differentials."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study uses task data from the end of the sample period, which may not perfectly represent earlier years.",
+    "coherence": "The study provides a consistent narrative linking electrification to changes in skill demand and wage differentials.",
+    "adequacy_of_data": "The study uses a large dataset of 411,530 individuals, providing robust evidence for its conclusions.",
+    "relevance": "The study is highly relevant to understanding historical labor displacement due to technological change.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Machinery and the Displacement of Skill",
-    "relevance": "The study is relevant as it examines the impact of machinery on labor, specifically focusing on the displacement of skill, which is a key aspect of labor displacement due to technological change.",
+    "relevance": "The study is relevant as it discusses the impact of machinery on labor, specifically focusing on the displacement of skill due to technological advancements.",
     "technologies": [
       "Linotype",
       "Stone-planer",
@@ -48,10 +48,13 @@
       "Extent to which the skill of the handworker is useful in the machine process"
     ],
     "dependent_variables": {
-      "displaced": "The study discusses the displacement of skill, defined as the loss of opportunity to sell acquired skill at the previous rate of remuneration due to machinery.",
-      "unemployment_or_underemployment": "The study suggests that displacement does not necessarily mean loss of employment but may result in employment at a lower rate of remuneration.",
+      "displaced": "Displacement of skill in various trades due to machinery",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Surplus of skilled workmen due to machinery",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Displacement of skill is associated with a reduction in wages for skilled laborers."
+      "wage_changes": "Lower rate of remuneration for skilled labor post-introduction of machinery",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -59,15 +62,15 @@
   "qualitative_data": {
     "key_themes": [
       "Displacement of skill",
-      "Rapidity of machine introduction",
       "Mobility of labor",
-      "Demand increase due to machinery",
-      "Labor-displacing power"
+      "Labor-displacing power of machines",
+      "Economic impact of machinery"
     ],
     "text_fragments": [
-      "'The factors determining the extent of the displacement of skill consequent upon the introduction of machinery may be enumerated as follows: (1) the rapidity of introduction of the machine, (2) the mobility of labor within the skilled trade affected, (3) the effect of the machine in reducing the price of the manufactured article and thus increasing demand, (4) the labor-displacing power of the machine, (5) the extent to which the skill of the handworker is useful in the machine process.'"
+      "\"The introduction of machinery is rarely, if ever, catastrophic, and that a considerable period is likely to elapse before the machine has reached its limits as a potential force in displacing skill.\"",
+      "\"The fortunate outcome in the introduction of the linotype was due to the low displacing power of the machine, the large extent of the use of skilled men as coöperant workers and as machine operators, together with an increase in production.\""
     ],
-    "narrative_descriptions": "The study provides a detailed narrative on how machinery affects the displacement of skill, focusing on various factors such as the speed of machine introduction and the mobility of labor."
+    "narrative_descriptions": "The study provides a detailed account of how different factors influence the displacement of skill due to machinery, using historical examples from various trades."
   },
   "historical_context": {
     "technological_changes": [
@@ -76,12 +79,20 @@
       "Semi-automatic bottle machine",
       "Owens bottle machine"
     ],
-    "economic_conditions": "Period of industrialization and technological advancement in the 19th and early 20th centuries.",
-    "institutional_context": "The study mentions the role of trade unions in modifying the impact of machinery on labor displacement."
+    "economic_conditions": "Period of industrialization and technological advancement",
+    "institutional_context": "Trade unions played a role in moderating the impact of machinery on labor displacement."
   },
   "outcomes": {
-    "main_findings": "The study finds that the introduction of machinery leads to the displacement of skill, which is influenced by factors such as the rapidity of machine introduction and labor mobility.",
-    "conclusions": "The displacement of skill due to machinery is a complex process influenced by multiple factors, and while machinery can lead to increased demand, it often results in reduced wages for skilled workers.",
-    "long_term_impacts": null
+    "main_findings": "The displacement of skill due to machinery is influenced by several factors, including the rapidity of machine introduction, labor mobility, and the labor-displacing power of the machine.",
+    "conclusions": "The introduction of machinery does not always lead to immediate displacement of labor, and the extent of displacement is determined by various economic and mechanical factors.",
+    "long_term_impacts": "The study suggests that the long-term impact of machinery on labor displacement is complex and varies depending on the trade and the specific machinery introduced."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical analysis and lacks empirical data collection.",
+    "coherence": "The study provides a coherent analysis of the factors affecting labor displacement due to machinery.",
+    "adequacy_of_data": "The study uses historical examples but lacks quantitative data to substantiate conclusions.",
+    "relevance": "The study is relevant to understanding the historical impact of machinery on labor displacement.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

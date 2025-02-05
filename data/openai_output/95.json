@@ -28,10 +28,10 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Focus on the Chinese coal industry from the mid-nineteenth century to the present, with emphasis on the reform era.",
-    "time_period_covered": "Mid-nineteenth century to the present",
+    "sample_characteristics": null,
+    "time_period_covered": "mid-nineteenth century to 2000",
     "time_period_start": null,
-    "time_period_end": null,
+    "time_period_end": 2000,
     "geographical_focus": "China"
   },
   "key_variables": {
@@ -41,9 +41,12 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -51,16 +54,24 @@
   "qualitative_data": null,
   "historical_context": {
     "technological_changes": [
-      "Introduction of mechanized mining",
-      "Development of opencast mining",
-      "Coal washing and processing technologies"
+      "Introduction of opencast mining",
+      "Coal washing and processing",
+      "Mechanization of coal mining"
     ],
-    "economic_conditions": "Period of economic modernization and reform in China, with a focus on the coal industry as a strategic sector.",
-    "institutional_context": "Reforms in the state industrial sector, including changes in planning and management of the coal industry."
+    "economic_conditions": "Period of economic reform and modernization in China, particularly post-1978 reforms.",
+    "institutional_context": "Reforms in the coal industry, including decentralization, marketization, and foreign investment."
   },
   "outcomes": {
-    "main_findings": "The study highlights the critical importance of the coal industry in China's economic modernization and the challenges faced during reforms, including issues of labor management and technological adoption.",
-    "conclusions": "The coal industry in China has undergone significant changes due to economic reforms and technological advancements, which have impacted its structure and operation.",
+    "main_findings": "The study highlights the evolution of the Chinese coal industry, emphasizing the impact of economic reforms and technological advancements on production and industry structure.",
+    "conclusions": "The Chinese coal industry underwent significant changes due to economic reforms and technological advancements, leading to increased production and modernization.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is primarily historical and may lack quantitative data to support some conclusions.",
+    "coherence": "The study provides a coherent narrative of the historical development of the Chinese coal industry.",
+    "adequacy_of_data": "The study relies on historical records and publications, which may have limitations in data richness.",
+    "relevance": "The study is relevant to understanding the historical context of labor displacement and technological change in the coal industry.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

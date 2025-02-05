@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "D. J. Huppatz"
+    ],
+    "title": "Robot salesmen: automated food retailing in the United States, 1925-39",
+    "year_of_publication": 2021,
+    "journal_or_publisher": "History of Retailing and Consumption"
+  },
+  "relevance": {
+    "topic": "Automated food retailing and its impact on labor displacement",
+    "relevance": "The study examines the historical context of automated food retailing, focusing on vending machines and their potential to replace human labor in retail settings, which is directly relevant to labor displacement due to technological change.",
+    "technologies": [
+      "Vending machines",
+      "Automated retail technologies"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "store clerks",
+      "cashiers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1925-1939",
+    "time_period_start": 1925,
+    "time_period_end": 1939,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "vending machines",
+      "automated retail technologies"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the potential displacement of store clerks and cashiers due to vending machines.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Automation in retail",
+      "Labor displacement",
+      "Technological innovation",
+      "Economic impact of vending machines"
+    ],
+    "text_fragments": [
+      "'robot salesmen' would not only eliminate intermediaries such as store clerks and cashiers (and their associated labour costs) but that automated technologies would eventually replace traditional stores."
+    ],
+    "narrative_descriptions": "The study provides a historical narrative of the development and impact of vending machines in the United States from 1925 to 1939, highlighting the potential and challenges of automated retail technologies."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Vending machines",
+      "Automated retail technologies"
+    ],
+    "economic_conditions": "The study period includes the Great Depression, which affected the adoption and success of vending machines.",
+    "institutional_context": "The study mentions regulatory challenges such as taxes, sanitation regulations, and the reputation of vending machines being associated with gambling."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that while vending machines had the potential to replace human labor in retail, they faced significant challenges such as regulatory issues, technical limitations, and economic conditions that limited their success.",
+    "conclusions": "Automated retail technologies like vending machines had a limited impact on labor displacement during the study period due to various challenges, but they set the stage for future developments in automated retail.",
+    "long_term_impacts": "The study suggests that the ideals of self-service and automated retail introduced by vending machines have persisted and evolved, influencing modern retail technologies like Amazon Go."
+  }
+}

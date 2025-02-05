@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "authors": [
+      "Andrew Schmitz",
+      "Charles B. Moss"
+    ],
+    "title": "Mechanized Agriculture: Machine Adoption; Farm Size, and Labor Displacement",
+    "year_of_publication": 2015,
+    "journal_or_publisher": "AgBioForum"
+  },
+  "relevance": {
+    "topic": "Mechanization in agriculture and its impact on labor displacement",
+    "relevance": "The study examines the impact of mechanization on labor demand and displacement in agriculture, focusing on various technological innovations.",
+    "technologies": [
+      "mechanical tomato harvester",
+      "cotton stripper",
+      "cotton picker",
+      "sugarcane harvester",
+      "combine",
+      "lettuce harvester",
+      "orange harvester",
+      "zero-tillage air seeder",
+      "high clearance sprayer",
+      "small farm equipment",
+      "concentrated livestock operation equipment",
+      "greenhouse nursery operations"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "farm labor",
+      "packing and processing plant workers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Early settlement to present",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "United States and Canada"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "technological innovations"
+    ],
+    "dependent_variables": {
+      "displaced": "Decrease in demand for farm labor",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Low wages and undesirable working conditions in packing and processing plants",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Wages near minimum wage in packing and processing plants",
+      "wage_changes_percent": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Labor displacement due to mechanization",
+      "Economic impact on rural communities",
+      "Debate on compensation for displaced workers"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study discusses the impact of mechanization on labor demand, highlighting the economic theory behind agricultural mechanization and its effects on different types of labor."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanical tomato harvester",
+      "cotton stripper",
+      "cotton picker",
+      "sugarcane harvester",
+      "combine",
+      "lettuce harvester",
+      "orange harvester",
+      "zero-tillage air seeder",
+      "high clearance sprayer",
+      "small farm equipment",
+      "concentrated livestock operation equipment",
+      "greenhouse nursery operations"
+    ],
+    "economic_conditions": "Mechanization has led to increased farm size and output, decreased demand for farm labor, and changes in rural communities.",
+    "institutional_context": "Policies such as minimum wage rates and immigration affect the demand for hired agricultural labor."
+  },
+  "outcomes": {
+    "main_findings": "Mechanization has significantly reduced the demand for farm labor, leading to larger farms and changes in rural communities.",
+    "conclusions": "The adoption of mechanization in agriculture results in both winners and losers, with debates on whether displaced workers should be compensated.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study does not provide quantitative data or specific numbers on labor displacement.",
+    "coherence": "The study provides a coherent narrative on the impact of mechanization on labor demand.",
+    "adequacy_of_data": "The study lacks quantitative data to support its conclusions.",
+    "relevance": "The study is relevant to understanding the impact of mechanization on labor displacement in agriculture.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "authors": [
+      "Marco Vivarelli"
+    ],
+    "title": "Innovation and Employment: A Survey",
+    "year_of_publication": 2007,
+    "journal_or_publisher": "IZA"
+  },
+  "relevance": {
+    "topic": "Innovation and Employment",
+    "relevance": "The study surveys the theoretical and empirical literature on the impact of innovation on employment, critiquing the compensation theory which suggests that market forces will fully compensate for labor displacement due to technological change.",
+    "technologies": [
+      "ICTs",
+      "process innovations",
+      "product innovations"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "literature review",
+    "occupations": [],
+    "occupation_types": [],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "19th century to early 21st century",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "Global"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "process innovations",
+      "product innovations"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "compensation theory",
+      "technological unemployment",
+      "market compensation mechanisms"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study critiques the compensation theory, which posits that market forces will fully compensate for the labor-saving impacts of technological innovations. It discusses various compensation mechanisms and their limitations."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "ICTs",
+      "process innovations",
+      "product innovations"
+    ],
+    "economic_conditions": "Periods of technological change, such as the Industrial Revolution and the diffusion of ICTs.",
+    "institutional_context": "The study discusses the role of economic theories and market mechanisms in addressing technological unemployment."
+  },
+  "outcomes": {
+    "main_findings": "The study concludes that while compensation mechanisms exist, they do not fully counterbalance the labor displacement caused by technological innovations.",
+    "conclusions": "The relationship between technological change and employment is complex, and compensation mechanisms do not guarantee full employment recovery.",
+    "long_term_impacts": null
+  }
+}

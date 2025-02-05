@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Labor displacement due to economic fluctuations and social movements",
-    "relevance": "The study examines the impact of economic fluctuations on social movements, including labor movements, in the 19th and early 20th centuries, which is relevant to understanding labor displacement due to economic and technological changes.",
+    "relevance": "The study examines the impact of economic fluctuations on social movements, including labor movements, which is relevant to understanding labor displacement due to technological and economic changes.",
     "technologies": []
   },
   "design": {
@@ -19,15 +19,8 @@
       "trade unionists",
       "miners",
       "railway workers",
-      "gasworkers",
-      "dockers",
-      "seamen",
-      "boot-and-shoe workers",
-      "tramway-men",
-      "electricians",
-      "workers in chemicals",
-      "flour- and oil-mills",
-      "clothing-workers"
+      "gas workers",
+      "dock workers"
     ],
     "occupation_types": [
       "Main"
@@ -35,7 +28,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "The study focuses on labor movements in 19th and early 20th-century Europe, primarily using British data.",
+    "sample_characteristics": "Focus on labor movements in 19th and early 20th century Europe, primarily Britain.",
     "time_period_covered": "1800-1950",
     "time_period_start": 1800,
     "time_period_end": 1950,
@@ -49,9 +42,12 @@
     ],
     "dependent_variables": {
       "displaced": null,
-      "unemployment_or_underemployment": "The study discusses periods of high unemployment and economic depression affecting labor movements.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "The study mentions periods of wage cuts and falling real wages."
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -64,21 +60,29 @@
     ],
     "text_fragments": [
       "The most dramatic of sudden expansions of social movements are the great social revolutions of 1789-1817; but the pattern of discontinuity is quite general even in less disturbed times and in narrower fields.",
-      "The characteristic thing about our 'explosions' is that they mark qualitative as well as quantitative changes."
+      "The 'leaps' have attracted remarkably little attention among students."
     ],
-    "narrative_descriptions": "The study provides a detailed narrative of how economic fluctuations and technical changes have historically led to 'explosions' or sudden expansions in labor movements, affecting various industries and occupations."
+    "narrative_descriptions": "The study describes the periodic and sudden expansions in the size, strength, and activity of social movements, mainly in 19th and early 20th-century Europe, focusing on the reasons behind these 'explosions' and their timing."
   },
   "historical_context": {
     "technological_changes": [
-      "mass-production clothing-manufacture",
-      "mechanization in various industries"
+      "industrialization",
+      "technical innovations in industries like gas and railways"
     ],
-    "economic_conditions": "The study covers periods of economic growth and depression, including the Great Depression and post-war expansions.",
-    "institutional_context": "The study discusses the role of trade unions and labor movements in response to economic changes."
+    "economic_conditions": "Periods of economic growth and depression in 19th and early 20th-century Europe.",
+    "institutional_context": "The study discusses the lack of institutionalized collective bargaining and the role of new labor organizations in the period."
   },
   "outcomes": {
-    "main_findings": "The study finds that economic fluctuations and technical changes lead to periodic 'explosions' in labor movements, characterized by sudden expansions and increased labor activity.",
-    "conclusions": "Labor movements are significantly influenced by economic cycles and technical changes, which create conditions for sudden expansions or 'explosions' in labor activity.",
+    "main_findings": "The study finds that labor movements often expand suddenly and discontinuously, influenced by economic cycles and technical changes.",
+    "conclusions": "Economic fluctuations and technical changes create conditions for labor 'explosions', but these are not solely determined by economic cycles.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may be incomplete or biased.",
+    "coherence": "The study provides a coherent narrative of labor movements in relation to economic cycles.",
+    "adequacy_of_data": "The data is primarily qualitative and historical, providing a broad overview rather than detailed quantitative analysis.",
+    "relevance": "The study is relevant to understanding historical labor movements and their causes.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Industrial, Community, and Ecological Sustainability in Forestry",
-    "relevance": "The study examines the impact of technological change on labor displacement in the sawmilling industry, highlighting the replacement of labor by capital and its effects on community and ecological sustainability.",
+    "relevance": "The study examines the impact of technological change on labor displacement in the sawmilling industry, highlighting the reduction in workforce due to increased mechanization and its effects on community sustainability.",
     "technologies": [
       "Computerized production technology",
       "Flexible production methods"
@@ -35,14 +35,17 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Technological change in sawmilling",
-      "Capital-intensive equipment"
+      "Technological change",
+      "Computerized production technology"
     ],
     "dependent_variables": {
       "displaced": "40% of the sawmill workforce was eliminated during the early 1980s recession.",
-      "unemployment_or_underemployment": "17% of workers were unemployed by 1985, and those who found jobs outside the industry earned 33% less.",
+      "displaced_number": 3561,
+      "unemployment_or_underemployment": "17% of workers were unemployed by 1985.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Workers who found jobs outside the industry earned 33% less in 1985 than their sawmill jobs had paid in 1978."
+      "wage_changes": "Workers who found jobs outside the industry earned 33% less in 1985 than their sawmill jobs had paid in 1978.",
+      "wage_changes_percent": -33
     },
     "moderators": null
   },
@@ -52,12 +55,12 @@
   },
   "qualitative_data": {
     "key_themes": [
-      "Impact of technological change on labor displacement",
+      "Impact of technological change on employment",
       "Community sustainability",
-      "Ecological sustainability"
+      "Ecological footprint"
     ],
     "text_fragments": null,
-    "narrative_descriptions": "The study describes the impact of technological change on sawmill workers, highlighting the reduction in workforce and the increased ecological footprint due to capital-intensive equipment."
+    "narrative_descriptions": "The study describes the impact of technological change on the sawmill industry, leading to significant job losses and reduced community sustainability."
   },
   "historical_context": {
     "technological_changes": [
@@ -65,11 +68,19 @@
       "Flexible production methods"
     ],
     "economic_conditions": "Recession in the early 1980s",
-    "institutional_context": "Labor adjustment policies and studies conducted by Statistics Canada"
+    "institutional_context": "Labor adjustments and policies during the restructuring of the sawmill industry"
   },
   "outcomes": {
-    "main_findings": "The recession of the early 1980s led to a 40% reduction in the sawmill workforce, with increased replacement of labor by capital, resulting in higher productivity and ecological footprint.",
-    "conclusions": "Technological changes in the sawmilling industry have led to significant labor displacement, reduced community viability, and increased ecological pressure.",
-    "long_term_impacts": "The study suggests that the technological changes have long-term impacts on community sustainability and ecological health, with increased migration of younger workers and reduced community stability."
+    "main_findings": "The recession of the early 1980s led to a 40% reduction in the sawmill workforce, with younger workers being most affected. Technological advancements increased productivity but also increased the ecological footprint of sawmills.",
+    "conclusions": "Technological changes in the sawmill industry have led to significant job losses and increased ecological impact, challenging both community and ecological sustainability.",
+    "long_term_impacts": "The study suggests that job losses and reduced community viability may lead to increased migration and long-term economic decline in affected communities."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study uses a crude measure of community sustainability based on hourly pay jobs.",
+    "coherence": "The data consistently supports the conclusion that technological change led to job losses and increased ecological impact.",
+    "adequacy_of_data": "The study is based on a large cohort of sawmill workers and comprehensive data from multiple sources.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement and community sustainability.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

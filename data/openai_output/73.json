@@ -8,8 +8,8 @@
     "journal_or_publisher": "Anuario Colombiano de Historia Social y de la Cultura"
   },
   "relevance": {
-    "topic": "The relationship between the brick industry and urbanization in Bogotá",
-    "relevance": "The study examines the impact of technological advancements in brick production on urbanization, highlighting the coexistence of modern and artisanal production methods and their influence on labor and urban development.",
+    "topic": "The relationship between the brick industry and urbanization in San Cristóbal, Bogotá, during the early 20th century.",
+    "relevance": "The study is relevant as it explores the impact of technological advancements in brick production on urbanization and labor dynamics in Bogotá.",
     "technologies": [
       "industrial ovens",
       "coal-fueled ovens"
@@ -20,16 +20,15 @@
     "methodology": "historical analysis",
     "occupations": [
       "brickmakers",
-      "artisanal producers"
+      "factory workers"
     ],
     "occupation_types": [
-      "Main",
-      "Supplementary"
+      "Main"
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Focus on the southeastern sector of Bogotá, specifically San Cristóbal, during the early 20th century.",
+    "sample_characteristics": "The study focuses on the southeastern sector of Bogotá, specifically San Cristóbal, during the early 20th century.",
     "time_period_covered": "1910-1940",
     "time_period_start": 1910,
     "time_period_end": 1940,
@@ -42,21 +41,27 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "coexistence of modern and artisanal production",
-      "urbanization driven by brick industry",
-      "social construction of space"
+      "urbanization",
+      "industrialization",
+      "artisanal production",
+      "labor dynamics"
     ],
-    "text_fragments": null,
-    "narrative_descriptions": "The study describes the historical development of the brick industry in San Cristóbal, highlighting the coexistence of modern factories and artisanal production, and their influence on urbanization."
+    "text_fragments": [
+      "The existence of both modern brick factories and artisanal producers had a concrete influence on the urbanization process in that part of the city."
+    ],
+    "narrative_descriptions": "The study describes the coexistence of modern and artisanal brick production in San Cristóbal and its impact on urbanization."
   },
   "historical_context": {
     "technological_changes": [
@@ -64,11 +69,19 @@
       "coal-fueled ovens"
     ],
     "economic_conditions": "Period of urban growth in Bogotá during the early 20th century.",
-    "institutional_context": "Limited state intervention in urban planning, with private developers playing a significant role."
+    "institutional_context": "Limited state intervention in urban planning; private urban developers played a significant role."
   },
   "outcomes": {
     "main_findings": "The brick industry, both modern and artisanal, played a significant role in the urbanization of San Cristóbal, contributing to the development of worker neighborhoods.",
-    "conclusions": "The coexistence of modern and artisanal brick production influenced the urbanization process in San Cristóbal, demonstrating the social construction of space.",
+    "conclusions": "The study concludes that the brick industry was crucial in shaping the urban landscape of southeastern Bogotá, with modern factories and artisanal production coexisting and influencing urban growth.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical documents and may lack quantitative data to support some claims.",
+    "coherence": "The study provides a coherent narrative of the historical development of the brick industry and its impact on urbanization.",
+    "adequacy_of_data": "The study uses a variety of historical sources, including censuses and construction licenses, to support its findings.",
+    "relevance": "The study is relevant to understanding the historical impact of industrialization on urban development and labor dynamics.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

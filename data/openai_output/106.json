@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "authors": [
+      "Kevin H. O'Rourke",
+      "Ahmed S. Rahman",
+      "Alan M. Taylor"
+    ],
+    "title": "Luddites, the Industrial Revolution, and the Demographic Transition",
+    "year_of_publication": 2011,
+    "journal_or_publisher": "N/A"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the impact of technological change during the Industrial Revolution on labor, particularly focusing on the displacement of skilled workers by unskilled labor due to new machinery.",
+    "technologies": [
+      "Textile machinery",
+      "Self-acting mule",
+      "Mass production methods"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Textile workers",
+      "Artisans",
+      "Unskilled laborers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "18th and 19th centuries",
+    "time_period_start": 1700,
+    "time_period_end": 1900,
+    "geographical_focus": "England"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Technological change",
+      "Mechanization",
+      "Mass production"
+    ],
+    "dependent_variables": {
+      "displaced": "Skilled workers displaced by unskilled labor due to new machinery",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Skilled workers faced reduced demand and wages",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Wages for skilled workers decreased as unskilled labor was used",
+      "wage_changes_percent": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Technological change",
+      "Labor displacement",
+      "Skill-biased vs. unskilled-biased technology"
+    ],
+    "text_fragments": [
+      "'In none of these cases . . . was there any question of hostility to machines as such. Wrecking was simply a technique of trade unionism'",
+      "'The early stages of industrialization had to be unskilled-labor-intensive simply because there were so many more unskilled laborers in the workforce than skilled laborers.'"
+    ],
+    "narrative_descriptions": "The study describes the transition from skilled to unskilled labor during the Industrial Revolution, highlighting the role of technological change in displacing skilled workers."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Textile machinery",
+      "Self-acting mule",
+      "Mass production methods"
+    ],
+    "economic_conditions": "Post-Malthusian regime with gradual escape from the Malthusian trap",
+    "institutional_context": "Trade unionism and collective bargaining by riot as responses to labor displacement"
+  },
+  "outcomes": {
+    "main_findings": "Technological change during the Industrial Revolution initially favored unskilled labor, displacing skilled workers. Over time, as basic knowledge increased, there was a shift towards skill-biased technological change.",
+    "conclusions": "The transition from unskilled to skill-biased technological change was driven by economic incentives and the availability of unskilled labor. This transition was gradual and varied across regions and sectors.",
+    "long_term_impacts": "The study suggests that the long-term impact of technological change included a demographic transition with reduced fertility and increased education."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data and models, which may not capture all nuances of the period.",
+    "coherence": "The study provides a coherent narrative linking technological change to labor displacement and demographic shifts.",
+    "adequacy_of_data": "The study uses historical data and models to support its conclusions, but the richness of data may be limited by historical records.",
+    "relevance": "The study is relevant to understanding the historical context of labor displacement due to technological change.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
+  }
+}

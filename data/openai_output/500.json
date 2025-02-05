@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "authors": [
+      "П. С. Гребенюк"
+    ],
+    "title": "Кризис Дальстроя и проблемы развития золотодобывающего комплекса на Северо-Востоке СССР в 1954-1957 гг.",
+    "year_of_publication": 2023,
+    "journal_or_publisher": "Новейшая история России"
+  },
+  "relevance": {
+    "topic": "Кризис Дальстроя и развитие золотодобывающего комплекса",
+    "relevance": "The study is relevant as it examines the impact of technological and organizational changes on labor displacement in the gold mining industry in the North-East of the USSR during the 1950s.",
+    "technologies": [
+      "Mechanization",
+      "Automation"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Gold mining workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Workers in the North-East of the USSR, including both free labor and prisoners.",
+    "time_period_covered": "1954-1957",
+    "time_period_start": 1954,
+    "time_period_end": 1957,
+    "geographical_focus": "North-East of the USSR, including Magadan Region"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Mechanization",
+      "Automation"
+    ],
+    "dependent_variables": {
+      "displaced": "The number of workers in the gold mining industry decreased by more than 2.5 times from 1953 to 1957.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "High staff turnover and the need for qualified personnel.",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": null,
+      "wage_changes_percent": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Mechanization",
+      "Automation"
+    ],
+    "economic_conditions": "Post-war economic adjustments and industrial reorganization.",
+    "institutional_context": "The transition from forced labor to free labor and the creation of the Magadan Region in 1953."
+  },
+  "outcomes": {
+    "main_findings": "The transition to free labor and mechanization led to a significant reduction in the workforce and increased costs, contributing to the crisis in the gold mining industry.",
+    "conclusions": "The crisis in Dalstroy's gold mining was due to a combination of reduced gold reserves, decreased gold content, labor shortages, and the transition to free labor.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical records, which may have biases or gaps.",
+    "coherence": "The data presented is consistent with the historical context and supports the conclusions drawn.",
+    "adequacy_of_data": "The study provides a detailed account of the factors leading to the crisis, but lacks quantitative data on specific employment outcomes.",
+    "relevance": "The study is relevant to understanding the impact of technological and organizational changes on labor displacement.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
+  }
+}

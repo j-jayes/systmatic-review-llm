@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "authors": [
+      "Niklas Bengtsson",
+      "Raoul van Maarseveen",
+      "Adrian Poignant"
+    ],
+    "title": "The Effects of Worker Displacement During the Industrial Revolution: Evidence from Sweden",
+    "year_of_publication": 2025,
+    "journal_or_publisher": "Not specified"
+  },
+  "relevance": {
+    "topic": "Worker displacement during the Industrial Revolution",
+    "relevance": "The study is highly relevant as it provides quantitative evidence on the effects of worker displacement during the second industrial revolution, focusing on the Swedish iron industry.",
+    "technologies": [
+      "Puddling process",
+      "Swedish Lancashire process",
+      "Bessemer process",
+      "Siemens-Martin process"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "ironworkers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": 7523,
+    "sample_characteristics": "Male workers aged 18-59 in the Swedish iron industry, observed in the 1880 and 1890 censuses.",
+    "time_period_covered": "1860-1900",
+    "time_period_start": 1860,
+    "time_period_end": 1900,
+    "geographical_focus": "Sweden"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "industrialization",
+      "technological change"
+    ],
+    "dependent_variables": {
+      "displaced": "Ironworkers displaced by site closures between 1880 and 1890.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Displaced workers were more likely to exit the iron industry and migrate.",
+      "unemployment_or_underemployment_number": null,
+      "duration": "Effects observed in 1890 and persisted in 1900.",
+      "wage_changes": "Displaced workers ended up in occupations that paid on average 10% less.",
+      "wage_changes_percent": 10
+    },
+    "moderators": [
+      "migration",
+      "regional economic conditions"
+    ]
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Puddling process",
+      "Swedish Lancashire process",
+      "Bessemer process",
+      "Siemens-Martin process"
+    ],
+    "economic_conditions": "Period of rapid industrialization in Sweden's economic history.",
+    "institutional_context": "Liberal economic policies eroded pre-industrial institutions, facilitating industrial growth."
+  },
+  "outcomes": {
+    "main_findings": "Displaced ironworkers were more likely to exit the industry, migrate, and end up in lower-paid occupations. Migration mitigated long-term negative effects for some workers.",
+    "conclusions": "Industrialization had long-lasting negative effects on displaced workers but did not significantly affect their children's earnings.",
+    "long_term_impacts": "Displacement did not have significant scarring effects on the next generation."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "Potential biases due to unobservable factors affecting both treatment and control groups.",
+    "coherence": "The data consistently supports the conclusions about displacement effects.",
+    "adequacy_of_data": "Rich data from archival sources and linked census data provide a robust basis for conclusions.",
+    "relevance": "The study is highly relevant to understanding historical labor displacement due to technological change.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
+  }
+}

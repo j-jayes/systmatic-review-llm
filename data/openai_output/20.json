@@ -8,21 +8,21 @@
     "journal_or_publisher": "Cambridge University Press"
   },
   "relevance": {
-    "topic": "The management of labour in modern Britain",
-    "relevance": "The study is relevant as it examines the historical development of labor management in Britain, focusing on how technological changes and market conditions influenced labor displacement and management strategies.",
+    "topic": "The development of employers' human resource management and industrial relations policies in Britain.",
+    "relevance": "The study is relevant as it examines the historical development of labor management in Britain, focusing on how technological and market changes influenced labor displacement and management strategies.",
     "technologies": [
       "Mass-production technologies",
       "Mechanisation",
-      "Automation"
+      "Assembly-line techniques"
     ]
   },
   "design": {
     "study_type": "historical analysis",
     "methodology": "historical analysis",
     "occupations": [
-      "manual workers",
-      "skilled workers",
-      "unskilled workers"
+      "Manual workers",
+      "Skilled workers",
+      "Craft workers"
     ],
     "occupation_types": [
       "Main"
@@ -30,7 +30,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": null,
+    "sample_characteristics": "The study focuses on the British labor market and industrial enterprises from the late 19th century to the late 20th century.",
     "time_period_covered": "Late 19th century to late 20th century",
     "time_period_start": null,
     "time_period_end": null,
@@ -44,35 +44,38 @@
       "Production technologies"
     ],
     "dependent_variables": {
-      "displaced": "The study discusses the displacement of workers due to changes in market conditions and technological advancements.",
-      "unemployment_or_underemployment": "The study examines the impact of economic fluctuations and technological changes on employment levels.",
-      "duration": "The study does not specify the duration of unemployment but discusses long-term trends.",
-      "wage_changes": "The study discusses changes in wage systems and structures over time."
+      "displaced": null,
+      "displaced_number": null,
+      "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
-  "qualitative_data": {
-    "key_themes": [
-      "Externalisation vs. internalisation of labor management",
-      "Impact of market conditions on labor strategies",
-      "Role of trade unions in labor management"
-    ],
-    "text_fragments": null,
-    "narrative_descriptions": "The study provides a detailed historical account of labor management practices in Britain, focusing on the evolution from externalised to more internalised systems."
-  },
+  "qualitative_data": null,
   "historical_context": {
     "technological_changes": [
       "Mass-production technologies",
       "Mechanisation",
-      "Automation"
+      "Assembly-line techniques"
     ],
-    "economic_conditions": "The study covers periods of economic growth, depression, and post-war recovery.",
-    "institutional_context": "The study discusses the role of trade unions, government policies, and employer associations in shaping labor management."
+    "economic_conditions": "Periods of economic growth and recession, including post-war economic buoyancy and interwar depression.",
+    "institutional_context": "The study examines the role of trade unions, employers' associations, and government policies in shaping labor management."
   },
   "outcomes": {
-    "main_findings": "The study finds that British employers historically externalised labor management but gradually moved towards more internalised systems due to market pressures and technological changes.",
-    "conclusions": "The study concludes that market conditions, corporate structures, and technological advancements significantly influenced labor management strategies in Britain.",
-    "long_term_impacts": "The study discusses the long-term impact of labor management strategies on economic performance and national competitiveness."
+    "main_findings": "The study finds that British employers historically externalized labor management and only slowly built strong internal structures. It highlights the impact of market conditions, corporate structures, and production technologies on labor management strategies.",
+    "conclusions": "The study concludes that the historical choices made by British employers in labor management contributed to Britain's relatively poor economic performance. It emphasizes the slow adaptation to internal labor market systems compared to other countries.",
+    "long_term_impacts": "The study discusses the long-term impact of historical labor management choices on Britain's economic performance and competitiveness."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical analysis, which may not capture all quantitative aspects of labor displacement.",
+    "coherence": "The study provides a coherent narrative linking historical developments to labor management strategies.",
+    "adequacy_of_data": "The study uses a rich historical context to support its findings, though quantitative data is limited.",
+    "relevance": "The study is relevant to understanding the historical context of labor displacement due to technological change.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "authors": [
+      "Randolph Barker",
+      "William H. Meyers",
+      "Cristina M. Crisostomo",
+      "Bart Duff"
+    ],
+    "title": "Employment and Technological Change in Philippine Agriculture",
+    "year_of_publication": 1972,
+    "journal_or_publisher": "International Labour Review"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in agriculture",
+    "relevance": "The study examines the impact of mechanization and the introduction of high-yielding rice varieties on employment in Philippine agriculture, focusing on labor displacement and changes in labor requirements.",
+    "technologies": [
+      "High-yielding rice varieties",
+      "Mechanization",
+      "Irrigation pumps",
+      "Tractors",
+      "Mechanical threshers",
+      "Rotary weeders"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis and survey",
+    "occupations": [
+      "Rice farmers",
+      "Agricultural laborers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": 513,
+    "sample_characteristics": "The study focuses on rice farmers in the Philippines, particularly in Central Luzon and Laguna Province, with a mix of owner, leaseholder, and share-tenant farmers.",
+    "time_period_covered": "1966-1970",
+    "time_period_start": 1966,
+    "time_period_end": 1970,
+    "geographical_focus": "Philippines"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "High-yielding rice varieties",
+      "Mechanization",
+      "Irrigation development"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": "The study discusses concerns about mechanization leading to underemployment or unemployment.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": [
+      "Farm size",
+      "Tenure status",
+      "Irrigation availability"
+    ]
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of mechanization on labor displacement",
+      "Role of government policies in mechanization",
+      "Adoption of high-yielding varieties"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study provides a detailed account of the adoption of mechanization and high-yielding varieties in Philippine agriculture, focusing on the rice sector and its implications for labor use."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "High-yielding rice varieties",
+      "Mechanization",
+      "Irrigation development"
+    ],
+    "economic_conditions": "Post-war period with a focus on agricultural modernization and productivity growth.",
+    "institutional_context": "Government policies promoting mechanization through credit programs and land reform efforts."
+  },
+  "outcomes": {
+    "main_findings": "Mechanization and the introduction of high-yielding rice varieties have not resulted in major labor displacement in the short term, but have changed labor requirements for specific tasks.",
+    "conclusions": "While mechanization has increased, it has not yet led to significant labor displacement. However, future impacts on employment are uncertain, especially with continued mechanization and potential changes in agricultural practices.",
+    "long_term_impacts": "The study suggests that continued mechanization could alter the institutional structure of farming, potentially leading to labor displacement similar to historical examples in other regions."
+  }
+}

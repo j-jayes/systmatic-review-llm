@@ -10,14 +10,14 @@
   },
   "relevance": {
     "topic": "Technology adoption in coal mining",
-    "relevance": "The study examines the adoption of mechanical ventilation, a non-labor-substitution technology, in West Virginia coal mines, providing insights into technology adoption decisions and their determinants.",
+    "relevance": "The study is relevant as it examines the adoption of mechanical ventilation, a non-labor-substitution technology, in coal mines, providing insights into technological change and its determinants.",
     "technologies": [
       "Mechanical ventilation"
     ]
   },
   "design": {
-    "study_type": "mixed-methods",
-    "methodology": "Case study and econometric modeling",
+    "study_type": "quantitative",
+    "methodology": "econometric modeling",
     "occupations": [
       "Coal miners"
     ],
@@ -27,7 +27,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": 680,
-    "sample_characteristics": "Mines in West Virginia employing at least ten miners, surveyed between 1898 and 1907.",
+    "sample_characteristics": "Mines in West Virginia employing at least ten miners, surveyed between 1898-1907.",
     "time_period_covered": "1898-1907",
     "time_period_start": 1898,
     "time_period_end": 1907,
@@ -39,46 +39,56 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": {
-    "effect_sizes": null,
+    "effect_sizes": [
+      0.339,
+      0.264,
+      0.337,
+      0.003,
+      0.017
+    ],
     "statistical_measures": {
-      "mechanical_ventilation_adoption_rate": 0.643,
-      "firedamp_presence": 0.092,
-      "explosions_per_mine": 0.025,
-      "workers_per_mine": 0.826,
-      "output_mined_by_machine": 22.775,
-      "productivity": 7.728,
-      "seam_thickness": 66.794
+      "F-test": 13.23,
+      "Log pseudolikelihood": -1013.05
     }
   },
   "qualitative_data": {
     "key_themes": [
-      "Safety improvements",
-      "Cost-benefit analysis of technology adoption",
-      "Resistance to new technology due to costs"
+      "Adoption of non-labor-substitution technology",
+      "Safety improvements in coal mining"
     ],
     "text_fragments": [
-      "'In mines where there is fire damp the fan has a decided advantage over the furnace (…) The current produced by a fan is more regular than can be produced by a furnace' (WVDM 1889, p. 5).",
-      "'(…) if the first cost of installing a fan could be done as cheaply as a great many of the makeshift furnaces, I am satisfied there would not be a mine in the country without a fan' (WVDM 1905, p. 241)."
+      "'In mines where there is fire damp the fan has a decided advantage over the furnace (…) The current produced by a fan is more regular than can be produced by a furnace' (WVDM 1889, p. 5)."
     ],
-    "narrative_descriptions": "The study describes the adoption of mechanical ventilation as a response to safety concerns in coal mines, highlighting the role of costs and benefits in technology adoption decisions."
+    "narrative_descriptions": "The study describes the adoption of mechanical ventilation in coal mines as a response to safety concerns, particularly explosions caused by firedamp."
   },
   "historical_context": {
     "technological_changes": [
       "Mechanical ventilation"
     ],
-    "economic_conditions": "Period of economic expansion in the West Virginia coal basin, with increasing coal production and mechanization.",
-    "institutional_context": "Lack of strict safety regulations and legal requirements for ventilation methods in West Virginia coal mines during the study period."
+    "economic_conditions": "Period of economic expansion in the West Virginia coal basin.",
+    "institutional_context": "Lack of strict safety regulations and inadequate enforcement in West Virginia coal mines."
   },
   "outcomes": {
-    "main_findings": "The adoption of mechanical ventilation was influenced by factors such as the presence of firedamp, previous explosions, mine size, mechanization level, and productivity.",
-    "conclusions": "Mechanical ventilation was adopted relatively quickly in response to safety concerns, despite the persistence of older technologies due to cost considerations.",
+    "main_findings": "The adoption of mechanical ventilation was influenced by factors such as the presence of firedamp, previous explosions, mine size, mechanization, and productivity.",
+    "conclusions": "Mechanical ventilation was adopted rapidly in response to safety concerns, despite the lack of legal requirements, due to its effectiveness in reducing explosions.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "Potential endogeneity issues and unobserved mine-specific characteristics.",
+    "coherence": "The data consistently supports the conclusion that mechanical ventilation was adopted due to safety concerns.",
+    "adequacy_of_data": "The study uses a comprehensive dataset from the West Virginia Department of Mines annual reports.",
+    "relevance": "The study is highly relevant to understanding technology adoption in the context of safety improvements in coal mining.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

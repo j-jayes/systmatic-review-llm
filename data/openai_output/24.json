@@ -27,7 +27,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "net",
     "sample_size": null,
-    "sample_characteristics": "State-level data from the United States",
+    "sample_characteristics": "The study focuses on American agriculture, particularly the adoption of tractors from 1910 to 1960.",
     "time_period_covered": "1910-1960",
     "time_period_start": 1910,
     "time_period_end": 1960,
@@ -38,40 +38,39 @@
       "Tractor adoption"
     ],
     "dependent_variables": {
-      "displaced": "Approximately 1,720 thousand workers displaced by 1960",
-      "unemployment_or_underemployment": "Reduction in farm employment by 24.3% in 1960",
+      "displaced": "The study estimates that by 1960, the tractor reduced annual labor use by approximately 1,720 thousand workers.",
+      "displaced_number": 1720000,
+      "unemployment_or_underemployment": "The study does not provide specific details on unemployment or underemployment post-displacement.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
-    "moderators": [
-      "Farm scale",
-      "Fuel prices",
-      "Tractor rental rates"
-    ]
+    "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
     "statistical_measures": null
   },
-  "qualitative_data": {
-    "key_themes": [
-      "Technological change",
-      "Labor displacement",
-      "Agricultural productivity"
-    ],
-    "text_fragments": null,
-    "narrative_descriptions": "The study describes the rapid adoption of tractors and the resulting displacement of labor, changes in farm scale, and the transformation of agricultural practices."
-  },
+  "qualitative_data": null,
   "historical_context": {
     "technological_changes": [
       "Tractor"
     ],
-    "economic_conditions": "Period of agricultural transformation and mechanization",
-    "institutional_context": "Changes in farm size and cropping patterns, market adjustments"
+    "economic_conditions": "The study covers a period of significant agricultural transformation in the United States, including the Great Depression and post-World War II economic changes.",
+    "institutional_context": "The study discusses the role of government policies and market conditions in the adoption of tractors."
   },
   "outcomes": {
-    "main_findings": "The adoption of tractors significantly increased farm productivity and reduced labor requirements, leading to a substantial decline in farm employment.",
-    "conclusions": "Tractors were a major labor-saving innovation, contributing to the decline in farm employment and the restructuring of agricultural practices.",
-    "long_term_impacts": "The tractor's adoption led to a significant reduction in the number of farms and increased farm size."
+    "main_findings": "The study finds that the adoption of tractors significantly increased farm productivity, reduced labor requirements, and led to a decline in the number of farms.",
+    "conclusions": "The tractor was a revolutionary technological innovation that reshaped American agriculture by increasing productivity and reducing labor needs.",
+    "long_term_impacts": "The study suggests that the tractor contributed to the decline in farm employment and the number of farms, impacting rural communities."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study assumes farm scale as an exogenous variable, which may not fully capture the complexity of adoption decisions.",
+    "coherence": "The study provides a coherent analysis of the factors influencing tractor adoption and its impact on agriculture.",
+    "adequacy_of_data": "The study uses comprehensive historical data to support its findings.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement in agriculture.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

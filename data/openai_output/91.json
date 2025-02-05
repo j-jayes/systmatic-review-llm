@@ -9,18 +9,18 @@
   },
   "relevance": {
     "topic": "The impact of automation on labor displacement",
-    "relevance": "The study examines the effects of automation on building service workers in New York City, highlighting the challenges faced by unions and workers due to technological advancements.",
+    "relevance": "The study examines the impact of automation on building service workers in New York City, highlighting the displacement of elevator operators due to technological advancements.",
     "technologies": [
-      "automation",
-      "automatic elevators"
+      "Automation",
+      "Automatic elevators"
     ]
   },
   "design": {
     "study_type": "qualitative",
     "methodology": "historical analysis",
     "occupations": [
-      "elevator operators",
-      "building service workers"
+      "Elevator operators",
+      "Building service workers"
     ],
     "occupation_types": [
       "Main"
@@ -28,7 +28,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Building service workers in New York City, primarily elevator operators, during the mid-20th century.",
+    "sample_characteristics": "Building service workers in New York City, particularly elevator operators, during the period of 1934-1970.",
     "time_period_covered": "1934-1970",
     "time_period_start": 1934,
     "time_period_end": 1970,
@@ -36,41 +36,52 @@
   },
   "key_variables": {
     "independent_variables": [
-      "automation",
-      "automatic elevators"
+      "Automation",
+      "Automatic elevators"
     ],
     "dependent_variables": {
-      "displaced": "Elevator operators and building service workers displaced by automation.",
-      "unemployment_or_underemployment": "Increased unemployment among displaced workers, particularly elevator operators.",
+      "displaced": "Elevator operators were displaced due to the introduction of automatic elevators.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Displaced workers faced unemployment and difficulty in finding new jobs due to lack of transferable skills.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Wages for building service workers increased between 1940 and 1953, but automation led to job losses."
+      "wage_changes": "Wages for building service workers increased between 137% and 168% from 1940 to 1953, but automation allowed building owners to cut service staff.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Impact of automation on employment",
-      "Union strategies against technological displacement",
-      "Economic and social implications of automation"
+      "Impact of automation on labor",
+      "Union responses to technological change",
+      "Displacement of unskilled workers"
     ],
     "text_fragments": [
       "\"Automation made it clear that labor and capital are not equal opponents in the building service industry.\"",
-      "\"The rise of the operatorless elevator disarmed the elevator operators' union.\""
+      "\"Automation dismantled the structure that had empowered this union, and counteracted the union's ability to command respect and consideration within the industry.\""
     ],
-    "narrative_descriptions": "The study describes the historical context and impact of automation on building service workers, focusing on the challenges faced by unions in protecting jobs and wages."
+    "narrative_descriptions": "The study provides a detailed account of how automation, particularly the introduction of automatic elevators, displaced elevator operators in New York City. It discusses the union's efforts to protect workers and the broader implications of technological change on labor relations."
   },
   "historical_context": {
     "technological_changes": [
-      "automation",
-      "automatic elevators"
+      "Automation",
+      "Automatic elevators"
     ],
-    "economic_conditions": "Post-war economic recovery and increased construction in New York City.",
-    "institutional_context": "Union efforts to negotiate better wages and conditions, and legislative attempts to protect workers."
+    "economic_conditions": "Post-war economic recovery and growth in New York City.",
+    "institutional_context": "Union efforts to negotiate better wages and conditions, and legislative attempts to protect workers from displacement."
   },
   "outcomes": {
-    "main_findings": "Automation led to significant job displacement among elevator operators, undermining union power and altering labor relations.",
-    "conclusions": "Technological advancements in automation challenged traditional union strategies and highlighted the need for new approaches to protect workers.",
-    "long_term_impacts": "The study suggests that automation not only displaced workers but also weakened unions' ability to negotiate and protect their members."
+    "main_findings": "Automation, particularly the introduction of automatic elevators, led to significant displacement of elevator operators in New York City. The union's traditional strategies were ineffective against this technological change.",
+    "conclusions": "The study concludes that automation poses a significant challenge to labor unions, as it not only displaces workers but also undermines the unions' ability to protect their members' interests.",
+    "long_term_impacts": "The long-term impact includes weakened union power and increased managerial control over the workplace."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical accounts and qualitative analysis, which may not capture all quantitative aspects of displacement.",
+    "coherence": "The study provides a coherent narrative of the impact of automation on labor displacement, supported by historical examples.",
+    "adequacy_of_data": "The data is rich in qualitative detail but lacks quantitative measures of displacement.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement, particularly in the context of automation.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

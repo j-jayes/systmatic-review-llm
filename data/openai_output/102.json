@@ -8,8 +8,8 @@
     "journal_or_publisher": "G. Dosi et al., eds., Technical Change and Economic Theory, London"
   },
   "relevance": {
-    "topic": "The Regulation Approach and its impact on understanding capitalist economic transformations",
-    "relevance": "The study is relevant as it discusses the historical phases of capitalist development and the impact of technological changes on labor processes, particularly through the lens of the Regulation School's theory.",
+    "topic": "The Regulation Approach and its impact on economic transformations",
+    "relevance": "The study is relevant as it discusses the historical phases of capitalist development and the impact of technological changes on labor relations and economic growth.",
     "technologies": [
       "Taylorism",
       "Fordism",
@@ -17,11 +17,12 @@
     ]
   },
   "design": {
-    "study_type": "theoretical",
+    "study_type": "historical analysis",
     "methodology": "historical analysis",
     "occupations": [
-      "factory workers",
-      "craft workers"
+      "wage-earners",
+      "craft workers",
+      "factory workers"
     ],
     "occupation_types": [
       "Main"
@@ -33,7 +34,7 @@
     "time_period_covered": "19th to 20th century",
     "time_period_start": 1800,
     "time_period_end": 1970,
-    "geographical_focus": "United States"
+    "geographical_focus": "United States and Europe"
   },
   "key_variables": {
     "independent_variables": [
@@ -43,26 +44,47 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": "Wages were held down in favor of profits during the 1920s.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
-  "qualitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of technological change on labor relations",
+      "Historical phases of capitalist development",
+      "Role of institutional structures in economic growth"
+    ],
+    "text_fragments": [
+      "'The capitalist class [now] seeks overall management of the production of wage-labour by the close articulation of relations of production with the commodity relations in which the wage-earners purchase their means of production.'"
+    ],
+    "narrative_descriptions": "The study provides a historical analysis of the Regulation Approach, focusing on the impact of technological changes like Taylorism and Fordism on labor relations and economic growth."
+  },
   "historical_context": {
     "technological_changes": [
       "Taylorism",
       "Fordism",
       "Mechanization"
     ],
-    "economic_conditions": "Periods of economic growth and crisis, including the Great Depression and post-World War II boom.",
+    "economic_conditions": "The study covers periods of economic growth and crisis, including the Great Depression and post-World War II boom.",
     "institutional_context": "The study discusses the role of labor policies and class struggles in shaping economic outcomes."
   },
   "outcomes": {
-    "main_findings": "The Regulation School identifies different modes of capitalist development, each characterized by specific institutional forms and labor processes, such as Taylorism and Fordism.",
-    "conclusions": "The study concludes that the Regulation School's framework provides a useful lens for understanding the historical evolution of capitalist economies and the role of technological change in shaping labor relations.",
+    "main_findings": "The study finds that technological changes like Taylorism and Fordism significantly impacted labor relations and economic growth.",
+    "conclusions": "The Regulation Approach provides a framework for understanding the historical phases of capitalist development and the role of institutional structures in economic growth.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical analysis, which may not account for all variables influencing economic outcomes.",
+    "coherence": "The study provides a coherent narrative linking technological changes to economic transformations.",
+    "adequacy_of_data": "The study uses historical data to support its conclusions, but the richness of data is limited by the historical scope.",
+    "relevance": "The study is relevant to understanding the impact of technological changes on labor relations and economic growth.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

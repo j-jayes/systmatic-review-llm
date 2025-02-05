@@ -8,18 +8,18 @@
     "journal_or_publisher": "Labor History"
   },
   "relevance": {
-    "topic": "Industrial reorganization, seniority, and gender conflict",
+    "topic": "Industrial reorganization and labor displacement",
     "relevance": "The study examines the impact of industrial reorganization and technological changes on labor displacement, particularly focusing on gender conflict and seniority issues within the United Packinghouse Workers of America.",
     "technologies": [
-      "machines",
-      "new meat processing technologies"
+      "Industrial reorganization",
+      "Technological advancements in meatpacking"
     ]
   },
   "design": {
     "study_type": "qualitative",
     "methodology": "historical analysis",
     "occupations": [
-      "meatpacking workers"
+      "Meatpacking workers"
     ],
     "occupation_types": [
       "Main"
@@ -27,53 +27,62 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Focus on women workers in the United Packinghouse Workers of America, particularly in Ottumwa, Iowa.",
+    "sample_characteristics": "Focus on female workers in the meatpacking industry, particularly within the United Packinghouse Workers of America.",
     "time_period_covered": "1956-1966",
     "time_period_start": 1956,
     "time_period_end": 1966,
-    "geographical_focus": "United States, particularly Ottumwa, Iowa"
+    "geographical_focus": "United States"
   },
   "key_variables": {
     "independent_variables": [
-      "industrial reorganization",
-      "technological changes"
+      "Industrial reorganization",
+      "Technological advancements"
     ],
     "dependent_variables": {
-      "displaced": "Thousands of women lost jobs due to technological and geographical reorganization in the meatpacking industry.",
-      "unemployment_or_underemployment": "Women were the first to be laid off as companies transformed production processes.",
+      "displaced": "Thousands of women lost jobs due to industrial reorganization and technological changes.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Women were the first to be laid off, and many faced challenges in re-entering the workforce.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": "Wages were affected as jobs were restructured, often combining two women's jobs into one man's job.",
+      "wage_changes_percent": null
     },
-    "moderators": [
-      "gender",
-      "seniority",
-      "union presence"
-    ]
+    "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "gender conflict",
-      "seniority issues",
-      "union struggles"
+      "Gender conflict",
+      "Seniority issues",
+      "Union responses",
+      "Job displacement"
     ],
     "text_fragments": [
       "\"Chickens come home to roost\": Industrial reorganization, seniority, and gender conflict in the United Packinghouse Workers of America, 1956-1966",
-      "\"The machine menace is stalking all union members\""
+      "\"The machine menace is stalking all union members\"",
+      "\"Women were the first to go\""
     ],
-    "narrative_descriptions": "The study provides a detailed account of how industrial reorganization and technological changes led to job displacement, focusing on gender conflict and the role of seniority in the United Packinghouse Workers of America."
+    "narrative_descriptions": "The study provides a detailed account of how industrial reorganization and technological changes led to job displacement, particularly affecting women in the meatpacking industry. It highlights the gender conflict and seniority issues that arose as a result."
   },
   "historical_context": {
     "technological_changes": [
-      "machines",
-      "new meat processing technologies"
+      "Introduction of machines in meatpacking",
+      "Job combinations"
     ],
     "economic_conditions": "Period of industrial reorganization and competition in the meatpacking industry.",
-    "institutional_context": "Union activities and the impact of the 1964 Civil Rights Act on employment practices."
+    "institutional_context": "Union responses to job displacement and gender conflict, influenced by the Civil Rights Act of 1964."
   },
   "outcomes": {
-    "main_findings": "The introduction of machines and new meat processing technologies led to significant job displacement, particularly affecting women due to gendered job categories and dual seniority systems.",
-    "conclusions": "The study concludes that industrial reorganization and technological changes exacerbated gender conflict and highlighted the limitations of dual seniority systems in protecting women's employment.",
-    "long_term_impacts": "The study discusses the long-term impact of job displacement on women's employment opportunities and union solidarity."
+    "main_findings": "The study found that industrial reorganization and technological changes led to significant job displacement, particularly affecting women. Gender conflict and seniority issues were prominent as unions struggled to address these challenges.",
+    "conclusions": "The failure to address gender-based job structures and seniority systems at the outset led to entrenched divisions that were difficult to overcome during industrial changes.",
+    "long_term_impacts": "The study discusses the weakening of union solidarity and the challenges faced by women in securing employment in traditionally male-dominated jobs."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical accounts and qualitative data, which may not capture the full quantitative impact of displacement.",
+    "coherence": "The study provides a coherent narrative of the events and challenges faced by workers, particularly women, during the period.",
+    "adequacy_of_data": "The study offers rich qualitative data but lacks quantitative measures to substantiate the extent of displacement.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement, particularly in the context of gender and union dynamics.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

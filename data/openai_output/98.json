@@ -8,8 +8,8 @@
     "journal_or_publisher": "James Lorimer & Company, Publishers"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change in Canada from 1650 to 1860",
-    "relevance": "The study is relevant as it examines the transformation of labor markets and the impact of industrial capitalism on labor displacement in Canada.",
+    "topic": "The emergence of the Canadian industrial working class and the impact of technological and economic changes on labor.",
+    "relevance": "The study is highly relevant as it explores the transformation of labor relations and the development of a capitalist labor market in Canada, highlighting the impact of technological and economic changes on labor displacement.",
     "technologies": [
       "Industrial capitalism",
       "Mechanization",
@@ -20,11 +20,11 @@
     "study_type": "historical analysis",
     "methodology": "historical analysis",
     "occupations": [
-      "canoemen",
-      "traders",
-      "artisans",
       "laborers",
-      "farmers"
+      "artisans",
+      "farmers",
+      "canoemen",
+      "raftsmen"
     ],
     "occupation_types": [
       "Main",
@@ -33,7 +33,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "The study focuses on various ethnic groups in Canada, including French-Canadians, English, Scottish, Irish, and Americans, and their roles in the labor market.",
+    "sample_characteristics": "The study focuses on various ethnic groups in Canada, including French-Canadians, Irish, Scottish, and English immigrants, and their roles in the labor market.",
     "time_period_covered": "1650-1860",
     "time_period_start": 1650,
     "time_period_end": 1860,
@@ -43,32 +43,31 @@
     "independent_variables": [
       "industrial capitalism",
       "mechanization",
-      "steam power"
+      "immigration"
     ],
     "dependent_variables": {
-      "displaced": "The study discusses the displacement of traditional labor roles such as artisans and laborers due to industrial capitalism.",
+      "displaced": "The study discusses the displacement of traditional labor roles due to industrialization and immigration.",
+      "displaced_number": null,
       "unemployment_or_underemployment": "The study highlights the underemployment of French-Canadians and the employment challenges faced by Irish immigrants.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "The study notes the lowering of wages due to the influx of Irish laborers and the availability of cheap labor."
+      "wage_changes": "The study notes that wages for laborers decreased with the influx of Irish immigrants.",
+      "wage_changes_percent": null
     },
-    "moderators": [
-      "ethnic background",
-      "geographical location",
-      "economic conditions"
-    ]
+    "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
       "labor displacement",
-      "industrial capitalism",
+      "industrialization",
       "ethnic tensions",
       "labor market transformation"
     ],
     "text_fragments": [
-      "The tasks of this study are to delineate the personal organization of labor as it appeared in various Canadian employments up till about 1850, and to trace the transformation that produced a capitalistic labor market and a well-developed capitalistic economy, shortly after 1850."
+      "The Irish were also accident prone: On the public works I was often extremely mortified to observe the poor, ignorant, and careless creatures, running themselves into places where they either lost their lives, or got themselves so hurt as to become useless ever after."
     ],
-    "narrative_descriptions": "The study provides a detailed account of the transformation of the Canadian labor market from a feudal system to a capitalist one, highlighting the roles of different ethnic groups and the impact of industrialization."
+    "narrative_descriptions": "The study provides a detailed narrative of the transformation of labor relations in Canada, focusing on the shift from personal labor relations to a capitalist labor market."
   },
   "historical_context": {
     "technological_changes": [
@@ -76,12 +75,20 @@
       "mechanization",
       "steam power"
     ],
-    "economic_conditions": "The study covers a period of economic transformation in Canada, marked by the shift from a feudal to a capitalist economy.",
-    "institutional_context": "The study discusses the role of British colonial policies and the influence of European economic practices on Canadian labor markets."
+    "economic_conditions": "The study covers a period of economic transformation in Canada, marked by the transition from a pre-industrial to an industrial economy.",
+    "institutional_context": "The study discusses the role of British colonial policies and the influence of immigration on labor relations in Canada."
   },
   "outcomes": {
-    "main_findings": "The study finds that the transformation to industrial capitalism in Canada led to significant labor displacement and changes in the labor market, with ethnic tensions influencing employment outcomes.",
-    "conclusions": "The study concludes that industrial capitalism fundamentally altered the Canadian labor market, creating new employment opportunities while displacing traditional labor roles.",
-    "long_term_impacts": "The study suggests that the long-term impacts of this transformation included the establishment of a capitalist labor market and the integration of various ethnic groups into the industrial economy."
+    "main_findings": "The study finds that the transformation of labor relations in Canada was driven by industrialization and immigration, leading to the development of a capitalist labor market.",
+    "conclusions": "The study concludes that the emergence of a capitalist labor market in Canada was a complex process influenced by technological, economic, and social factors.",
+    "long_term_impacts": "The study suggests that the transformation of labor relations had long-term impacts on the social and economic structure of Canadian society."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical documents and may be limited by the availability and accuracy of these sources.",
+    "coherence": "The study presents a coherent narrative of the transformation of labor relations in Canada, supported by historical evidence.",
+    "adequacy_of_data": "The study provides a rich account of historical events and trends, but quantitative data is limited.",
+    "relevance": "The study is highly relevant to understanding the historical context of labor displacement due to technological change.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

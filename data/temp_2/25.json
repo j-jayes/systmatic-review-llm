@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "authors": [],
+    "title": "",
+    "year_of_publication": 0,
+    "journal_or_publisher": ""
+  },
+  "relevance": {
+    "topic": "",
+    "relevance": "",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "",
+    "methodology": "",
+    "occupations": [],
+    "occupation_types": [],
+    "occupation_classifications": null,
+    "gross_vs_net": "",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": ""
+  },
+  "key_variables": {
+    "independent_variables": [],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [],
+    "economic_conditions": "",
+    "institutional_context": ""
+  },
+  "outcomes": {
+    "main_findings": "",
+    "conclusions": "",
+    "long_term_impacts": null
+  }
+}

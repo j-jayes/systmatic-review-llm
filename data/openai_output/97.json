@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines how the adoption of disposable diapers displaced traditional labor associated with cloth diapering, highlighting the broader implications of technological change on labor distribution within households and industries.",
+    "relevance": "The study examines the shift from cloth to disposable diapers, highlighting how this technological change displaced labor traditionally performed by women in the household, such as diaper making and laundering.",
     "technologies": [
       "Disposable diapers"
     ]
@@ -19,7 +19,8 @@
     "methodology": "historical analysis",
     "occupations": [
       "Mothers",
-      "Pulp and paper industry workers"
+      "Caregivers",
+      "Pulp and paper workers"
     ],
     "occupation_types": [
       "Main",
@@ -36,13 +37,16 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Adoption of disposable diapers"
+      "Disposable diapers"
     ],
     "dependent_variables": {
-      "displaced": "The labor of making, maintaining, and laundering cloth diapers was displaced by the use of disposable diapers.",
+      "displaced": "The shift from cloth to disposable diapers displaced the labor of making and laundering diapers traditionally done by women.",
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -52,7 +56,7 @@
       "Labor displacement",
       "Environmental impact",
       "Family dynamics",
-      "Technological adoption"
+      "Technological change"
     ],
     "text_fragments": [
       "'Disposable diapers did not replace labor; they dis-placed it.'",
@@ -64,12 +68,20 @@
     "technological_changes": [
       "Disposable diapers"
     ],
-    "economic_conditions": "Period of economic change with increased female workforce participation and inflationary pressures.",
+    "economic_conditions": "Inflationary pressures and increased female workforce participation in the 1970s.",
     "institutional_context": "Changes in day care licensing and hospital practices favored the use of disposable diapers."
   },
   "outcomes": {
-    "main_findings": "The adoption of disposable diapers displaced traditional labor associated with cloth diapering, impacting family dynamics and contributing to environmental degradation.",
-    "conclusions": "Disposable diapers shifted labor from households to industries, reflecting broader societal changes in labor distribution and environmental impact.",
-    "long_term_impacts": "The study suggests that the shift to disposable diapers had lasting effects on family labor dynamics and environmental conditions."
+    "main_findings": "The adoption of disposable diapers shifted labor from household tasks to industrial processes, impacting family dynamics and environmental conditions.",
+    "conclusions": "Disposable diapers addressed the competing demands on women as mothers and workers, but shifted environmental burdens to natural resources.",
+    "long_term_impacts": "The study suggests that the shift to disposable diapers had long-term environmental impacts, particularly on waterways and forests."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is qualitative and may not capture all quantitative aspects of labor displacement.",
+    "coherence": "The study provides a coherent narrative linking technological change to labor displacement and environmental impact.",
+    "adequacy_of_data": "The study uses historical data and narratives to support its findings.",
+    "relevance": "The study is relevant to understanding labor displacement due to technological change, particularly in domestic settings.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

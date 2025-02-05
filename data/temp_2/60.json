@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "authors": [
+      "Terrell James Orr"
+    ],
+    "title": "Mechanical Harvesting, Globalization, and the Fate of Citrus Farmworkers in Florida and São Paulo, 1965 -1985",
+    "year_of_publication": 2023,
+    "journal_or_publisher": "International Labor and Working-Class History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change in the citrus industry",
+    "relevance": "The study examines the potential labor displacement due to mechanization in the citrus industry and the impact of globalization on labor dynamics.",
+    "technologies": [
+      "mechanical harvesting",
+      "limb shakers",
+      "water blasters",
+      "air blasters"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "citrus farmworkers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Citrus farmworkers in Florida and São Paulo, including Black, white, and immigrant workers from Mexico, Guatemala, and Haiti.",
+    "time_period_covered": "1965-1985",
+    "time_period_start": 1965,
+    "time_period_end": 1985,
+    "geographical_focus": "Florida, USA and São Paulo, Brazil"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "globalization"
+    ],
+    "dependent_variables": {
+      "displaced": "Potential displacement of 30,000 farmworkers in Florida due to mechanization.",
+      "unemployment_or_underemployment": "Not explicitly detailed, but implied through the discussion of labor shortages and immigration.",
+      "duration": null,
+      "wage_changes": "Wages and conditions of work were pushed down to levels comparable to São Paulo."
+    },
+    "moderators": [
+      "immigration",
+      "global competition",
+      "labor policies"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "mechanization",
+      "globalization",
+      "labor displacement",
+      "immigration",
+      "unionization"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study narrates the efforts to mechanize citrus harvesting in Florida and the impact of globalization, including competition from São Paulo and the influx of immigrant labor."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanical harvesting",
+      "limb shakers",
+      "water blasters",
+      "air blasters"
+    ],
+    "economic_conditions": "Economic downturns and freezes affecting labor supply and demand.",
+    "institutional_context": "Labor policies, union activities, and immigration laws affecting farmworkers."
+  },
+  "outcomes": {
+    "main_findings": "The study found that despite efforts to mechanize, Florida's citrus industry continued to rely on manual labor due to globalization pressures and labor dynamics.",
+    "conclusions": "Mechanization did not displace workers as expected; instead, globalization and immigration shaped labor conditions.",
+    "long_term_impacts": "The study suggests a potential 'race to the bottom' in labor conditions, with Florida's workers facing conditions similar to those in São Paulo."
+  }
+}

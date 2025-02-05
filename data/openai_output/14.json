@@ -10,7 +10,7 @@
   },
   "relevance": {
     "topic": "Industrialisation in Bulgaria during the First Globalisation",
-    "relevance": "The study examines the impact of industrialisation and economic changes in Bulgaria during the First Globalisation, focusing on the textile industry and the broader economic context, which is relevant to understanding labor displacement due to technological change.",
+    "relevance": "The study examines the impact of industrialisation and technological changes on the Bulgarian economy, focusing on the textile industry and the broader economic context, which is relevant to understanding labor displacement due to technological change.",
     "technologies": [
       "Textile manufacturing",
       "Modern manufacturing"
@@ -30,8 +30,8 @@
     "occupation_classifications": null,
     "gross_vs_net": "net",
     "sample_size": null,
-    "sample_characteristics": "Focus on Bulgarian economy and population during 1870-1910",
-    "time_period_covered": "c. 1870-1910",
+    "sample_characteristics": "Focus on Bulgarian economy and labor market during 1870-1910",
+    "time_period_covered": "1870-1910",
     "time_period_start": 1870,
     "time_period_end": 1910,
     "geographical_focus": "Bulgaria"
@@ -42,47 +42,48 @@
       "Textile industry development"
     ],
     "dependent_variables": {
-      "displaced": "The decline of proto-industrial textile workers due to the rise of modern manufacturing.",
-      "unemployment_or_underemployment": "Not explicitly detailed, but implied through the decline of proto-industrial employment.",
+      "displaced": "Reduction in textile employment due to transition from proto-industry to modern manufacturing",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Stagnation in urbanisation and limited domestic market for industrial goods",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Wages in the textile industry stagnated or declined after 1878."
+      "wage_changes": "Stagnation or decline in wages in the textile industry",
+      "wage_changes_percent": null
     },
-    "moderators": [
-      "Economic conditions",
-      "Agricultural productivity",
-      "Market demand"
-    ]
+    "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
-    "statistical_measures": {
-      "GDP_per_capita_growth_rate": 0.1,
-      "industrial_output_per_capita_1909_11": 132,
-      "population_growth_rate": 1.4
-    }
+    "statistical_measures": null
   },
   "qualitative_data": {
     "key_themes": [
-      "Economic stagnation",
-      "Industrialisation challenges",
-      "Market demand issues"
+      "Impact of global market conditions on local industries",
+      "Transition from proto-industry to modern manufacturing",
+      "Role of agricultural productivity in economic growth"
     ],
-    "text_fragments": [
-      "Bulgaria's industrialisation only achieved a 'mini-spurt' during the First Globalisation.",
-      "The rise of modern manufacturing in textile production coincided with the decline of the entire large sector of traditional manufacturing."
-    ],
-    "narrative_descriptions": "The study describes the economic conditions in Bulgaria, focusing on the stagnation of industrial growth despite the rise of modern manufacturing, and the challenges faced by the textile industry."
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the transition of the Bulgarian textile industry from a proto-industrial base to modern manufacturing, highlighting the economic and social challenges faced during this period."
   },
   "historical_context": {
     "technological_changes": [
-      "Modern textile manufacturing"
+      "Modern manufacturing",
+      "Textile industry mechanisation"
     ],
-    "economic_conditions": "Period of weak economic growth and stagnation in industrialisation during the First Globalisation.",
-    "institutional_context": "Bulgaria's integration into world markets and the impact of the Treaty of Berlin on trade policies."
+    "economic_conditions": "Period of weak economic growth and stagnation in Bulgaria during the First Globalisation",
+    "institutional_context": "Bulgaria's integration into world markets and the impact of Ottoman rule and subsequent independence on economic policies"
   },
   "outcomes": {
-    "main_findings": "The study finds that Bulgaria's industrialisation was limited, with modern manufacturing failing to significantly transform the economy due to demand-side constraints and external economic conditions.",
-    "conclusions": "Bulgaria's industrialisation was constrained by external economic conditions and internal market limitations, rather than by supply-side cost increases as previously thought.",
-    "long_term_impacts": "The study suggests that the limited industrialisation had long-term implications for Bulgaria's economic development, but does not detail specific impacts on individuals or communities."
+    "main_findings": "The study finds that Bulgaria's industrialisation was limited by external economic conditions and internal market constraints, with modern manufacturing emerging at a high social cost.",
+    "conclusions": "Bulgaria's industrialisation was constrained by a lack of domestic market expansion and adverse international market conditions, rather than internal structural weaknesses alone.",
+    "long_term_impacts": "The study suggests that the transition to modern manufacturing had significant social costs, including reduced employment in traditional industries."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have limitations in accuracy and completeness.",
+    "coherence": "The study provides a coherent analysis of the economic conditions and industrialisation process in Bulgaria.",
+    "adequacy_of_data": "The data used is adequate for the historical analysis conducted, though some gaps in quantitative data are acknowledged.",
+    "relevance": "The study is relevant to understanding the historical context of industrialisation and its impact on labor markets.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

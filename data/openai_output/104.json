@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "authors": [
+      "Leonardo Ridolfi",
+      "Carla Salvo",
+      "Jacob Weisdorf"
+    ],
+    "title": "The Effect of Mechanisation on Labour: Evidence from the Diffusion of Steam Power",
+    "year_of_publication": 2023,
+    "journal_or_publisher": "CAGE working paper no. 689"
+  },
+  "relevance": {
+    "topic": "The effect of mechanisation on labour",
+    "relevance": "The study is highly relevant as it examines the impact of steam power, a significant technological change, on labor displacement and employment outcomes in 19th-century France.",
+    "technologies": [
+      "Steam power"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "OLS and IV regression analyses",
+    "occupations": [
+      "industrial labor"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": 2614,
+    "sample_characteristics": "Industries in 19th-century France, focusing on steam-adopting and non-adopting industries.",
+    "time_period_covered": "1840s to 1860s",
+    "time_period_start": 1840,
+    "time_period_end": 1860,
+    "geographical_focus": "France"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Steam power adoption"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "displaced_number": null,
+      "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Wages grew significantly more among steam-adopting industries.",
+      "wage_changes_percent": 20
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": [
+      1.913,
+      1.466
+    ],
+    "statistical_measures": {
+      "OLS_coefficients": 1.913,
+      "IV_coefficients": 1.466
+    }
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Diffusion of steam power"
+    ],
+    "economic_conditions": "Industrialisation period in 19th-century France.",
+    "institutional_context": "No significant change in labor's share compared to non-adopters."
+  },
+  "outcomes": {
+    "main_findings": "Wages and employment grew significantly more among steam-adopting industries compared to non-adopting peers. Growth in total revenue was also significantly higher among steam adopters.",
+    "conclusions": "The findings dispute the common view that industrial modernisation set labor back in absolute terms or relative to capitalists.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "Potential biases due to unobserved factors, addressed using IV strategy.",
+    "coherence": "The data consistently supports the conclusion that steam power adoption positively impacted wages and employment.",
+    "adequacy_of_data": "Rich historical data from two national industrial censuses in France.",
+    "relevance": "Highly relevant to understanding the impact of technological change on labor.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "Minayo Nasiali"
+    ],
+    "title": "French Colonial Sailors and Technological Knowledge in the Union Française",
+    "year_of_publication": 2019,
+    "journal_or_publisher": "The Institute of French Studies at New York University and the Minda de Gunzburg Center for European Studies at Harvard University"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the displacement of French colonial sailors due to the transition from steamships to diesel ships, highlighting the impact of technological change on labor.",
+    "technologies": [
+      "Diesel ships",
+      "Steamships"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Sailors",
+      "Coal trimmers",
+      "Fire stokers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "French colonial sailors from West, Equatorial, and East Africa",
+    "time_period_covered": "1950s",
+    "time_period_start": 1950,
+    "time_period_end": 1959,
+    "geographical_focus": "France, specifically Marseille"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Transition from steamships to diesel ships"
+    ],
+    "dependent_variables": {
+      "displaced": "A large number of African sailors were laid off as their roles became obsolete.",
+      "unemployment_or_underemployment": "High levels of unemployment among African sailors in Marseille.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Racial discrimination",
+      "Technological expertise",
+      "Labor displacement",
+      "Civilizing mission"
+    ],
+    "text_fragments": [
+      "'I have the honor to … draw your attention,' Hyacinthe Gomis wrote to the Bouches-du-Rhône prefect in 1954, 'to the misery and the difficult situation in which a large number of AOF and AEF men find themselves.'",
+      "'ONLY THE TRUTH MATTERS,' the organization wrote in all caps, they were being excluded 'BECAUSE THEY ARE BLACK.'"
+    ],
+    "narrative_descriptions": "The study describes how African sailors were displaced due to technological changes in the shipping industry and how they contested the racialized assumptions about their skills and expertise."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Transition from steamships to diesel ships"
+    ],
+    "economic_conditions": "Post-World War II modernization efforts in France.",
+    "institutional_context": "French colonial policies and the civilizing mission ideology."
+  },
+  "outcomes": {
+    "main_findings": "African sailors were displaced due to the transition from steamships to diesel ships, and they contested the racialized assumptions about their skills.",
+    "conclusions": "The study concludes that technological change in the shipping industry led to labor displacement and highlighted racial and gendered notions of expertise.",
+    "long_term_impacts": "Many displaced sailors found work in other industries, contributing to the postwar economic development of France."
+  }
+}

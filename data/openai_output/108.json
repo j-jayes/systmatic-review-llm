@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "authors": [
+      "Philip Riden"
+    ],
+    "title": "The Output of the British Iron Industry before 1870",
+    "year_of_publication": 1973,
+    "journal_or_publisher": "Economic History Review"
+  },
+  "relevance": {
+    "topic": "Historical analysis of the British iron industry",
+    "relevance": "The study provides a detailed historical analysis of the British iron industry, focusing on technological changes and their impact on production, which is relevant to understanding labor displacement due to technological change.",
+    "technologies": [
+      "Blast furnace",
+      "Coke smelting",
+      "Puddling",
+      "Steam power",
+      "Cylinder bellows"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Ironworkers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1530-1869",
+    "time_period_start": 1530,
+    "time_period_end": 1869,
+    "geographical_focus": "Great Britain"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Blast furnace",
+      "Coke smelting",
+      "Puddling",
+      "Steam power",
+      "Cylinder bellows"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "displaced_number": null,
+      "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": null,
+      "wage_changes_percent": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Blast furnace",
+      "Coke smelting",
+      "Puddling",
+      "Steam power",
+      "Cylinder bellows"
+    ],
+    "economic_conditions": "Period of industrial growth and expansion, particularly during the Industrial Revolution.",
+    "institutional_context": "The study discusses the impact of tariffs and import controls on the British iron industry."
+  },
+  "outcomes": {
+    "main_findings": "The study provides a detailed historical analysis of the output of the British iron industry, highlighting the impact of technological changes such as the introduction of the blast furnace and coke smelting on production levels.",
+    "conclusions": "Technological advancements significantly increased the output of the British iron industry, particularly after 1750, marking a period of rapid industrial growth.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have limitations in accuracy and completeness.",
+    "coherence": "The study provides a coherent analysis of the historical data, supporting its conclusions with detailed evidence.",
+    "adequacy_of_data": "The study uses a comprehensive set of historical data to support its analysis, although some data may be incomplete or estimated.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on industrial output and labor displacement.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
+  }
+}

@@ -10,17 +10,17 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change in the canning industry",
-    "relevance": "The study examines how mechanization in the canning industry led to labor displacement, particularly focusing on the replacement of skilled craft labor with machines.",
+    "relevance": "The study examines the impact of mechanization on craft labor in the canning industry, highlighting how technological changes led to labor displacement and changes in labor dynamics.",
     "technologies": [
       "Deskilling machinery",
-      "Pressure cookers",
+      "Pressure cooker",
       "Capping machines",
       "Labeling machines"
     ]
   },
   "design": {
-    "study_type": "qualitative",
-    "methodology": "case study",
+    "study_type": "case study",
+    "methodology": "historical analysis",
     "occupations": [
       "Cappers",
       "Processors",
@@ -40,53 +40,67 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": null,
+    "sample_characteristics": "Focus on the American canning industry post-Civil War, with emphasis on craft labor and mechanization.",
     "time_period_covered": "1860s-1890s",
     "time_period_start": 1860,
-    "time_period_end": 1890,
+    "time_period_end": 1896,
     "geographical_focus": "United States"
   },
   "key_variables": {
     "independent_variables": [
       "Deskilling machinery",
-      "Pressure cookers",
+      "Pressure cooker",
       "Capping machines",
       "Labeling machines"
     ],
     "dependent_variables": {
-      "displaced": "Craft workers, particularly cappers and processors, were displaced by machinery.",
-      "unemployment_or_underemployment": "Craft workers faced reduced wages and job security due to mechanization.",
+      "displaced": "Craft workers were displaced due to mechanization.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Craft workers faced wage cuts and reduced bargaining power.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Wages for cappers decreased from $3.00 to $1.44 per day after mechanization."
+      "wage_changes": "Wages for cappers and processors decreased significantly.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
-  "quantitative_data": null,
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
   "qualitative_data": {
     "key_themes": [
-      "Mechanization as a response to craft labor power",
-      "Deskilling of craft occupations",
-      "Impact of mechanization on wages"
+      "Mechanization and labor displacement",
+      "Deskilling and wage reduction",
+      "Craft labor resistance"
     ],
     "text_fragments": [
-      "'The Boss-Capper helped hasten the day of his own exit through his overbearing thoughtlessness.'",
-      "'Why Cap Longer by Old Methods when Cox's Capper Fills the Bill-It Saves Labor-It Saves Solder-It Never Tires-It Never Strikes.'"
+      "\"The Boss-Capper helped hasten the day of his own exit through his overbearing thoughtlessness.\"",
+      "\"Why Cap Longer by Old Methods when Cox's Capper Fills the Bill-It Saves Labor-It Saves Solder-It Never Tires-It Never Strikes.\""
     ],
-    "narrative_descriptions": "The study describes how mechanization in the canning industry was driven by the need to reduce the power of skilled craft workers and increase managerial control over production."
+    "narrative_descriptions": "The study describes how mechanization in the canning industry led to the displacement of craft labor, focusing on the introduction of deskilling machinery and its impact on labor dynamics."
   },
   "historical_context": {
     "technological_changes": [
       "Deskilling machinery",
-      "Pressure cookers",
+      "Pressure cooker",
       "Capping machines",
       "Labeling machines"
     ],
-    "economic_conditions": "Period of growth in the canning industry with increasing demand for canned goods.",
-    "institutional_context": "Craft workers had significant bargaining power, leading to the development of machinery to reduce their control."
+    "economic_conditions": "Post-Civil War economic growth with increasing demand for canned goods.",
+    "institutional_context": "Craft workers had significant bargaining power, which was challenged by mechanization."
   },
   "outcomes": {
-    "main_findings": "Mechanization in the canning industry reduced the power of craft workers and allowed for the employment of lower-wage workers.",
-    "conclusions": "Mechanization was driven by the need to reduce craft labor's control over production and was facilitated by the emergence of a capital-goods industry.",
-    "long_term_impacts": "The study suggests that mechanization led to a decline in craft union power and a shift towards lower-wage labor."
+    "main_findings": "Mechanization in the canning industry led to the displacement of craft labor, reduced wages, and increased managerial control.",
+    "conclusions": "Technological changes in the canning industry reduced the power of craft labor and increased profitability through labor displacement and deskilling.",
+    "long_term_impacts": "The study suggests that mechanization contributed to the decline of craft unions and altered labor dynamics in the industry."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data and case studies, which may not capture all aspects of labor displacement.",
+    "coherence": "The study provides a coherent narrative of the impact of mechanization on labor dynamics in the canning industry.",
+    "adequacy_of_data": "The study uses historical data and case studies to support its findings, but lacks quantitative measures of displacement.",
+    "relevance": "The study is relevant to understanding the impact of technological change on labor displacement in historical contexts.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

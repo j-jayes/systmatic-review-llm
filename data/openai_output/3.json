@@ -8,11 +8,11 @@
     "journal_or_publisher": "The Institute of French Studies at New York University and the Minda de Gunzburg Center for European Studies at Harvard University"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the displacement of French colonial sailors due to the transition from steamships to diesel ships, highlighting the impact of technological change on labor.",
+    "topic": "Labor displacement due to technological change in the French shipping industry",
+    "relevance": "The study is relevant as it examines the displacement of African sailors due to the transition from steam to diesel ships, highlighting issues of race, skill, and technological change.",
     "technologies": [
-      "Diesel ships",
-      "Steamships"
+      "Diesel engines",
+      "Steam engines"
     ]
   },
   "design": {
@@ -37,13 +37,16 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Transition from steamships to diesel ships"
+      "Transition from steam to diesel ships"
     ],
     "dependent_variables": {
-      "displaced": "A large number of African sailors were laid off as their roles became obsolete.",
+      "displaced": "African sailors were laid off due to technological changes.",
+      "displaced_number": null,
       "unemployment_or_underemployment": "High levels of unemployment among African sailors in Marseille.",
+      "unemployment_or_underemployment_number": 400,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -52,25 +55,33 @@
     "key_themes": [
       "Racial discrimination",
       "Technological expertise",
-      "Labor displacement",
-      "Civilizing mission"
+      "Civilizing mission",
+      "Labor displacement"
     ],
     "text_fragments": [
       "'I have the honor to … draw your attention,' Hyacinthe Gomis wrote to the Bouches-du-Rhône prefect in 1954, 'to the misery and the difficult situation in which a large number of AOF and AEF men find themselves.'",
       "'ONLY THE TRUTH MATTERS,' the organization wrote in all caps, they were being excluded 'BECAUSE THEY ARE BLACK.'"
     ],
-    "narrative_descriptions": "The study describes how African sailors were displaced due to technological changes in the shipping industry and how they contested the racialized assumptions about their skills and expertise."
+    "narrative_descriptions": "The study describes how African sailors were displaced due to the transition from steam to diesel ships, and how they contested the racialized assumptions about their skills and expertise."
   },
   "historical_context": {
     "technological_changes": [
-      "Transition from steamships to diesel ships"
+      "Transition from steam to diesel ships"
     ],
-    "economic_conditions": "Post-World War II modernization efforts in France.",
+    "economic_conditions": "Post-World War II modernization and economic reconstruction in France.",
     "institutional_context": "French colonial policies and the civilizing mission ideology."
   },
   "outcomes": {
-    "main_findings": "African sailors were displaced due to the transition from steamships to diesel ships, and they contested the racialized assumptions about their skills.",
-    "conclusions": "The study concludes that technological change in the shipping industry led to labor displacement and highlighted racial and gendered notions of expertise.",
+    "main_findings": "African sailors were displaced due to the transition from steam to diesel ships, and they contested the racialized assumptions about their skills and expertise.",
+    "conclusions": "The study concludes that technological change was used as a pretext for racial discrimination, and African sailors' expertise was undervalued due to racial biases.",
     "long_term_impacts": "Many displaced sailors found work in other industries, contributing to the postwar economic development of France."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical documents and letters, which may not capture the full scope of experiences.",
+    "coherence": "The study provides a coherent narrative linking technological change to labor displacement and racial discrimination.",
+    "adequacy_of_data": "The study uses a rich collection of historical documents and letters to support its findings.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement, especially in a colonial context.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

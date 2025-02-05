@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "authors": [
+      "Alan L. Olmstead",
+      "Paul W. Rhode"
+    ],
+    "title": "Reshaping the Landscape: The Impact and Diffusion of the Tractor in American Agriculture, 1910-1960",
+    "year_of_publication": 2001,
+    "journal_or_publisher": "The Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "The impact and diffusion of the tractor in American agriculture",
+    "relevance": "The study is highly relevant as it examines the displacement of labor due to the adoption of tractors, a significant technological change in agriculture.",
+    "technologies": [
+      "Tractor"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "simultaneous-equation regression model",
+    "occupations": [
+      "Farmers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "net",
+    "sample_size": null,
+    "sample_characteristics": "State-level data from the United States",
+    "time_period_covered": "1910-1960",
+    "time_period_start": 1910,
+    "time_period_end": 1960,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Tractor adoption"
+    ],
+    "dependent_variables": {
+      "displaced": "Approximately 1,720 thousand workers displaced by 1960",
+      "unemployment_or_underemployment": "Reduction in farm employment by 24.3% in 1960",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": [
+      "Farm scale",
+      "Fuel prices",
+      "Tractor rental rates"
+    ]
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": null
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Technological change",
+      "Labor displacement",
+      "Agricultural productivity"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the rapid adoption of tractors and the resulting displacement of labor, changes in farm scale, and the transformation of agricultural practices."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Tractor"
+    ],
+    "economic_conditions": "Period of agricultural transformation and mechanization",
+    "institutional_context": "Changes in farm size and cropping patterns, market adjustments"
+  },
+  "outcomes": {
+    "main_findings": "The adoption of tractors significantly increased farm productivity and reduced labor requirements, leading to a substantial decline in farm employment.",
+    "conclusions": "Tractors were a major labor-saving innovation, contributing to the decline in farm employment and the restructuring of agricultural practices.",
+    "long_term_impacts": "The tractor's adoption led to a significant reduction in the number of farms and increased farm size."
+  }
+}

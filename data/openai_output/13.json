@@ -24,7 +24,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Focus on indentured laborers in the British Empire, including regions like the West Indies, British Guiana, Trinidad, Mauritius, Fiji, Malaya, and Queensland.",
+    "sample_characteristics": "The study covers various regions within the British Empire, focusing on indentured laborers from India, China, and other regions.",
     "time_period_covered": "1834-1920",
     "time_period_start": 1834,
     "time_period_end": 1920,
@@ -35,32 +35,42 @@
       "Indentured labor system"
     ],
     "dependent_variables": {
-      "displaced": "The study discusses the displacement of laborers from their home countries to various colonies under indenture.",
-      "unemployment_or_underemployment": null,
+      "displaced": "The study discusses the displacement of laborers from their home countries to various colonies within the British Empire.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study does not provide specific numbers but discusses the employment conditions and challenges faced by indentured laborers.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": "The study discusses the low wages and poor working conditions of indentured laborers.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Labor displacement",
-      "Indentured servitude",
-      "Colonial economic policies",
-      "Racial and social dynamics"
+      "Exploitation of indentured laborers",
+      "Economic impact on colonies",
+      "Social and cultural effects on laborers"
     ],
     "text_fragments": null,
-    "narrative_descriptions": "The study provides a detailed account of the processes and impacts of labor displacement through indentured servitude in the British Empire, highlighting the economic, social, and racial dynamics involved."
+    "narrative_descriptions": "The study provides a detailed account of the conditions and experiences of indentured laborers in various colonies, highlighting the exploitation and challenges they faced."
   },
   "historical_context": {
     "technological_changes": [],
-    "economic_conditions": "The study covers a period of economic transition in the British Empire, where labor was needed for plantation economies following the abolition of slavery.",
-    "institutional_context": "The study discusses the policies and regulations governing indentured labor, including contracts and the role of colonial governments."
+    "economic_conditions": "The study covers a period of economic transition in the British Empire, where indentured labor was used to support colonial economies after the abolition of slavery.",
+    "institutional_context": "The study discusses the policies and regulations governing indentured labor, including contracts and legal frameworks."
   },
   "outcomes": {
-    "main_findings": "Indentured labor was a crucial component in maintaining the plantation economies of the British Empire post-slavery, but it involved significant exploitation and control over laborers.",
-    "conclusions": "The study concludes that while indentured labor helped sustain colonial economies, it perpetuated systems of exploitation and racial hierarchy.",
-    "long_term_impacts": "The study suggests long-term impacts on the social and economic structures of the colonies, as well as on the descendants of indentured laborers."
+    "main_findings": "Indentured labor was a crucial component of the colonial economy, providing cheap labor for plantations and other enterprises.",
+    "conclusions": "The study concludes that indentured labor was exploitative and had significant social and economic impacts on both the laborers and the colonies.",
+    "long_term_impacts": "The study discusses the long-term social and cultural impacts on the descendants of indentured laborers and the societies they were part of."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical documents, which may have biases or gaps in data.",
+    "coherence": "The study provides a coherent narrative of the indentured labor system and its impacts.",
+    "adequacy_of_data": "The study uses a wide range of historical sources to substantiate its findings.",
+    "relevance": "The study is highly relevant to understanding the historical context of labor displacement due to economic changes.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

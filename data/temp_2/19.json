@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "authors": [
+      "Beatrice Moring"
+    ],
+    "title": "LAND, LABOR, AND LOVE: Household Arrangements in Nineteenth Century Eastern Finland-Cultural Heritage or Socio-Economic Structure?",
+    "year_of_publication": 1999,
+    "journal_or_publisher": "The History of the Family An International Quarterly"
+  },
+  "relevance": {
+    "topic": "Household arrangements and socio-economic structures in 19th century Eastern Finland",
+    "relevance": "The study examines the transformation of household structures in response to economic changes, particularly the shift from slash-and-burn to set-field agriculture, which reduced the need for large workforces and influenced family and labor dynamics.",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "farmers",
+      "landless laborers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on the parish of Virolahti in the province of Viborg, Eastern Finland, examining household structures and socio-economic changes.",
+    "time_period_covered": "Nineteenth century",
+    "time_period_start": 1800,
+    "time_period_end": 1900,
+    "geographical_focus": "Virolahti, Eastern Finland"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "shift from slash-and-burn to set-field agriculture"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "household structure transformation",
+      "economic influences on family arrangements",
+      "impact of agricultural practices on labor needs"
+    ],
+    "text_fragments": [
+      "The absence of serfdom and corvée labor linked household size and economic needs more directly with ecology and resources."
+    ],
+    "narrative_descriptions": "The study describes how joint-family households were replaced by stem families as the need for a large workforce diminished with the replacement of slash-and-burn agriculture with set-field agriculture."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "replacement of slash-and-burn agriculture with set-field agriculture"
+    ],
+    "economic_conditions": "Transition from an economy reliant on slash-and-burn agriculture to one based on set-field agriculture and cattle raising.",
+    "institutional_context": "The absence of serfdom and corvée labor in Finland, unlike in neighboring Russia, influenced household and economic structures."
+  },
+  "outcomes": {
+    "main_findings": "The study found that economic factors, particularly the shift from slash-and-burn to set-field agriculture, were more influential than cultural factors in determining household structures in Eastern Finland.",
+    "conclusions": "Economic changes, rather than cultural influences, were the primary drivers of changes in household structures in 19th century Eastern Finland.",
+    "long_term_impacts": "The transformation of household structures from joint-family to stem families reduced the capacity for large family units to support the old and young, leading to increased landlessness and social change."
+  }
+}

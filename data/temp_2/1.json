@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "Isaac Ilych Rubin"
+    ],
+    "title": "A History of Economic Thought",
+    "year_of_publication": 1979,
+    "journal_or_publisher": "Ink Links Ltd."
+  },
+  "relevance": {
+    "topic": "History of Economic Thought",
+    "relevance": "The study is relevant as it discusses the impact of the industrial revolution on labor displacement, particularly focusing on the transition from manual labor to mechanized production and its effects on workers.",
+    "technologies": [
+      "machinery",
+      "steam engines"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "hand spinners",
+      "weavers",
+      "factory workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1769-1846",
+    "time_period_start": 1769,
+    "time_period_end": 1846,
+    "geographical_focus": "England"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanization",
+      "introduction of steam engines"
+    ],
+    "dependent_variables": {
+      "displaced": "Hand spinners and weavers were displaced by machinery.",
+      "unemployment_or_underemployment": "Workers faced unemployment or were forced into low-wage factory jobs.",
+      "duration": null,
+      "wage_changes": "Wages fell in real terms due to rising prices of necessities."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "labor displacement",
+      "technological change",
+      "industrial revolution"
+    ],
+    "text_fragments": [
+      "'The machine has left us in rags and without a living.'"
+    ],
+    "narrative_descriptions": "The narrative describes the transition from manual to mechanized production, highlighting the displacement of workers and the socio-economic impacts of the industrial revolution."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "machinery",
+      "steam engines"
+    ],
+    "economic_conditions": "Period of rapid industrial growth and urbanization.",
+    "institutional_context": "Lack of factory legislation and restrictions on trade unions."
+  },
+  "outcomes": {
+    "main_findings": "The industrial revolution led to significant labor displacement as machinery replaced manual labor, resulting in unemployment and lower wages for many workers.",
+    "conclusions": "Technological advancements during the industrial revolution had profound impacts on labor, displacing many workers and altering the socio-economic landscape.",
+    "long_term_impacts": "The displacement contributed to urbanization and changes in labor demographics, with long-term effects on workers' living conditions and societal structures."
+  }
+}

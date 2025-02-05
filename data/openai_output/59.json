@@ -8,8 +8,8 @@
     "journal_or_publisher": "The Journal of Peasant Studies"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change in tobacco agriculture",
-    "relevance": "The study examines the displacement of women from tobacco agriculture due to technological advancements and policy changes, highlighting the gendered impact of these changes.",
+    "topic": "Labor displacement in tobacco agriculture",
+    "relevance": "The study examines the displacement of women from tobacco agriculture due to technological changes and policy shifts, highlighting the gendered impact of these changes.",
     "technologies": [
       "mechanization",
       "chemical use",
@@ -26,7 +26,7 @@
       "Main"
     ],
     "occupation_classifications": null,
-    "gross_vs_net": "net",
+    "gross_vs_net": "gross",
     "sample_size": null,
     "sample_characteristics": null,
     "time_period_covered": "Twentieth Century",
@@ -41,24 +41,28 @@
       "H-2A guestworker program"
     ],
     "dependent_variables": {
-      "displaced": "Women were largely displaced from tobacco agriculture.",
-      "unemployment_or_underemployment": "Women moved into non-farm labor markets.",
+      "displaced": "Women displaced from tobacco agriculture",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Increased male dominance in tobacco fields",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "defeminization of labor",
-      "impact of technology on gender roles",
-      "policy-driven labor changes"
+      "Defeminization of tobacco work",
+      "Impact of mechanization and policy on women's labor",
+      "Gendered labor division in agriculture"
     ],
     "text_fragments": [
-      "'The disappearance of women from the tobacco workforce is not simply an unfortunate side-effect of the American South's agricultural modernization, but a central component of its design.'"
+      "'Use to wuk fum sun to sun in dat old terbaccy field', eighty-six year old former slave Henrietta Perry recalled.",
+      "'We began using the H-2A program in 1993 after we had increasing problems recruiting workers who had been legalized by the 1986 immigration bill's amnesty program'."
     ],
-    "narrative_descriptions": "The study provides a detailed historical account of how technological and policy changes led to the displacement of women from tobacco agriculture, emphasizing the gendered nature of these changes."
+    "narrative_descriptions": "The study provides a detailed historical account of how technological changes and policy shifts led to the displacement of women from tobacco agriculture in the American South, emphasizing the gendered nature of these changes."
   },
   "historical_context": {
     "technological_changes": [
@@ -66,12 +70,20 @@
       "chemical use",
       "H-2A guestworker program"
     ],
-    "economic_conditions": "Post-World War II economic changes, including the expansion of manufacturing and service industries.",
-    "institutional_context": "State agricultural, labor, and immigration policies facilitated the transition from family to wage labor."
+    "economic_conditions": "Expansion of tobacco production internationally, pressure on prices, and changes in U.S. tobacco policy.",
+    "institutional_context": "State agricultural, labor, and immigration policy influenced the transition from family to wage labor."
   },
   "outcomes": {
-    "main_findings": "Technological advancements and policy changes led to the displacement of women from tobacco agriculture, with men and machines taking over traditional women's roles.",
-    "conclusions": "The displacement of women was a result of deliberate policy and technological changes, not a natural progression.",
-    "long_term_impacts": "The study suggests that the displacement of women had significant social and cultural impacts, altering traditional family and labor structures."
+    "main_findings": "Technological changes and state policies have largely eliminated women from tobacco agriculture, shifting the workforce to male-dominated wage labor.",
+    "conclusions": "The displacement of women from tobacco agriculture was not a natural process but was driven by technological and policy changes that favored male labor.",
+    "long_term_impacts": "The shift has had significant social and cultural impacts, altering the traditional family-based labor system in the Tobacco South."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical accounts and qualitative data, which may lack precise quantitative measures.",
+    "coherence": "The study provides a coherent narrative linking technological and policy changes to labor displacement.",
+    "adequacy_of_data": "The study uses a rich array of historical sources to substantiate its conclusions.",
+    "relevance": "The study is highly relevant to understanding the gendered impacts of technological change in agriculture.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

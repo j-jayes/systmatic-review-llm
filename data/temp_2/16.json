@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "authors": [
+      "Fredrik Lilja"
+    ],
+    "title": "Inside the Enclosed Farm: Farmers, Shepherds, and the Introduction of New Technology in Cape Wool Farming, 1865 -1950",
+    "year_of_publication": 2018,
+    "journal_or_publisher": "Internationaal Instituut voor Sociale Geschiedenis"
+  },
+  "relevance": {
+    "topic": "Transformation of labor relations in wool farming due to technological change",
+    "relevance": "The study examines the impact of technological changes, such as fencing and windmills, on labor displacement and transformation in wool farming in the Cape Colony/Province.",
+    "technologies": [
+      "Fencing",
+      "Windmills"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Shepherds",
+      "Camp Walkers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on black and coloured peasants and pastoralists in the Cape Colony/Province.",
+    "time_period_covered": "1865-1950",
+    "time_period_start": 1865,
+    "time_period_end": 1950,
+    "geographical_focus": "Cape Colony/Province, South Africa"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Fencing",
+      "Windmills"
+    ],
+    "dependent_variables": {
+      "displaced": "Shepherds were displaced by camp walkers on progressive farms.",
+      "unemployment_or_underemployment": "Shepherds were replaced by camp walkers, but demand for shepherds continued on less progressive farms.",
+      "duration": null,
+      "wage_changes": "Camp walkers earned higher cash wages compared to shepherds."
+    },
+    "moderators": [
+      "Presence of jackals",
+      "Water supply",
+      "Mining industry competition"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Transformation of labor relations",
+      "Impact of technological change",
+      "Role of generational labor"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes how the introduction of fencing and windmills transformed labor relations in wool farming, leading to the displacement of shepherds by camp walkers on progressive farms, while less progressive farms continued to rely on shepherds."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Fencing",
+      "Windmills"
+    ],
+    "economic_conditions": "Period of agrarian capitalist expansion in the Cape Colony/Province.",
+    "institutional_context": "Labor policies such as the Masters and Servants Act and the Glen Grey Act influenced labor relations."
+  },
+  "outcomes": {
+    "main_findings": "The introduction of fencing and windmills transformed labor relations in wool farming, reducing the demand for shepherds on progressive farms and leading to the emergence of camp walkers.",
+    "conclusions": "Technological changes led to a stratification of farmers and a transformation in labor relations, with progressive farms adopting new technologies and reducing reliance on shepherds.",
+    "long_term_impacts": "The study discusses the long-term impact of technological change on labor relations, highlighting the shift from shepherds to camp walkers and the continued reliance on young shepherds on less progressive farms."
+  }
+}

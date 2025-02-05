@@ -10,7 +10,7 @@
   },
   "relevance": {
     "topic": "Labor specialization and technological change in the U.S. Navy",
-    "relevance": "The study examines how technological changes influenced labor allocation and specialization in the U.S. Navy, providing insights into labor displacement due to technological advancements.",
+    "relevance": "The study is relevant as it examines how technological changes influenced labor allocation and specialization in the U.S. Navy, a critical case of labor displacement due to technological change.",
     "technologies": [
       "Steam propulsion",
       "Ironcladding",
@@ -20,15 +20,15 @@
     ]
   },
   "design": {
-    "study_type": "mixed-methods",
+    "study_type": "quantitative",
     "methodology": "historical analysis",
     "occupations": [
-      "Naval officers",
-      "Naval engineers"
+      "Naval engineers",
+      "Line officers"
     ],
     "occupation_types": [
       "Main",
-      "Supplementary"
+      "Main"
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
@@ -45,9 +45,12 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -62,6 +65,8 @@
       "perc_engineers_sd": 0.174,
       "age_mean": 12.94,
       "age_sd": 7.94,
+      "avg_officer_experience_mean": 14.5,
+      "avg_officer_experience_sd": 5.1,
       "max_speed_mean": 13.4,
       "max_speed_sd": 4.1,
       "displacement_mean": 3.86,
@@ -78,13 +83,14 @@
     "key_themes": [
       "Labor specialization",
       "Technological change",
-      "Naval operations"
+      "Capital-skill complementarity",
+      "Amalgamation of labor roles"
     ],
     "text_fragments": [
       "The Navy endeavored to destroy this distinction, forcing generalized training and tasks for all officers.",
-      "The post-Amalgamation Navy was significantly more productive than its nineteenth-century predecessor."
+      "Amalgamation was the implicit expression among naval leadership that the generalists had in effect won the debate."
     ],
-    "narrative_descriptions": "The study describes the transition in the U.S. Navy from a specialized to a more generalized workforce in response to technological changes, highlighting the challenges and strategies in labor allocation."
+    "narrative_descriptions": "The study describes the transition in the U.S. Navy from a specialized to a more generalized workforce in response to technological changes, highlighting the challenges and strategies in managing labor allocation."
   },
   "historical_context": {
     "technological_changes": [
@@ -94,12 +100,20 @@
       "Rifled barrels",
       "Exploding projectiles"
     ],
-    "economic_conditions": "Period of industrialization and modernization in the U.S.",
-    "institutional_context": "Legislation split the officer corps into line and engineer officers, influencing labor specialization."
+    "economic_conditions": "Period of industrialization and technological advancement in the late 19th and early 20th centuries.",
+    "institutional_context": "The U.S. Navy was undergoing structural changes, including the Amalgamation Act of 1899, which aimed to integrate engineering skills into the general officer corps."
   },
   "outcomes": {
-    "main_findings": "The study found that technological changes led to a shift from labor specialization to a more generalized skill set among naval personnel, improving productivity.",
-    "conclusions": "The phased-in approach to amalgamation was effective, allowing the Navy to manage technological changes and improve operations.",
-    "long_term_impacts": "The study suggests that the Navy's approach to labor amalgamation and technological adaptation offers lessons for modern organizations facing similar challenges."
+    "main_findings": "The study found that the U.S. Navy initially had strong capital-skill and technology-skill complementarities, but these changed with the Amalgamation Act, which led to a more generalized skill set among naval personnel.",
+    "conclusions": "The Navy's phased-in approach to amalgamation was effective, allowing it to maintain productivity and adapt to technological changes.",
+    "long_term_impacts": "The study suggests that the Navy's approach to labor amalgamation and technological adaptation offers lessons for other organizations facing similar challenges."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have limitations in accuracy and completeness.",
+    "coherence": "The study provides a coherent narrative supported by both quantitative and qualitative data.",
+    "adequacy_of_data": "The data is rich and covers a significant period, allowing for a comprehensive analysis of the changes in the Navy.",
+    "relevance": "The study is highly relevant to understanding labor displacement due to technological change.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

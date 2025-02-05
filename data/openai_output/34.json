@@ -17,8 +17,12 @@
   },
   "relevance": {
     "topic": "Living and working conditions of seafarers in a globalized industry",
-    "relevance": "The study is relevant as it examines the impact of globalization on the labor market for seafarers, including the displacement of traditional labor markets and the emergence of a global labor market.",
-    "technologies": []
+    "relevance": "The study is relevant as it discusses the impact of globalization on the labor market for seafarers, including the displacement of traditional national labor markets by a global labor market, and the effects of technological and organizational changes in the shipping industry.",
+    "technologies": [
+      "Containerization",
+      "Satellite communications",
+      "Automation"
+    ]
   },
   "design": {
     "study_type": "mixed-methods",
@@ -32,8 +36,8 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Various nationalities of seafarers, including those from developing and developed countries",
-    "time_period_covered": "Late 20th century to early 21st century",
+    "sample_characteristics": "Seafarers of various nationalities and ranks, including those from developing and developed countries.",
+    "time_period_covered": "1970s to early 2000s",
     "time_period_start": 1970,
     "time_period_end": 2000,
     "geographical_focus": "Global"
@@ -41,41 +45,58 @@
   "key_variables": {
     "independent_variables": [
       "Globalization",
+      "Containerization",
       "Flagging out",
-      "Crew nationality"
+      "Ship management companies"
     ],
     "dependent_variables": {
-      "displaced": "Not specified",
-      "unemployment_or_underemployment": "Not specified",
-      "duration": "Not specified",
-      "wage_changes": "Wage disparities among different nationalities and ranks"
+      "displaced": "Seafarers displaced due to flagging out and globalization.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Increased employment of seafarers from developing countries, displacement of OECD seafarers.",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Wage disparities between seafarers from different countries.",
+      "wage_changes_percent": null
     },
-    "moderators": null
+    "moderators": [
+      "Nationality",
+      "Flag State",
+      "Type of ship"
+    ]
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Impact of globalization on seafarers",
+      "Global labor market",
       "Mixed nationality crews",
-      "Labor market dynamics"
+      "Impact of flagging out",
+      "Seafarers' living conditions"
     ],
     "text_fragments": [
-      "\"A sailor could feel himself separated from the world and at the same time physically crushed by the presence of his comrades.\"",
-      "\"The industry's increasingly desperate preoccupation with crew costs, which led to the formation of a global labour market, was a reflection of trading conditions.\""
+      "A sailor could feel himself separated from the world and at the same time physically crushed by the presence of his comrades; and he could watch thousands of landscapes pass before his eyes and scarcely have occasion to experience any of them."
     ],
-    "narrative_descriptions": "The study describes the transformation of the seafaring labor market due to globalization, highlighting the shift from national to global labor markets and the implications for seafarers' working conditions."
+    "narrative_descriptions": "The study describes the transformation of the shipping industry and its labor market due to globalization, highlighting the shift from national to global labor markets and the rise of mixed nationality crews."
   },
   "historical_context": {
     "technological_changes": [
       "Containerization",
-      "Satellite communications"
+      "Satellite communications",
+      "Automation"
     ],
-    "economic_conditions": "Globalization and economic restructuring in the shipping industry",
-    "institutional_context": "Changes in flag state regulations and the rise of open registries"
+    "economic_conditions": "Globalization and increased competition in the shipping industry.",
+    "institutional_context": "Shift from national regulatory systems to international and transnational systems, with the rise of flags of convenience and second registers."
   },
   "outcomes": {
-    "main_findings": "The study finds that globalization has led to the emergence of a global labor market for seafarers, characterized by mixed nationality crews and significant wage disparities.",
-    "conclusions": "The study concludes that the global labor market for seafarers has resulted in both opportunities and challenges, including increased competition and regulatory challenges.",
-    "long_term_impacts": "The study discusses the potential long-term impacts on seafarers' communities and the need for better regulatory frameworks."
+    "main_findings": "The shipping industry has undergone significant changes due to globalization, leading to a global labor market for seafarers and the displacement of traditional national labor markets.",
+    "conclusions": "The global labor market for seafarers has led to mixed nationality crews and increased competition, affecting wages and employment conditions.",
+    "long_term_impacts": "The study suggests that the upheavals in the shipping industry are beginning to subside, with new regulatory structures and labor market stability emerging."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on case studies and historical analysis, which may not capture all aspects of the global labor market for seafarers.",
+    "coherence": "The data and narratives presented are consistent and support the study's conclusions about the impact of globalization on seafarers.",
+    "adequacy_of_data": "The study provides a comprehensive overview of the changes in the shipping industry and labor market, but lacks specific quantitative data.",
+    "relevance": "The study is highly relevant to understanding the impact of globalization on labor markets, particularly in the shipping industry.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

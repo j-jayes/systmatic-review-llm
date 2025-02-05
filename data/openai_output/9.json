@@ -28,9 +28,12 @@
     "independent_variables": [],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -45,5 +48,13 @@
     "main_findings": "",
     "conclusions": "",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "",
+    "coherence": "",
+    "adequacy_of_data": "",
+    "relevance": "",
+    "overall_confidence": "",
+    "inclusion_decision": ""
   }
 }

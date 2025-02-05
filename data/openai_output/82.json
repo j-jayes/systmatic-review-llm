@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the resistance of woolen workers to technological changes in the form of machinery, which threatened their livelihoods and traditional work practices.",
+    "relevance": "The study examines the resistance of woolen workers to technological changes in the form of mechanization, which threatened their livelihoods and traditional work practices.",
     "technologies": [
       "Spinning jenny",
       "Scribbling engine",
@@ -44,25 +44,29 @@
       "introduction of machinery"
     ],
     "dependent_variables": {
-      "displaced": "The spinning jenny displaced around nine of ten warp spinners and thirteen of fourteen abb (weft) spinners. The scribbling engine displaced fifteen of sixteen scribblers. The gig mill and shearing frame made many shearmen redundant.",
-      "unemployment_or_underemployment": "Many workers were left without jobs as their skills became obsolete due to machinery.",
+      "displaced": "The introduction of machinery displaced a significant portion of the workforce, including scribblers and shearmen.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Many workers became unemployed or underemployed as their skills became obsolete.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": "The introduction of machinery led to wage changes, but specific details are not provided.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Resistance to technological change",
-      "Impact of mechanization on traditional industries",
+      "Resistance to mechanization",
+      "Impact on traditional work practices",
       "Moral and economic arguments against machinery"
     ],
     "text_fragments": [
-      "The vigorous opposition of the English woolen workers 'to introduction of improvements' is well known.",
-      "The woolen workers believed that 'A trade or manufacture is deemed valuable to a country in proportion to the number of hands it employs.'"
+      "The spinning jenny displaced around nine of ten warp spinners and thirteen of fourteen abb (weft) spinners.",
+      "The scribbling engine displaced fifteen of sixteen scribblers.",
+      "With the gig mill one man could do part of the work of a dozen shearmen, while the shearing frame made three of four shearmen redundant."
     ],
-    "narrative_descriptions": "The study describes the resistance of woolen workers to mechanization, highlighting their moral and economic arguments against the introduction of machinery, which they believed threatened their livelihoods and traditional work practices."
+    "narrative_descriptions": "The study describes the resistance of woolen workers to mechanization, highlighting their moral and economic arguments against the introduction of machinery."
   },
   "historical_context": {
     "technological_changes": [
@@ -71,12 +75,20 @@
       "Gig mill",
       "Shearing frame"
     ],
-    "economic_conditions": "Period of industrialization and mechanization in the woolen industry.",
-    "institutional_context": "There were existing statutes and regulations that the workers attempted to use to block the introduction of machinery."
+    "economic_conditions": "The period was marked by industrialization and the rise of mechanization, which threatened traditional industries and employment.",
+    "institutional_context": "There were existing statutes and regulations that the workers attempted to use to resist mechanization, but these were eventually repealed."
   },
   "outcomes": {
-    "main_findings": "The woolen workers' resistance to machinery was based on both economic and moral grounds, as they believed it threatened their livelihoods and the traditional structure of their industry.",
-    "conclusions": "The study concludes that the resistance to mechanization was not merely blind vandalism but a rational response to the threat posed by machinery to the workers' livelihoods and social status.",
-    "long_term_impacts": null
+    "main_findings": "The study finds that the resistance of woolen workers to mechanization was not merely vandalism but a structured response to protect their livelihoods and traditional work practices.",
+    "conclusions": "The introduction of machinery led to significant displacement of workers and challenged traditional economic and social structures.",
+    "long_term_impacts": "The long-term impacts included the eventual acceptance of mechanization and the decline of traditional woolen trades."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical accounts and interpretations, which may be subject to bias.",
+    "coherence": "The study provides a coherent narrative of the resistance to mechanization, supported by historical evidence.",
+    "adequacy_of_data": "The data is rich in historical context but lacks quantitative measures.",
+    "relevance": "The study is highly relevant to understanding labor displacement due to technological change.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

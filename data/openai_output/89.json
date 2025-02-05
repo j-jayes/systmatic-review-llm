@@ -11,16 +11,16 @@
     "topic": "Labor displacement due to technological change",
     "relevance": "The study examines the impact of automation on labor displacement, focusing on the United Auto Workers and their strategies to manage technological change.",
     "technologies": [
-      "Automation",
-      "Transfer machines",
-      "Servo-mechanisms"
+      "automation",
+      "transfer machines",
+      "servo-mechanisms"
     ]
   },
   "design": {
     "study_type": "qualitative",
     "methodology": "historical analysis",
     "occupations": [
-      "Auto workers"
+      "auto workers"
     ],
     "occupation_types": [
       "Main"
@@ -36,24 +36,27 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Automation",
-      "Transfer machines",
-      "Servo-mechanisms"
+      "automation",
+      "transfer machines",
+      "servo-mechanisms"
     ],
     "dependent_variables": {
-      "displaced": "Significant number of auto workers displaced due to automation.",
-      "unemployment_or_underemployment": "Increased unemployment and underemployment among displaced workers.",
+      "displaced": "Significant displacement of auto workers due to automation.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Increased unemployment and structural unemployment due to automation.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Ambivalence towards automation",
-      "Impact of automation on labor",
-      "Strategies to manage technological change"
+      "ambivalence towards automation",
+      "impact of automation on labor",
+      "strategies to manage technological change"
     ],
     "text_fragments": [
       "'Automation must be met sanely and constructively'",
@@ -63,16 +66,24 @@
   },
   "historical_context": {
     "technological_changes": [
-      "Automation",
-      "Transfer machines",
-      "Servo-mechanisms"
+      "automation",
+      "transfer machines",
+      "servo-mechanisms"
     ],
-    "economic_conditions": "Post-WWII economic growth with increasing automation in manufacturing.",
+    "economic_conditions": "Post-WWII economic growth and industrial changes.",
     "institutional_context": "Labor policies and union strategies to manage technological change."
   },
   "outcomes": {
-    "main_findings": "Automation led to significant labor displacement in the auto industry, with unions attempting to manage its impact through collective bargaining and political action.",
-    "conclusions": "While automation was inevitable, its impact on labor could have been mitigated through better management and policy interventions.",
-    "long_term_impacts": "The study suggests that the failure to manage automation's impact contributed to the decline of organized labor in the U.S."
+    "main_findings": "Automation led to significant labor displacement and structural unemployment, despite efforts by labor leaders to manage its impact.",
+    "conclusions": "The study concludes that while automation was inevitable, the strategies to manage its impact were largely unsuccessful, leading to a decline in organized labor's influence.",
+    "long_term_impacts": "The long-term impacts included a decline in union membership and influence, and challenges in adapting to technological changes."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical analysis, which may not capture all quantitative aspects of labor displacement.",
+    "coherence": "The study provides a coherent narrative of the impact of automation on labor, supported by historical evidence.",
+    "adequacy_of_data": "The study uses a rich array of historical sources to substantiate its conclusions.",
+    "relevance": "The study is highly relevant to understanding the historical impact of technological change on labor displacement.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "authors": [
+      "Elspeth Thomson"
+    ],
+    "title": "The Chinese Coal Industry: An Economic History",
+    "year_of_publication": 2003,
+    "journal_or_publisher": "RoutledgeCurzon"
+  },
+  "relevance": {
+    "topic": "Economic history of the Chinese coal industry",
+    "relevance": "The study is relevant as it examines the historical development of the Chinese coal industry, focusing on the economic and sociopolitical changes, including the impact of technological advancements and reforms on labor and industry structure.",
+    "technologies": [
+      "Coal mining technology",
+      "Opencast mining",
+      "Coal washing and processing"
+    ]
+  },
+  "design": {
+    "study_type": "historical analysis",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Coal miners"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on the Chinese coal industry from the mid-nineteenth century to the present, with emphasis on the reform era.",
+    "time_period_covered": "Mid-nineteenth century to the present",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "China"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Technological advancements in coal mining",
+      "Economic reforms"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": null,
+  "historical_context": {
+    "technological_changes": [
+      "Introduction of mechanized mining",
+      "Development of opencast mining",
+      "Coal washing and processing technologies"
+    ],
+    "economic_conditions": "Period of economic modernization and reform in China, with a focus on the coal industry as a strategic sector.",
+    "institutional_context": "Reforms in the state industrial sector, including changes in planning and management of the coal industry."
+  },
+  "outcomes": {
+    "main_findings": "The study highlights the critical importance of the coal industry in China's economic modernization and the challenges faced during reforms, including issues of labor management and technological adoption.",
+    "conclusions": "The coal industry in China has undergone significant changes due to economic reforms and technological advancements, which have impacted its structure and operation.",
+    "long_term_impacts": null
+  }
+}

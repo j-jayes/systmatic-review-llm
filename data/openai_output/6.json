@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "The history of the British film industry's first trade union and its impact on projectionists.",
-    "relevance": "The study is relevant as it discusses the impact of technological changes in the film industry on the labor conditions of projectionists, highlighting issues of labor displacement and deskilling.",
+    "relevance": "The study is relevant as it explores the historical context of labor displacement and the role of technological change in the British film industry, particularly focusing on the projectionists' trade union.",
     "technologies": [
       "Digital projectors",
       "Celluloid projectors"
@@ -40,9 +40,12 @@
     ],
     "dependent_variables": {
       "displaced": "Projectionists were displaced due to the transition from celluloid to digital projectors.",
+      "displaced_number": null,
       "unemployment_or_underemployment": "Projectionists faced unemployment and underemployment as their roles were downgraded.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Wages for projectionists decreased significantly as their roles were downgraded."
+      "wage_changes": "Wages for projectionists decreased significantly as their roles were downgraded.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -50,13 +53,15 @@
   "qualitative_data": {
     "key_themes": [
       "Labor displacement",
-      "Deskilling",
-      "Trade union struggles"
+      "Trade union struggles",
+      "Technological change",
+      "Proletarianisation"
     ],
     "text_fragments": [
-      "'A form of skilled labour that has underpinned the very existence of cinema since its inception has been largely obliterated in the space of a few years, as digital projectors replaced their celluloid predecessors.'"
+      "'A form of skilled labour that has underpinned the very existence of cinema since its inception has been largely obliterated in the space of a few years, as digital projectors replaced their celluloid predecessors.'",
+      "'The vast majority of cinemas in the UK have taken advantage of certain opportunities provided by the digitalisation of projection - which simplifies or automates various key elements of this craft - to cut their salary costs by significantly downgrading the role and status of the projectionist and implementing wholesale redundancies.'"
     ],
-    "narrative_descriptions": "The study provides a detailed historical account of the formation and challenges faced by the National Association of Cinematograph Operators (NACO) in the early 20th century, highlighting the impact of technological changes on projectionists' labor conditions."
+    "narrative_descriptions": "The study provides a detailed historical account of the formation and activities of the National Association of Cinematograph Operators (NACO), highlighting the challenges faced by projectionists due to technological changes and the union's response to these challenges."
   },
   "historical_context": {
     "technological_changes": [
@@ -64,11 +69,19 @@
       "Celluloid projectors"
     ],
     "economic_conditions": "The period saw the transformation of cinema into a mass medium offering cheap entertainment, primarily for working-class audiences.",
-    "institutional_context": "The study discusses the role of trade unions, specifically NACO, in attempting to regulate the profession and protect projectionists' interests."
+    "institutional_context": "The study discusses the role of trade unions, specifically NACO, in the British film industry and their efforts to protect projectionists' rights."
   },
   "outcomes": {
-    "main_findings": "The study finds that NACO's efforts to regulate the profession were inadequate and that the union's antagonistic stance towards new entrants may have contributed to the decline in wages and working conditions for projectionists.",
-    "conclusions": "NACO represented a counterproductive start for trade unions in the British film industry, failing to adapt to the changes brought by the cinema boom and the deskilling of projectionists.",
-    "long_term_impacts": "The study suggests that the deskilling and displacement of projectionists had long-term impacts on their professional status and labor conditions."
+    "main_findings": "The study finds that the National Association of Cinematograph Operators (NACO) was ineffective in addressing the challenges faced by projectionists due to technological changes and the transformation of the cinema industry.",
+    "conclusions": "NACO's efforts were inadequate in protecting projectionists from the exploitation and displacement caused by the transition to digital projection technology.",
+    "long_term_impacts": "The study suggests that the displacement of projectionists due to technological changes had long-term impacts on their employment and wages."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical analysis, which may not capture all aspects of the technological and labor changes.",
+    "coherence": "The study provides a coherent narrative of the historical context and the role of NACO in the British film industry.",
+    "adequacy_of_data": "The study uses a rich set of historical data to support its findings.",
+    "relevance": "The study is relevant to understanding the historical context of labor displacement due to technological change in the film industry.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

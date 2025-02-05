@@ -10,10 +10,11 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change in cotton harvesting",
-    "relevance": "The study examines the impact of mechanization on labor displacement in the cotton industry, focusing on the transition from hand-picked to machine-harvested cotton and its effects on employment.",
+    "relevance": "The study examines the impact of mechanization on labor displacement in the cotton industry, focusing on the transition from hand-picking to machine harvesting and its effects on employment.",
     "technologies": [
       "mechanical cotton pickers",
-      "spindle pickers"
+      "spindle pickers",
+      "cotton-stripping devices"
     ]
   },
   "design": {
@@ -28,11 +29,11 @@
     "occupation_classifications": null,
     "gross_vs_net": "net",
     "sample_size": null,
-    "sample_characteristics": "The study focuses on 12 major cotton-producing states in the U.S. from 1949 to 1964, particularly affecting African-American workers.",
+    "sample_characteristics": "12 major cotton-producing states in the U.S.",
     "time_period_covered": "1949-1964",
     "time_period_start": 1949,
     "time_period_end": 1964,
-    "geographical_focus": "12 major cotton-producing states in the U.S."
+    "geographical_focus": "United States"
   },
   "key_variables": {
     "independent_variables": [
@@ -42,26 +43,22 @@
       "cotton prices"
     ],
     "dependent_variables": {
-      "displaced": "The study estimates the decline in hand-harvested cotton labor due to mechanization and other factors.",
-      "unemployment_or_underemployment": null,
+      "displaced": "The study does not specify the exact number of workers displaced but indicates a significant reduction in hand-harvest labor.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study does not provide specific numbers but suggests that many workers left agriculture permanently.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Real harvest wages declined over the period."
+      "wage_changes": "Real harvest wages declined over the period.",
+      "wage_changes_percent": -31
     },
     "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
     "statistical_measures": {
-      "hand_harvested_cotton_mean": 512.3,
-      "hand_harvested_cotton_sd": 353.4,
-      "labor_compensation_mean": 12.16,
-      "labor_compensation_sd": 6.56,
-      "cotton_price_mean": 37.6,
-      "cotton_price_sd": 4.42,
-      "mechanical_harvesting_costs_mean": 8.27,
-      "mechanical_harvesting_costs_sd": 2.53,
-      "nonagricultural_wage_rates_mean": 1.68,
-      "nonagricultural_wage_rates_sd": 0.26
+      "means": 12.16,
+      "standard_deviations": 6.56,
+      "p_values": 0.05
     }
   },
   "qualitative_data": {
@@ -71,21 +68,30 @@
       "economic pressures on cotton prices"
     ],
     "text_fragments": [
-      "'I didn't stay out on that farm too long after they started usin' the cotton pickers and whatnot. That was the time we was told to leave the farm.' - Mae Bertha Carter"
+      "'I didn't stay out on that farm too long after they started usin' the cotton pickers and whatnot.'",
+      "'The machines started long back in '50. . . Then every year they begin to get more and more, more and more, and that begin to cut people down out of pickin', you know.'"
     ],
-    "narrative_descriptions": "The study describes the socioeconomic transformation in the cotton industry due to mechanization and its impact on labor displacement."
+    "narrative_descriptions": "The study describes the socioeconomic transformation in the cotton industry due to mechanization and government policies, leading to a significant reduction in hand-harvest labor."
   },
   "historical_context": {
     "technological_changes": [
       "mechanical cotton pickers",
       "spindle pickers"
     ],
-    "economic_conditions": "Post-World War II economic conditions with falling cotton prices and rising nonagricultural wages.",
+    "economic_conditions": "Post-World War II economic adjustments, including falling cotton prices and rising nonagricultural wages.",
     "institutional_context": "Government farm programs, including acreage reduction and the Soil Bank program, influenced labor demand."
   },
   "outcomes": {
-    "main_findings": "Mechanization and government programs were the primary drivers of the decline in hand-harvested cotton labor, with nonagricultural wages playing a smaller role than previously thought.",
-    "conclusions": "The study concludes that labor demand factors, particularly mechanization and government policies, were more significant than labor supply factors in the decline of hand-harvested cotton labor.",
-    "long_term_impacts": "The study suggests that technological displacement may have improved long-term black progress by reducing the incentive for southern political interests to maintain a system of social control."
+    "main_findings": "Mechanization and government programs were the primary drivers of the decline in hand-harvest labor, rather than higher nonagricultural wages.",
+    "conclusions": "The study concludes that labor demand factors, particularly mechanization and government policies, were more significant in displacing cotton harvest labor than labor supply factors.",
+    "long_term_impacts": "The study suggests that the displacement contributed to long-term socioeconomic changes, including migration and changes in race relations."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study acknowledges potential biases in previous studies and uses improved data measures.",
+    "coherence": "The study provides a consistent and clear analysis of the factors affecting labor displacement.",
+    "adequacy_of_data": "The study uses newly reconstructed data to provide a comprehensive analysis.",
+    "relevance": "The study is highly relevant to understanding labor displacement due to technological change in agriculture.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

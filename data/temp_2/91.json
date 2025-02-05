@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "Grace Palladino"
+    ],
+    "title": "When militancy isn't enough: The impact of automation on New York city building service workers, 1934-1970",
+    "year_of_publication": 1987,
+    "journal_or_publisher": "Labor History"
+  },
+  "relevance": {
+    "topic": "The impact of automation on labor displacement",
+    "relevance": "The study examines the effects of automation on building service workers in New York City, highlighting the challenges faced by unions and workers due to technological advancements.",
+    "technologies": [
+      "automation",
+      "automatic elevators"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "elevator operators",
+      "building service workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Building service workers in New York City, primarily elevator operators, during the mid-20th century.",
+    "time_period_covered": "1934-1970",
+    "time_period_start": 1934,
+    "time_period_end": 1970,
+    "geographical_focus": "New York City"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "automation",
+      "automatic elevators"
+    ],
+    "dependent_variables": {
+      "displaced": "Elevator operators and building service workers displaced by automation.",
+      "unemployment_or_underemployment": "Increased unemployment among displaced workers, particularly elevator operators.",
+      "duration": null,
+      "wage_changes": "Wages for building service workers increased between 1940 and 1953, but automation led to job losses."
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of automation on employment",
+      "Union strategies against technological displacement",
+      "Economic and social implications of automation"
+    ],
+    "text_fragments": [
+      "\"Automation made it clear that labor and capital are not equal opponents in the building service industry.\"",
+      "\"The rise of the operatorless elevator disarmed the elevator operators' union.\""
+    ],
+    "narrative_descriptions": "The study describes the historical context and impact of automation on building service workers, focusing on the challenges faced by unions in protecting jobs and wages."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "automation",
+      "automatic elevators"
+    ],
+    "economic_conditions": "Post-war economic recovery and increased construction in New York City.",
+    "institutional_context": "Union efforts to negotiate better wages and conditions, and legislative attempts to protect workers."
+  },
+  "outcomes": {
+    "main_findings": "Automation led to significant job displacement among elevator operators, undermining union power and altering labor relations.",
+    "conclusions": "Technological advancements in automation challenged traditional union strategies and highlighted the need for new approaches to protect workers.",
+    "long_term_impacts": "The study suggests that automation not only displaced workers but also weakened unions' ability to negotiate and protect their members."
+  }
+}

@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "The impact of the player piano on musical labor and culture in the early 20th century.",
-    "relevance": "The study explores the historical impact of the player piano, a technological advancement, on musical labor and culture, making it relevant to the field of labor displacement due to technological change.",
+    "relevance": "The study is relevant as it explores the displacement of human musical labor by the player piano, a form of technological change.",
     "technologies": [
       "Player Piano",
       "Phonograph"
@@ -20,18 +20,16 @@
     "methodology": "historical analysis",
     "occupations": [
       "Pianists",
-      "Composers",
-      "Music Teachers"
+      "Composers"
     ],
     "occupation_types": [
-      "Main",
-      "Supplementary"
+      "Main"
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Focus on early 20th-century musical culture and labor practices.",
-    "time_period_covered": "Early 20th century",
+    "sample_characteristics": null,
+    "time_period_covered": "1900-1930",
     "time_period_start": 1900,
     "time_period_end": 1930,
     "geographical_focus": "United States"
@@ -42,10 +40,13 @@
       "Phonograph"
     ],
     "dependent_variables": {
-      "displaced": "Amateur pianists and music teachers displaced by mechanical music.",
-      "unemployment_or_underemployment": "Not explicitly discussed.",
-      "duration": "Not explicitly discussed.",
-      "wage_changes": "Not explicitly discussed."
+      "displaced": "The player piano displaced human pianists by automating musical performances.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The player piano reduced the need for live pianists in domestic and commercial settings.",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -53,25 +54,34 @@
   "qualitative_data": {
     "key_themes": [
       "Mechanization of musical labor",
-      "Cultural impact of player piano",
-      "Technological displacement"
+      "Cultural acceptance of mechanical music",
+      "Impact on musical performance and consumption"
     ],
     "text_fragments": [
-      "The player piano emerged at a time when many consumers were open to, and fascinated by, technical innovations."
+      "'The player piano emerged at a time when many consumers were open to, and fascinated by, technical innovations.'",
+      "'The player piano's dominance over the market through the early 1920s.'"
     ],
-    "narrative_descriptions": "The study describes how the player piano changed the musical marketplace by replacing human performers with mechanical music, influencing cultural practices and labor dynamics."
+    "narrative_descriptions": "The study describes how the player piano transformed musical labor by replacing human performers with mechanical ones, influencing cultural practices and the music industry."
   },
   "historical_context": {
     "technological_changes": [
       "Player Piano",
       "Phonograph"
     ],
-    "economic_conditions": "Period of technological fascination and cultural change in the early 20th century.",
-    "institutional_context": "The rise of mechanical music and its acceptance in domestic and public spaces."
+    "economic_conditions": "Period of growth and technological innovation in the early 20th century.",
+    "institutional_context": "The rise of mass production and consumer culture influenced the acceptance of mechanical music."
   },
   "outcomes": {
-    "main_findings": "The player piano significantly altered musical labor by mechanizing performance, leading to cultural shifts and changes in the music industry.",
+    "main_findings": "The player piano significantly altered musical labor by mechanizing performance, leading to changes in cultural practices and the music industry.",
     "conclusions": "The player piano's rise and fall illustrate the broader societal shift towards mechanization and its impact on labor and culture.",
-    "long_term_impacts": "The study suggests a lasting influence on digital music technologies and cultural acceptance of mechanical music."
+    "long_term_impacts": "The study suggests that the player piano's influence persists in modern digital music technologies."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical analysis, which may not capture all nuances of the player piano's impact.",
+    "coherence": "The study provides a consistent narrative linking technological change to cultural and labor shifts.",
+    "adequacy_of_data": "The study uses a rich array of historical sources to substantiate its conclusions.",
+    "relevance": "The study is highly relevant to understanding the historical impact of technological change on labor.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

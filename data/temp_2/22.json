@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "authors": [
+      "Lawrence Coates"
+    ],
+    "title": "The Goodbye House",
+    "year_of_publication": 2015,
+    "journal_or_publisher": "University of Nevada Press"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study is not directly relevant to labor displacement due to technological change. It is a novel about personal and family struggles in the aftermath of the dot-com bust.",
+    "technologies": []
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "narrative fiction",
+    "occupations": [],
+    "occupation_types": [],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "Early 2000s",
+    "time_period_start": 2000,
+    "time_period_end": 2003,
+    "geographical_focus": "San José, California"
+  },
+  "key_variables": {
+    "independent_variables": [],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Family dynamics",
+      "Economic hardship",
+      "Personal growth"
+    ],
+    "text_fragments": [
+      "\"The Goodbye House\" is a novel about personal and family struggles in the aftermath of the dot-com bust."
+    ],
+    "narrative_descriptions": "The novel explores the lives of a family dealing with economic and personal challenges in the early 2000s in San José, California."
+  },
+  "historical_context": {
+    "technological_changes": [],
+    "economic_conditions": "Post-dot-com bust economic conditions in the early 2000s.",
+    "institutional_context": "The novel does not focus on institutional contexts such as labor policies or regulations."
+  },
+  "outcomes": {
+    "main_findings": "The novel portrays the impact of economic downturns on personal and family life.",
+    "conclusions": "The story concludes with a sense of resilience and adaptation in the face of personal and economic challenges.",
+    "long_term_impacts": null
+  }
+}

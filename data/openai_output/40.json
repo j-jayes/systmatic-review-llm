@@ -8,8 +8,8 @@
     "journal_or_publisher": "Journal of Family History"
   },
   "relevance": {
-    "topic": "Household labor and outsourcing in the twentieth century",
-    "relevance": "The study examines the historical shifts in household labor and the outsourcing of domestic services, which is relevant to understanding labor displacement due to technological and social changes.",
+    "topic": "Household Services and Labor in the Twentieth Century",
+    "relevance": "The study examines the historical shifts in household labor and the impact of women's movement into paid labor, which is relevant to understanding labor displacement due to technological change.",
     "technologies": [
       "Household appliances",
       "Ready-to-use products",
@@ -19,12 +19,12 @@
   },
   "design": {
     "study_type": "mixed-methods",
-    "methodology": "Historical analysis combining primary and secondary sources",
+    "methodology": "historical analysis",
     "occupations": [
-      "Domestic servants",
+      "Domestic Servants",
       "Laundresses",
-      "Waiters and waitresses",
-      "Child care workers"
+      "Waiters and Waitresses",
+      "Child Care Workers"
     ],
     "occupation_types": [
       "Main"
@@ -33,21 +33,24 @@
     "gross_vs_net": "gross",
     "sample_size": null,
     "sample_characteristics": null,
-    "time_period_covered": "Twentieth century",
+    "time_period_covered": "Twentieth Century",
     "time_period_start": 1900,
     "time_period_end": 2000,
     "geographical_focus": "United States"
   },
   "key_variables": {
     "independent_variables": [
-      "Women's labor force participation",
-      "Household technology adoption"
+      "Women's movement into paid labor",
+      "Adoption of household technology"
     ],
     "dependent_variables": {
       "displaced": "Decline in domestic servants and laundresses",
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -57,12 +60,12 @@
   },
   "qualitative_data": {
     "key_themes": [
+      "Commodification of household labor",
       "Emotional content of household labor",
-      "Gender roles in household labor",
-      "Outsourcing of domestic services"
+      "Gender roles in household labor"
     ],
     "text_fragments": null,
-    "narrative_descriptions": "The study describes the historical shifts in household labor, emphasizing the emotional and relational content of household tasks and the gradual outsourcing of these tasks over the twentieth century."
+    "narrative_descriptions": "The study provides a comprehensive view of the outsourcing of services from the home throughout the twentieth century, highlighting the emotional and relational content of household labor that makes it difficult to replace."
   },
   "historical_context": {
     "technological_changes": [
@@ -71,12 +74,20 @@
       "Electricity",
       "Gas"
     ],
-    "economic_conditions": "Varied economic conditions including the Great Depression and post-World War II economic growth.",
-    "institutional_context": "Changes in labor force participation, civil rights movements, and evolving gender norms."
+    "economic_conditions": "The study covers periods of economic growth, the Great Depression, and post-war economic conditions.",
+    "institutional_context": "The study discusses labor force participation, gender roles, and the impact of the Civil Rights Act on employment opportunities for black women."
   },
   "outcomes": {
-    "main_findings": "The study finds that while women's labor force participation increased, the outsourcing of household labor was uneven and influenced by emotional and relational factors.",
-    "conclusions": "The commodification of household labor was not solely driven by women's labor force participation but was also influenced by technological, social, and economic changes.",
-    "long_term_impacts": null
+    "main_findings": "The study finds that while women's movement into paid labor contributed to the outsourcing of household labor, the emotional and relational content of household labor made it difficult to fully replace with services.",
+    "conclusions": "The commodification of household labor was not solely due to women's labor force participation; technological and social changes also played significant roles.",
+    "long_term_impacts": "The study suggests that the emotional content of household labor and gender roles have long-term impacts on the persistence of household labor despite technological advancements."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data and qualitative analysis, which may not capture all nuances of labor displacement.",
+    "coherence": "The study provides a coherent narrative linking historical shifts in household labor to technological and social changes.",
+    "adequacy_of_data": "The study uses a mix of primary and secondary sources, providing a rich historical context.",
+    "relevance": "The study is relevant to understanding the historical context of labor displacement due to technological change.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

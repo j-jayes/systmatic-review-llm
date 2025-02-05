@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "authors": [
+      "Darrell J. Glaser",
+      "Ahmed S. Rahman"
+    ],
+    "title": "Engineering and labor specialization during the industrial revolution",
+    "year_of_publication": 2013,
+    "journal_or_publisher": "Springer-Verlag Berlin Heidelberg"
+  },
+  "relevance": {
+    "topic": "Labor specialization and technological change in the U.S. Navy",
+    "relevance": "The study examines how technological changes influenced labor allocation and specialization in the U.S. Navy, providing insights into labor displacement due to technological advancements.",
+    "technologies": [
+      "Steam propulsion",
+      "Ironcladding",
+      "Propellers",
+      "Rifled barrels",
+      "Exploding projectiles"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Naval officers",
+      "Naval engineers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "U.S. Navy officers and engineers from 1865 to 1911",
+    "time_period_covered": "1865-1911",
+    "time_period_start": 1865,
+    "time_period_end": 1911,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Technological changes in naval vessels"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": {
+    "effect_sizes": null,
+    "statistical_measures": {
+      "engineers_mean": 2.19,
+      "engineers_sd": 2.01,
+      "officers_mean": 7.05,
+      "officers_sd": 3.22,
+      "perc_engineers_mean": 0.216,
+      "perc_engineers_sd": 0.174,
+      "age_mean": 12.94,
+      "age_sd": 7.94,
+      "max_speed_mean": 13.4,
+      "max_speed_sd": 4.1,
+      "displacement_mean": 3.86,
+      "displacement_sd": 4.19,
+      "length_mean": 259.54,
+      "length_sd": 91.7,
+      "complement_mean": 297.04,
+      "complement_sd": 231.04,
+      "cumulative_time_at_sea_mean": 5.49,
+      "cumulative_time_at_sea_sd": 4.62
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "Labor specialization",
+      "Technological change",
+      "Naval operations"
+    ],
+    "text_fragments": [
+      "The Navy endeavored to destroy this distinction, forcing generalized training and tasks for all officers.",
+      "The post-Amalgamation Navy was significantly more productive than its nineteenth-century predecessor."
+    ],
+    "narrative_descriptions": "The study describes the transition in the U.S. Navy from a specialized to a more generalized workforce in response to technological changes, highlighting the challenges and strategies in labor allocation."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Steam propulsion",
+      "Ironcladding",
+      "Propellers",
+      "Rifled barrels",
+      "Exploding projectiles"
+    ],
+    "economic_conditions": "Period of industrialization and modernization in the U.S.",
+    "institutional_context": "Legislation split the officer corps into line and engineer officers, influencing labor specialization."
+  },
+  "outcomes": {
+    "main_findings": "The study found that technological changes led to a shift from labor specialization to a more generalized skill set among naval personnel, improving productivity.",
+    "conclusions": "The phased-in approach to amalgamation was effective, allowing the Navy to manage technological changes and improve operations.",
+    "long_term_impacts": "The study suggests that the Navy's approach to labor amalgamation and technological adaptation offers lessons for modern organizations facing similar challenges."
+  }
+}

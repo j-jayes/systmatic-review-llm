@@ -5,14 +5,15 @@
     ],
     "title": "Footprints in the cotton fields: The Industrial Revolution as time space appropriation and -environmental load displacement",
     "year_of_publication": 2005,
-    "journal_or_publisher": "Elsevier"
+    "journal_or_publisher": "Elsevier B.V."
   },
   "relevance": {
     "topic": "Industrial Revolution and its impact on labor and environment",
-    "relevance": "The study examines the displacement of labor and environmental loads due to technological advancements during the Industrial Revolution, focusing on the British textile industry.",
+    "relevance": "The study is relevant as it examines the displacement of labor and environmental loads due to technological advancements during the Industrial Revolution, particularly in the British textile industry.",
     "technologies": [
       "Textile industry",
-      "Industrial Revolution"
+      "Capital accumulation",
+      "Embodied labor"
     ]
   },
   "design": {
@@ -20,7 +21,7 @@
     "methodology": "historical analysis",
     "occupations": [
       "Textile workers",
-      "Agricultural workers"
+      "Agricultural laborers"
     ],
     "occupation_types": [
       "Main"
@@ -37,13 +38,17 @@
   "key_variables": {
     "independent_variables": [
       "Industrial Revolution",
-      "Textile industry"
+      "Textile industry",
+      "Capital accumulation"
     ],
     "dependent_variables": {
-      "displaced": "The study quantifies the displacement of labor and land due to the British textile industry's reliance on imports.",
+      "displaced": "Displacement of fiber production to North America",
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -51,18 +56,34 @@
     "effect_sizes": null,
     "statistical_measures": null
   },
-  "qualitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Unequal exchange",
+      "Environmental load displacement",
+      "Time space appropriation"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study provides a narrative on how the British textile industry's success was built on the displacement of labor and environmental loads to other regions, particularly North America."
+  },
   "historical_context": {
     "technological_changes": [
-      "Industrial Revolution",
-      "Textile industry"
+      "Textile industry",
+      "Capital accumulation"
     ],
-    "economic_conditions": "Period of industrial expansion in Britain.",
-    "institutional_context": "The study discusses the global trade dynamics and unequal exchange during the Industrial Revolution."
+    "economic_conditions": "Period of industrialization and economic growth in Britain",
+    "institutional_context": "Colonial trade policies and global economic relations"
   },
   "outcomes": {
-    "main_findings": "The study finds significant displacement of labor and land due to the British textile industry's reliance on imports, highlighting unequal exchange and environmental load displacement.",
-    "conclusions": "The Industrial Revolution led to significant labor and environmental displacement, with Britain benefiting from technological advancements at the expense of other regions.",
-    "long_term_impacts": null
+    "main_findings": "The study finds that the British textile industry's success was largely due to the displacement of labor and environmental loads to other regions, particularly North America.",
+    "conclusions": "Technological advancements during the Industrial Revolution led to significant labor displacement and environmental load displacement, contributing to unequal global exchanges.",
+    "long_term_impacts": "The study suggests that the patterns of resource exchange established during the Industrial Revolution have continued to reinforce themselves, contributing to ongoing global inequalities."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data which may have limitations in accuracy and completeness.",
+    "coherence": "The study provides a coherent analysis of the relationship between technological change and labor displacement.",
+    "adequacy_of_data": "The data used is adequate for the historical analysis conducted, though some figures are approximations.",
+    "relevance": "The study is highly relevant to understanding the historical context of labor displacement due to technological change.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

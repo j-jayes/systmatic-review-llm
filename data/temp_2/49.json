@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "authors": [
+      "Jeremy Atack",
+      "Robert A. Margo",
+      "Paul W. Rhode"
+    ],
+    "title": "De-skilling: Evidence from late nineteenth century American manufacturing",
+    "year_of_publication": 2023,
+    "journal_or_publisher": "Explorations in Economic History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the impact of mechanization on labor displacement and de-skilling in late nineteenth-century American manufacturing, making it highly relevant to the field.",
+    "technologies": [
+      "Mechanization",
+      "Automation"
+    ]
+  },
+  "design": {
+    "study_type": "quantitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Skilled artisans",
+      "Semi-skilled operatives",
+      "Common laborers"
+    ],
+    "occupation_types": [
+      "Main",
+      "Supplementary"
+    ],
+    "occupation_classifications": [
+      "1950 occupation codes"
+    ],
+    "gross_vs_net": "gross",
+    "sample_size": 4398,
+    "sample_characteristics": "The study focuses on production operations in late nineteenth-century American manufacturing, using data from the 1899 Hand and Machine Labor study.",
+    "time_period_covered": "Late nineteenth century",
+    "time_period_start": 1890,
+    "time_period_end": 1899,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Mechanization",
+      "Division of labor"
+    ],
+    "dependent_variables": {
+      "displaced": "De-skilling occurred in almost 36 percent of the production operations analyzed.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": [
+      "Scale of production",
+      "Division of labor"
+    ]
+  },
+  "quantitative_data": {
+    "effect_sizes": [
+      0.101
+    ],
+    "statistical_measures": {
+      "OLS_coefficient": 0.044,
+      "2SLS_coefficient": 0.101,
+      "Kleibergen-Paap_F-statistic": 220.72
+    }
+  },
+  "qualitative_data": {
+    "key_themes": [
+      "De-skilling",
+      "Mechanization",
+      "Division of labor"
+    ],
+    "text_fragments": [
+      "The shift from the 'old-fashioned hand process' to the 'modern machine methods' led to worker de-skilling at the production operation level."
+    ],
+    "narrative_descriptions": "The study describes the process of mechanization and its impact on the skill levels required for production operations, highlighting the shift from skilled artisans to semi-skilled operatives and common laborers."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Mechanization",
+      "Use of inanimate power"
+    ],
+    "economic_conditions": "Period of industrial growth in the United States during the late nineteenth century.",
+    "institutional_context": "The study was conducted in the context of the U.S. Department of Labor's investigation into the effects of machinery on labor."
+  },
+  "outcomes": {
+    "main_findings": "Mechanization led to de-skilling in production operations, with a significant shift from skilled to semi-skilled and common labor.",
+    "conclusions": "While mechanization contributed to de-skilling, the division of labor and scale of production were more significant factors.",
+    "long_term_impacts": "The study suggests that the division of labor and mechanization had lasting impacts on the skill composition of the workforce."
+  }
+}

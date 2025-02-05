@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "authors": [
+      "Warren C. Whatley"
+    ],
+    "title": "Southern Agrarian Labor Contracts as Impediments to Cotton Mechanization",
+    "year_of_publication": 1987,
+    "journal_or_publisher": "Journal of Economic History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines how southern agrarian labor contracts impeded the mechanization of cotton production, which is directly related to labor displacement due to technological change.",
+    "technologies": [
+      "mechanical cotton picker",
+      "tractor"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "cotton farmers",
+      "plantation workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "The study focuses on southern counties in the United States, particularly those with plantation systems.",
+    "time_period_covered": "1850-1942",
+    "time_period_start": 1850,
+    "time_period_end": 1942,
+    "geographical_focus": "Southern United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "mechanical cotton picker",
+      "tractor"
+    ],
+    "dependent_variables": {
+      "displaced": null,
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Impact of labor contracts on mechanization",
+      "Seasonality of labor demand",
+      "Institutional impediments to technological adoption"
+    ],
+    "text_fragments": [
+      "\"The traditional view of cotton mechanization... is that southern agrarian institutions impeded progress.\"",
+      "\"Annual labor contracts also made it difficult to mechanize large portions of plantations.\""
+    ],
+    "narrative_descriptions": "The study describes how annual labor contracts in the southern United States created disincentives for mechanization, particularly in cotton production, due to the seasonal nature of labor demand and the structure of labor markets."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "mechanical cotton picker",
+      "tractor"
+    ],
+    "economic_conditions": "The study covers a period of technological transition in agriculture, with a focus on the lag in mechanization in the Southern United States compared to other regions.",
+    "institutional_context": "The study discusses the role of annual labor contracts and sharecropping in hindering mechanization efforts."
+  },
+  "outcomes": {
+    "main_findings": "Southern agrarian labor contracts, particularly annual labor contracts, impeded the mechanization of cotton production by creating disincentives for adopting new technologies.",
+    "conclusions": "The structure of southern agrarian institutions, including labor contracts, significantly delayed the adoption of mechanization in cotton production, contributing to a lag in technological progress.",
+    "long_term_impacts": "The study suggests that the delay in mechanization due to labor contracts may have had long-term impacts on the economic development of the Southern United States."
+  }
+}

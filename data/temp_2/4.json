@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "authors": [
+      "Simon Schaffer"
+    ],
+    "title": "Babbage's Intelligence: Calculating Engines and the Factory System",
+    "year_of_publication": 1994,
+    "journal_or_publisher": "Critical Inquiry"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study discusses the impact of Babbage's calculating engines on labor, highlighting the substitution of human intellectual labor with machines, which is directly relevant to labor displacement due to technological change.",
+    "technologies": [
+      "Difference Engine",
+      "Analytical Engine"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "computers (human)"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1810s-1830s",
+    "time_period_start": 1810,
+    "time_period_end": 1830,
+    "geographical_focus": "London, England"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Difference Engine",
+      "Analytical Engine"
+    ],
+    "dependent_variables": {
+      "displaced": "Human computers who performed calculations manually.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Technological redundancy",
+      "Subordination of labor",
+      "Mechanization of intellectual processes"
+    ],
+    "text_fragments": [
+      "'Mr Babbage's invention puts an engine in place of the computer'.",
+      "'The labour of verifying 'the calculations of the computers' required in compiling astronomical tables soon prompted a characteristic expostulation: 'I wish to God these calculations had been executed by steam!'"
+    ],
+    "narrative_descriptions": "The study describes the transition from human computers to mechanical calculating engines, highlighting the social and political implications of this technological change."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Difference Engine",
+      "Analytical Engine"
+    ],
+    "economic_conditions": "Industrial Revolution",
+    "institutional_context": "The study discusses the broader context of the Industrial Revolution and the rise of machinofacture, which influenced labor policies and practices."
+  },
+  "outcomes": {
+    "main_findings": "Babbage's calculating engines represented a shift from human intellectual labor to mechanized processes, impacting the labor force by rendering certain skills redundant.",
+    "conclusions": "The development of calculating engines like Babbage's Difference and Analytical Engines marked a significant shift in the labor process, substituting human intellectual labor with machines and influencing the broader industrial landscape.",
+    "long_term_impacts": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "authors": [
+      "David Steigerwald"
+    ],
+    "title": "Walter Reuther, the UAW, and the dilemmas of automation",
+    "year_of_publication": 2010,
+    "journal_or_publisher": "Labor History"
+  },
+  "relevance": {
+    "topic": "Labor displacement due to technological change",
+    "relevance": "The study examines the impact of automation on labor displacement, focusing on the United Auto Workers and their strategies to manage technological change.",
+    "technologies": [
+      "Automation",
+      "Transfer machines",
+      "Servo-mechanisms"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Auto workers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "1950-1965",
+    "time_period_start": 1950,
+    "time_period_end": 1965,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Automation",
+      "Transfer machines",
+      "Servo-mechanisms"
+    ],
+    "dependent_variables": {
+      "displaced": "Significant number of auto workers displaced due to automation.",
+      "unemployment_or_underemployment": "Increased unemployment and underemployment among displaced workers.",
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Ambivalence towards automation",
+      "Impact of automation on labor",
+      "Strategies to manage technological change"
+    ],
+    "text_fragments": [
+      "'Automation must be met sanely and constructively'",
+      "'radical productivity increases' could very easily mean 'unemployment and misery instead of security and abundance'"
+    ],
+    "narrative_descriptions": "The study describes the ambivalence of labor leaders towards automation, highlighting their efforts to manage its impact through collective bargaining and political action."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Automation",
+      "Transfer machines",
+      "Servo-mechanisms"
+    ],
+    "economic_conditions": "Post-WWII economic growth with increasing automation in manufacturing.",
+    "institutional_context": "Labor policies and union strategies to manage technological change."
+  },
+  "outcomes": {
+    "main_findings": "Automation led to significant labor displacement in the auto industry, with unions attempting to manage its impact through collective bargaining and political action.",
+    "conclusions": "While automation was inevitable, its impact on labor could have been mitigated through better management and policy interventions.",
+    "long_term_impacts": "The study suggests that the failure to manage automation's impact contributed to the decline of organized labor in the U.S."
+  }
+}

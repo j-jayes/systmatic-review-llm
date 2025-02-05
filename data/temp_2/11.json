@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "authors": [
+      "Pamela Odih"
+    ],
+    "title": "Gender, Work and Time: Gendered Histories of Dispossession",
+    "year_of_publication": 2007,
+    "journal_or_publisher": "Open University Press"
+  },
+  "relevance": {
+    "topic": "Gender, capitalist accumulation, and the political economy of time",
+    "relevance": "The study is relevant as it explores the historical and contemporary impacts of capitalist accumulation on gendered labor dynamics, particularly focusing on the textile industry and the shift from domestic to industrial production, which is a form of technological change.",
+    "technologies": [
+      "Spinning jenny",
+      "Waterframe",
+      "Mule",
+      "Steam engine",
+      "Power loom"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "Textile workers",
+      "Spinners",
+      "Weavers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on gender dynamics in the British textile industry during the Industrial Revolution.",
+    "time_period_covered": "1500s-2007",
+    "time_period_start": 1500,
+    "time_period_end": 2007,
+    "geographical_focus": "United Kingdom"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Technological advancements in textile production"
+    ],
+    "dependent_variables": {
+      "displaced": "Women displaced from domestic spinning roles due to mechanization.",
+      "unemployment_or_underemployment": "Increased employment of women in factories, often in low-paid, unskilled positions.",
+      "duration": null,
+      "wage_changes": "Women were paid significantly less than men, often one-third to two-thirds of male wages."
+    },
+    "moderators": [
+      "Gender",
+      "Skill level",
+      "Union presence"
+    ]
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Gendered labor dynamics",
+      "Impact of mechanization on employment",
+      "Wage disparities"
+    ],
+    "text_fragments": [
+      "'A woman’s work is never done'",
+      "'The employment of women tells very much against the men.'"
+    ],
+    "narrative_descriptions": "The study provides a detailed historical account of the transition from domestic to industrial textile production and its impact on gender roles and labor dynamics."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Spinning jenny",
+      "Waterframe",
+      "Mule",
+      "Steam engine",
+      "Power loom"
+    ],
+    "economic_conditions": "Industrial Revolution, characterized by rapid industrialization and technological change.",
+    "institutional_context": "Labor policies and trade union activities influenced gender roles and wage disparities in the textile industry."
+  },
+  "outcomes": {
+    "main_findings": "The study highlights the significant impact of technological advancements on gendered labor dynamics, with women being increasingly employed in low-paid, unskilled factory positions.",
+    "conclusions": "Technological change in the textile industry led to the displacement of women from traditional roles and reinforced gender wage disparities.",
+    "long_term_impacts": "The study suggests that the historical gendered division of labor has long-term implications for contemporary labor markets and gender equality."
+  }
+}

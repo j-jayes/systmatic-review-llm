@@ -51,7 +51,7 @@ for filename in os.listdir(input_dir):
 
         try:
             # Set an alarm for 5 minutes (300 seconds)
-            signal.alarm(10)
+            signal.alarm(300)
 
             # Convert the PDF to a Docling document
             conv_result: ConversionResult = converter.convert(input_path)

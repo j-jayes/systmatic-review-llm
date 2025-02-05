@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change",
-    "relevance": "The study discusses the impact of Babbage's calculating engines on labor, highlighting the substitution of human intellectual labor with machines, which is directly relevant to labor displacement due to technological change.",
+    "relevance": "The study discusses the impact of Babbage's calculating engines on labor, particularly the displacement of human computers by machines.",
     "technologies": [
       "Difference Engine",
       "Analytical Engine"
@@ -19,7 +19,8 @@
     "study_type": "qualitative",
     "methodology": "historical analysis",
     "occupations": [
-      "computers (human)"
+      "human computers",
+      "machinists"
     ],
     "occupation_types": [
       "Main"
@@ -39,10 +40,13 @@
       "Analytical Engine"
     ],
     "dependent_variables": {
-      "displaced": "Human computers who performed calculations manually.",
-      "unemployment_or_underemployment": null,
+      "displaced": "Human computers were replaced by machines like the Difference Engine.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study implies that human computers were displaced, but does not provide specific unemployment figures.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -51,13 +55,13 @@
     "key_themes": [
       "Technological redundancy",
       "Subordination of labor",
-      "Mechanization of intellectual processes"
+      "Mechanization of intelligence"
     ],
     "text_fragments": [
-      "'Mr Babbage's invention puts an engine in place of the computer'.",
+      "'Mr Babbage's invention puts an engine in place of the computer.'",
       "'The labour of verifying 'the calculations of the computers' required in compiling astronomical tables soon prompted a characteristic expostulation: 'I wish to God these calculations had been executed by steam!'"
     ],
-    "narrative_descriptions": "The study describes the transition from human computers to mechanical calculating engines, highlighting the social and political implications of this technological change."
+    "narrative_descriptions": "The study explores the historical context and implications of Babbage's inventions, focusing on the displacement of human labor by machines and the broader social and political impacts."
   },
   "historical_context": {
     "technological_changes": [
@@ -65,11 +69,19 @@
       "Analytical Engine"
     ],
     "economic_conditions": "Industrial Revolution",
-    "institutional_context": "The study discusses the broader context of the Industrial Revolution and the rise of machinofacture, which influenced labor policies and practices."
+    "institutional_context": "The study discusses the broader social and political context, including the role of scientific societies and the impact of mechanization on labor."
   },
   "outcomes": {
-    "main_findings": "Babbage's calculating engines represented a shift from human intellectual labor to mechanized processes, impacting the labor force by rendering certain skills redundant.",
-    "conclusions": "The development of calculating engines like Babbage's Difference and Analytical Engines marked a significant shift in the labor process, substituting human intellectual labor with machines and influencing the broader industrial landscape.",
-    "long_term_impacts": null
+    "main_findings": "Babbage's calculating engines represented a shift from human to machine computation, impacting labor dynamics and contributing to the mechanization of intelligence.",
+    "conclusions": "The development of Babbage's machines marked a significant moment in the history of technology, illustrating the complex interplay between mechanization and labor.",
+    "long_term_impacts": "The study suggests that the mechanization of computation had lasting effects on labor practices and the perception of intelligence."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is based on historical analysis, which may not capture all quantitative aspects of labor displacement.",
+    "coherence": "The study provides a coherent narrative linking Babbage's inventions to broader social and technological changes.",
+    "adequacy_of_data": "The study relies on historical documents and accounts, providing a rich qualitative analysis.",
+    "relevance": "The study is highly relevant to understanding the historical impact of technological change on labor.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

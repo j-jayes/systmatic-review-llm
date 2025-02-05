@@ -9,25 +9,27 @@
   },
   "relevance": {
     "topic": "The impact of the Fair Labor Standards Act of 1938 on southern industries",
-    "relevance": "The study examines the impact of the Fair Labor Standards Act of 1938, which imposed a minimum wage, on employment and technological changes in the southern seamless hosiery and lumber industries, highlighting labor displacement due to regulatory changes.",
+    "relevance": "The study is relevant as it examines the impact of the Fair Labor Standards Act of 1938, which imposed a minimum wage, leading to technological changes and labor displacement in the southern seamless hosiery and lumber industries.",
     "technologies": [
-      "Minimum wage legislation"
+      "mechanization",
+      "automatic knitting machines",
+      "converted transfer machines"
     ]
   },
   "design": {
     "study_type": "mixed-methods",
     "methodology": "quasi-experimental analysis",
     "occupations": [
-      "Seamless hosiery workers",
-      "Lumber workers"
+      "seamless hosiery workers",
+      "lumber workers"
     ],
     "occupation_types": [
       "Main",
       "Main"
     ],
     "occupation_classifications": null,
-    "gross_vs_net": "net",
-    "sample_size": null,
+    "gross_vs_net": "gross",
+    "sample_size": 87,
     "sample_characteristics": "Southern seamless hosiery and lumber industries",
     "time_period_covered": "1938-1942",
     "time_period_start": 1938,
@@ -36,51 +38,55 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Minimum wage legislation"
+      "Fair Labor Standards Act of 1938"
     ],
     "dependent_variables": {
-      "displaced": "Job losses were concentrated in low-wage firms, particularly in the South.",
-      "unemployment_or_underemployment": "Employment decreased in low-wage firms, particularly in the South.",
+      "displaced": "Job losses in low-wage firms, particularly in the seamless hosiery industry.",
+      "displaced_number": 924,
+      "unemployment_or_underemployment": "Decreased employment in low-wage plants, particularly for knitters in the seamless hosiery industry.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Wages increased significantly in low-wage firms to comply with the FLSA."
+      "wage_changes": "Wages increased significantly in both industries to comply with the FLSA.",
+      "wage_changes_percent": 35.58
     },
-    "moderators": [
-      "Industry type",
-      "Regional differences"
-    ]
+    "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
-    "statistical_measures": {
-      "employment_changes_seamless_hosiery": -16.95,
-      "employment_changes_lumber": 9.52,
-      "wage_increase_seamless_hosiery": 35.58,
-      "wage_increase_lumber": 16.52
-    }
+    "statistical_measures": null
   },
   "qualitative_data": {
     "key_themes": [
-      "Impact of minimum wage on employment",
-      "Technological change due to wage legislation",
-      "Regional economic differences"
+      "Technological change due to minimum wage",
+      "Regional employment shifts",
+      "Evasion of minimum wage laws"
     ],
     "text_fragments": [
       "'The [FLSA] as a whole presents itself to us as a reincarnation of the NRA in a more virulent form.'",
       "'A flat minimum price means paying a sorry slow-moving, devil-may-care, good-for-nothing specimen as much as a good man that is worth two to five times as much anywhere-anytime.'"
     ],
-    "narrative_descriptions": "The study describes how the FLSA led to increased mechanization in the seamless hosiery industry and evasion of wage laws in the lumber industry."
+    "narrative_descriptions": "The study describes how the FLSA led to technological changes and labor displacement in the southern seamless hosiery and lumber industries, with firms substituting capital for labor and evading the minimum wage laws."
   },
   "historical_context": {
     "technological_changes": [
-      "Mechanization in seamless hosiery",
-      "Use of automatic knitting machines"
+      "mechanization",
+      "automatic knitting machines",
+      "converted transfer machines"
     ],
-    "economic_conditions": "The period was marked by regulatory changes and war-related economic conditions.",
-    "institutional_context": "The Fair Labor Standards Act of 1938 imposed a minimum wage, affecting labor markets in the South."
+    "economic_conditions": "Period of economic adjustment post-Great Depression, with increased government intervention in labor markets.",
+    "institutional_context": "The Fair Labor Standards Act of 1938 imposed a minimum wage, affecting low-wage industries in the South."
   },
   "outcomes": {
-    "main_findings": "The FLSA led to increased mechanization in the seamless hosiery industry and evasion of wage laws in the lumber industry, with differing impacts on employment.",
-    "conclusions": "The FLSA had significant impacts on employment and production processes in low-wage southern industries, with increased mechanization in hosiery and evasion in lumber.",
-    "long_term_impacts": "The FLSA may have made foreign imports more competitive, potentially affecting long-term industry viability."
+    "main_findings": "The FLSA led to increased wages and technological changes in the seamless hosiery and lumber industries, with varying impacts on employment.",
+    "conclusions": "The FLSA had significant effects on employment and production processes in low-wage southern industries, leading to increased mechanization and regional employment shifts.",
+    "long_term_impacts": "Potential long-term impacts include increased competitiveness of foreign imports and changes in regional economic development."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data and quasi-experimental methods, which may not fully account for all confounding variables.",
+    "coherence": "The data supports the conclusions, showing clear patterns of wage increases and employment changes.",
+    "adequacy_of_data": "The study uses comprehensive data from BLS and USDL studies, providing a rich dataset for analysis.",
+    "relevance": "The study is highly relevant to understanding the impact of minimum wage laws on labor displacement and technological change.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

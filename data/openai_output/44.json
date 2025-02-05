@@ -8,8 +8,8 @@
     "journal_or_publisher": "Scandinavian Economic History Review"
   },
   "relevance": {
-    "topic": "Mass layoffs and labor displacement due to technological change",
-    "relevance": "The study is relevant as it examines the impact of technological change on labor displacement, specifically the introduction of cigar machines leading to mass layoffs at the Swedish Tobacco Monopoly.",
+    "topic": "Mass layoffs and labor displacement in the Swedish Tobacco Monopoly",
+    "relevance": "The study is relevant as it examines the impact of technological change on labor displacement, specifically the introduction of cigar machines and its effect on layoff policies.",
     "technologies": [
       "Cigar production machines"
     ]
@@ -23,13 +23,12 @@
       "Preparation workers"
     ],
     "occupation_types": [
-      "Main",
-      "Supplementary"
+      "Main"
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Workers at Malmo Cigar Factory, predominantly female, under 25 years old",
+    "sample_characteristics": "Workers at Malmo Cigar Factory, including both male and female workers, with a focus on those under 25 years of age.",
     "time_period_covered": "1921",
     "time_period_start": 1921,
     "time_period_end": 1921,
@@ -40,55 +39,47 @@
       "Introduction of cigar production machines"
     ],
     "dependent_variables": {
-      "displaced": "The study does not specify the exact number of workers displaced but indicates significant layoffs in 1921.",
-      "unemployment_or_underemployment": "The study does not provide specific details on unemployment or underemployment post-layoffs.",
+      "displaced": "Workers laid off due to technological change and economic conditions.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Layoffs affected young, female workers in April and older workers in October.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
-    "moderators": [
-      "Age",
-      "Gender",
-      "Length of service",
-      "Marital status",
-      "Children",
-      "Type of work",
-      "Apprentice status",
-      "Day laborer status",
-      "Transferred status",
-      "Earnings"
-    ]
+    "moderators": null
   },
   "quantitative_data": {
     "effect_sizes": null,
-    "statistical_measures": {
-      "April 1921 layoff risk model": 0.55,
-      "October 1921 layoff risk model": 0.105
-    }
+    "statistical_measures": null
   },
   "qualitative_data": {
     "key_themes": [
-      "Seniority principle",
-      "Need principle",
-      "Technological change",
-      "Union influence",
-      "Gender and age in layoffs"
+      "Seniority principle in layoffs",
+      "Impact of technological change on labor",
+      "Union influence on layoff policies"
     ],
-    "text_fragments": [
-      "The management's initial proposal was to cut at both ends of the age distribution by pensioning off old workers and laying off young workers.",
-      "The seniority principle was officially replaced by the need principle in October 1921."
-    ],
-    "narrative_descriptions": "The study describes the shift from seniority-based layoffs to a need-based approach due to technological changes and economic conditions."
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the shift in layoff policies at the Swedish Tobacco Monopoly in 1921, highlighting the abandonment of the seniority principle due to the introduction of cigar machines."
   },
   "historical_context": {
     "technological_changes": [
       "Introduction of cigar production machines"
     ],
-    "economic_conditions": "The period was marked by a recession and declining consumer demand for cigars.",
+    "economic_conditions": "Recession and declining consumer demand for cigars in 1921.",
     "institutional_context": "The Swedish Tobacco Monopoly was a state-owned enterprise expected to balance profit maximization with social responsibility."
   },
   "outcomes": {
-    "main_findings": "The introduction of cigar machines led to a shift from seniority-based layoffs to a need-based approach, with high-performing workers being protected.",
-    "conclusions": "Technological change led to the obsolescence of senior workers' skills, reducing their role in training processes and altering layoff criteria.",
-    "long_term_impacts": "The study suggests that the abandonment of the seniority principle had lasting effects on layoff practices in the industry."
+    "main_findings": "The introduction of cigar machines led to a shift in layoff policies, abandoning the seniority principle in favor of other criteria such as performance and need.",
+    "conclusions": "Technological change reduced the need for experienced workers, leading to layoffs based on criteria other than seniority.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical records and may not capture all informal practices.",
+    "coherence": "The study provides a consistent narrative supported by both qualitative and quantitative data.",
+    "adequacy_of_data": "The data is rich, combining qualitative accounts with quantitative analysis, but may lack comprehensive coverage of all worker experiences.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor displacement.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

@@ -11,7 +11,7 @@
   },
   "relevance": {
     "topic": "Technological change and wage premiums amongst high-skilled labour",
-    "relevance": "The study examines the impact of the steam engine on wages of high-skilled seamen, providing insights into labor displacement and wage changes due to technological advancements.",
+    "relevance": "The study examines the impact of the steam engine on wages of high-skilled seamen, providing insights into labor displacement and wage changes due to technological change.",
     "technologies": [
       "Steam engine"
     ]
@@ -48,9 +48,12 @@
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "High-skilled seamen on steam-powered vessels received an approximately 25% wage premium compared to those on sailing vessels."
+      "wage_changes": "High-skilled seamen on steam-powered vessels received a wage premium compared to those on sailing vessels.",
+      "wage_changes_percent": 25.0
     },
     "moderators": null
   },
@@ -73,7 +76,8 @@
       0.185
     ],
     "statistical_measures": {
-      "R_squared_values": 0.812
+      "R2_values": 0.812,
+      "p_values": 0.01
     }
   },
   "qualitative_data": null,
@@ -82,11 +86,19 @@
       "Steam engine"
     ],
     "economic_conditions": "Period of economic growth and transition from sailing ships to steam-powered vessels.",
-    "institutional_context": "The Seamen's House in Sweden collected data on sailors for military use, providing a rich historical dataset."
+    "institutional_context": "The Seamen's House in Sweden collected data on sailors for military use."
   },
   "outcomes": {
-    "main_findings": "High-skilled seamen on steam-powered vessels received a wage premium, which declined over time. The premium was approximately 25% initially and decreased to 16% after controlling for job changes and individual characteristics.",
-    "conclusions": "The study concludes that technological advancements, such as the steam engine, led to wage premiums for high-skilled labor, supporting the hypothesis that technology increases wages for workers performing abstract tasks.",
+    "main_findings": "High-skilled seamen on steam-powered vessels received a wage premium compared to those on sailing vessels, with the premium declining over time.",
+    "conclusions": "The study concludes that technological change led to wage premiums for high-skilled labor, with evidence of wage polarization being subtle.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The precision and robustness of the analysis may suffer from sample size and an arbitrary cutoff point.",
+    "coherence": "The data consistently show wage premiums for high-skilled labor on steam-powered vessels.",
+    "adequacy_of_data": "The study uses a large dataset of 16,091 observations, providing substantial evidence for the conclusions.",
+    "relevance": "The study is relevant to understanding the impact of technological change on labor markets, particularly in historical contexts.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

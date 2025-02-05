@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "authors": [
+      "Sarah Mills"
+    ],
+    "title": "The Eternal Renewal of Hand Weaving",
+    "year_of_publication": 2018,
+    "journal_or_publisher": "The Journal of Modern Craft"
+  },
+  "relevance": {
+    "topic": "The impact of technological change on hand weaving and its adaptation.",
+    "relevance": "The study explores how technological advancements, such as power looms and digital Jacquard looms, have influenced the practice of hand weaving, highlighting the resilience and adaptation of the craft in the face of automation.",
+    "technologies": [
+      "Power looms",
+      "Jacquard looms",
+      "Digital Jacquard looms",
+      "Thread Controller loom (TC1/TC2)"
+    ]
+  },
+  "design": {
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [
+      "hand weavers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": null,
+    "time_period_covered": "late 19th century to 21st century",
+    "time_period_start": 1800,
+    "time_period_end": 2018,
+    "geographical_focus": "United States"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "automation",
+      "power looms",
+      "digital Jacquard looms"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses the perceived displacement of hand weavers by power looms.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "resilience of hand weaving",
+      "adaptation to technological change",
+      "creative agency in weaving"
+    ],
+    "text_fragments": [
+      "'handweavers were handicapped in their work … because few understood the art of draft writing.'",
+      "'weaving has degenerated.'"
+    ],
+    "narrative_descriptions": "The study provides a narrative of how hand weaving has adapted to technological changes, maintaining its relevance and creativity despite the rise of automated looms."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Power looms",
+      "Jacquard looms",
+      "Digital Jacquard looms",
+      "Thread Controller loom (TC1/TC2)"
+    ],
+    "economic_conditions": "The study spans periods of industrialization and technological advancement in the textile industry.",
+    "institutional_context": "The study touches on the role of educational institutions and individual weavers in preserving and innovating weaving techniques."
+  },
+  "outcomes": {
+    "main_findings": "The study finds that despite the rise of automated looms, hand weaving has not only survived but thrived by adapting and integrating new technologies.",
+    "conclusions": "Technological advancements have not led to the obsolescence of hand weaving; instead, they have expanded the creative possibilities and agency of weavers.",
+    "long_term_impacts": "The study suggests that the integration of technology in hand weaving has led to a renewed interest and innovation in the craft, ensuring its continued relevance."
+  }
+}

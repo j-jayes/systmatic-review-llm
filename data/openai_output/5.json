@@ -9,12 +9,12 @@
     "journal_or_publisher": "Routledge"
   },
   "relevance": {
-    "topic": "The role of music and sound in silent films",
-    "relevance": "The study explores the historical context and impact of music and sound in silent films, which is relevant to understanding the broader implications of technological changes in the film industry and their effects on labor, particularly musicians.",
+    "topic": "Music and sound in silent film",
+    "relevance": "The study is relevant to the field of labor displacement due to technological change as it discusses the impact of technological advancements in film and sound on employment, particularly focusing on musicians and their roles in silent film era.",
     "technologies": [
-      "Mechanical instruments",
-      "Phonographs",
-      "Player pianos"
+      "Phonograph",
+      "Player piano",
+      "Mechanical instruments"
     ]
   },
   "design": {
@@ -35,46 +35,57 @@
     "time_period_covered": "1895-1930",
     "time_period_start": 1895,
     "time_period_end": 1930,
-    "geographical_focus": "Global, with a focus on the United States and Europe"
+    "geographical_focus": "United States and Europe"
   },
   "key_variables": {
     "independent_variables": [
-      "Introduction of mechanical instruments",
-      "Use of phonographs",
-      "Player pianos"
+      "Introduction of sound in film",
+      "Use of mechanical instruments"
     ],
     "dependent_variables": {
-      "displaced": "Musicians displaced by mechanical instruments and phonographs.",
-      "unemployment_or_underemployment": "Increased unemployment among live musicians due to mechanization.",
+      "displaced": "Musicians displaced by mechanical instruments and sound films.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Increased unemployment among musicians due to technological changes.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Reduction in wages for musicians as mechanical instruments replaced live performances."
+      "wage_changes": "Wages for musicians decreased as demand for live performance declined.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Displacement of musicians by technology",
-      "Cultural impact of music in silent films",
-      "Economic implications of mechanization in the film industry"
+      "Impact of technology on employment",
+      "Transition from live to mechanical music",
+      "Cultural shifts in entertainment"
     ],
     "text_fragments": [
-      "\"The taste for maudlin sentiment, worthless melodrama, unhealthy sensation, is being strengthened and confirmed . . . there is little truth of nature, no psychology, no characterisation, in the typical film-fiction of the day, which drugs and stultifies the seniors, and vitiates the juniors by scenes and ideas unfitted to their years.\""
+      "'The phonograph was an especially effective lure inasmuch as its disembodied sound created an enigma about its source.'",
+      "'The war also created limited opportunities for women to exert their creative agency as musical directors.'"
     ],
-    "narrative_descriptions": "The study describes the transition from live music to mechanical accompaniment in silent films, highlighting the cultural and economic impacts on musicians."
+    "narrative_descriptions": "The study describes the transition from live music to mechanical and recorded sound in cinemas, highlighting the impact on musicians' employment."
   },
   "historical_context": {
     "technological_changes": [
-      "Mechanical instruments",
-      "Phonographs",
-      "Player pianos"
+      "Phonograph",
+      "Player piano",
+      "Mechanical instruments"
     ],
-    "economic_conditions": "Post-World War I economic conditions, with a focus on the entertainment industry's adaptation to new technologies.",
-    "institutional_context": "The rise of the film industry and the decline of live performance venues, leading to changes in employment for musicians."
+    "economic_conditions": "Post-World War I economic conditions, including the Great Depression, affected the entertainment industry.",
+    "institutional_context": "Labor unions and musicians' associations played roles in negotiating employment conditions for musicians."
   },
   "outcomes": {
-    "main_findings": "The introduction of mechanical instruments and phonographs in silent films led to the displacement of live musicians, altering the cultural landscape of the film industry.",
-    "conclusions": "Technological advancements in the film industry significantly impacted musicians, leading to job displacement and changes in the nature of musical accompaniment in films.",
-    "long_term_impacts": "The mechanization of music in films contributed to a broader trend of technological displacement in the arts, affecting the livelihoods of musicians and altering cultural practices."
+    "main_findings": "The introduction of sound in films and mechanical instruments led to significant displacement of musicians, altering the employment landscape in the entertainment industry.",
+    "conclusions": "Technological advancements in film and sound significantly impacted musicians' employment, leading to a decline in live performance opportunities.",
+    "long_term_impacts": "The displacement of musicians contributed to broader cultural shifts in entertainment and music consumption."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical accounts and may lack comprehensive quantitative data.",
+    "coherence": "The study provides a coherent narrative of the transition from live to mechanical music in cinemas.",
+    "adequacy_of_data": "The data is rich in qualitative accounts but lacks quantitative measures.",
+    "relevance": "The study is relevant to understanding the impact of technological change on employment in the entertainment industry.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

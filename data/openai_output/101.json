@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "The historical development of the Black working class in Britain and its relation to British capitalism and labor exploitation.",
-    "relevance": "The study is relevant as it explores the historical context of labor displacement and exploitation of Black workers in Britain, highlighting the impact of colonialism and racial discrimination on employment and social conditions.",
+    "relevance": "The study is relevant as it explores the historical context of labor displacement and exploitation of Black workers in Britain, highlighting the impact of British capitalism and racial discrimination on employment opportunities for Black workers.",
     "technologies": []
   },
   "design": {
@@ -19,7 +19,8 @@
       "seamen",
       "soldiers",
       "nurses",
-      "domestic servants"
+      "ancillary workers",
+      "textile workers"
     ],
     "occupation_types": [
       "Main",
@@ -28,7 +29,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Black working class in Britain, including seamen, soldiers, and domestic workers, primarily from former colonies.",
+    "sample_characteristics": "Black working class in Britain, including seamen, soldiers, and various workers, primarily from former colonies.",
     "time_period_covered": "1555-1986",
     "time_period_start": 1555,
     "time_period_end": 1986,
@@ -36,40 +37,52 @@
   },
   "key_variables": {
     "independent_variables": [
-      "colonialism",
-      "racial discrimination",
-      "labor policies"
+      "British capitalism",
+      "colonial labor policies",
+      "racial discrimination"
     ],
     "dependent_variables": {
-      "displaced": "Black workers faced displacement due to racial discrimination and labor policies favoring white workers.",
-      "unemployment_or_underemployment": "High levels of unemployment and underemployment among Black workers, especially post-war.",
+      "displaced": "Black workers faced displacement due to racial discrimination and economic policies favoring white workers.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "High levels of unemployment and underemployment among Black workers due to racial discrimination and economic exploitation.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Black workers often received lower wages compared to their white counterparts."
+      "wage_changes": "Black workers often received lower wages compared to their white counterparts.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "racial discrimination",
-      "labor exploitation",
-      "colonialism",
-      "Black working class struggle"
+      "Racial discrimination in employment",
+      "Exploitation of Black labor",
+      "Impact of British capitalism on Black workers",
+      "Resistance and organization among Black workers"
     ],
     "text_fragments": [
-      "'The making of the black working class in twentieth-century Britain has been a long process, reflecting essential changes in Britain's labor needs over time, both at home and abroad.'",
-      "'The black community: urban deprivation'"
+      "'The making of the black working class in twentieth-century Britain has been a long process, reflecting essential changes in Britain's labour needs over time, both at home and abroad.'",
+      "'The black community: urban deprivation'",
+      "'The struggle against the employers and trade unions'"
     ],
-    "narrative_descriptions": "The study provides a detailed historical account of the Black working class in Britain, focusing on their struggles against racial discrimination and labor exploitation."
+    "narrative_descriptions": "The study provides a detailed historical account of the exploitation and resistance of Black workers in Britain, highlighting the systemic racial discrimination and economic policies that marginalized Black labor."
   },
   "historical_context": {
     "technological_changes": [],
-    "economic_conditions": "Periods of economic growth and recession, with significant impact from colonial trade and labor exploitation.",
-    "institutional_context": "Racial discrimination was institutionalized, affecting labor policies and employment opportunities for Black workers."
+    "economic_conditions": "Period of British colonial expansion and industrialization, leading to increased demand for labor and subsequent exploitation of Black workers.",
+    "institutional_context": "Racial discrimination was institutionalized in labor policies, affecting employment opportunities for Black workers."
   },
   "outcomes": {
-    "main_findings": "The study highlights the systemic racial discrimination and exploitation faced by the Black working class in Britain, which was deeply intertwined with the country's colonial history and economic needs.",
-    "conclusions": "The Black working class in Britain was systematically marginalized and exploited, with their labor being crucial to the development of British capitalism.",
-    "long_term_impacts": "The long-term impacts include persistent racial discrimination and economic disadvantage for Black communities in Britain."
+    "main_findings": "The study highlights the systemic exploitation and marginalization of Black workers in Britain, driven by racial discrimination and economic policies favoring white workers.",
+    "conclusions": "The historical exploitation of Black labor in Britain was a result of systemic racial discrimination and economic policies that prioritized white workers, leading to significant social and economic challenges for the Black working class.",
+    "long_term_impacts": "The long-term impacts include persistent racial discrimination and economic inequality faced by Black workers in Britain."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical accounts and qualitative analysis, which may introduce biases in interpretation.",
+    "coherence": "The study provides a coherent narrative of the historical development of the Black working class in Britain, supported by historical evidence.",
+    "adequacy_of_data": "The study provides a rich qualitative account of the historical context and experiences of Black workers in Britain.",
+    "relevance": "The study is highly relevant to understanding the historical context of labor displacement and racial discrimination in Britain.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

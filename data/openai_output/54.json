@@ -9,7 +9,7 @@
   },
   "relevance": {
     "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the decline of home work due to technological advancements and social pressures, highlighting labor displacement.",
+    "relevance": "The study examines the impact of technological advancements on labor practices, specifically the decline of home work due to mechanization and social pressures.",
     "technologies": [
       "Stringing machines"
     ]
@@ -26,7 +26,7 @@
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Former Dennison tag stringers and other employees, primarily from Framingham, Massachusetts.",
+    "sample_characteristics": "The study focuses on workers in Framingham, Massachusetts, primarily those involved in home work for Dennison Manufacturing Company.",
     "time_period_covered": "1912-1935",
     "time_period_start": 1912,
     "time_period_end": 1935,
@@ -34,40 +34,50 @@
   },
   "key_variables": {
     "independent_variables": [
-      "Stringing machines"
+      "Mechanization"
     ],
     "dependent_variables": {
-      "displaced": "Home workers displaced by stringing machines.",
-      "unemployment_or_underemployment": "Not explicitly detailed, but implied reduction in home work opportunities.",
+      "displaced": "Home workers were displaced as machinery was introduced.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study discusses the decline of home work and its impact on employment, particularly during the Great Depression.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Piece rates were low, and home work was among the lowest paid types of work."
+      "wage_changes": "Piece rates for home work were low, and the transition to factory work offered higher hourly wages.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Child labor",
-      "Economic pressures",
-      "Technological substitution",
-      "Community impact"
+      "Impact of mechanization on home work",
+      "Child labor in home work",
+      "Economic and social pressures to end home work"
     ],
     "text_fragments": [
-      "'We [four children] strung tags after supper.'",
-      "'Money was hard to come by in the early 1930s and we all had to pitch in to make ends meet.'"
+      "\"The simplicity of the work permitted children to participate.\"",
+      "\"Home work earnings may have lifted some families out of poverty.\""
     ],
-    "narrative_descriptions": "The study provides detailed accounts of the home work system, the role of children, and the community's reliance on this work."
+    "narrative_descriptions": "The study provides a detailed account of the transition from home work to factory work at Dennison Manufacturing, highlighting the economic, social, and political factors involved."
   },
   "historical_context": {
     "technological_changes": [
       "Stringing machines"
     ],
-    "economic_conditions": "The Great Depression significantly impacted employment and production at Dennison Manufacturing.",
-    "institutional_context": "Massachusetts child labor laws and the National Industrial Recovery Act influenced the decline of home work."
+    "economic_conditions": "The study covers the period including the Great Depression, which significantly impacted employment practices.",
+    "institutional_context": "The study discusses labor policies related to child labor and the role of trade associations in regulating home work."
   },
   "outcomes": {
-    "main_findings": "Home work at Dennison Manufacturing declined due to technological advancements and social pressures, but was not fully replaced by machines until the 1930s.",
-    "conclusions": "The decline of home work was driven by technological limitations, economic conditions, and social pressures against child labor.",
-    "long_term_impacts": "The study suggests that home work provided essential income for families during economic hardships, but also involved child labor."
+    "main_findings": "The study found that home work at Dennison Manufacturing declined due to mechanization and social pressures, but was not completely eliminated until the 1930s due to economic and political factors.",
+    "conclusions": "Technological advancements and social pressures led to the decline of home work, but economic conditions during the Great Depression ultimately ended the practice.",
+    "long_term_impacts": "The study suggests that home work provided supplemental income for families, but its decline was necessary to improve labor standards."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on company archives and interviews, which may introduce bias.",
+    "coherence": "The study provides a coherent narrative supported by historical documents and interviews.",
+    "adequacy_of_data": "The data is rich in qualitative accounts but lacks quantitative measures.",
+    "relevance": "The study is relevant to understanding the impact of technological change on labor practices.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

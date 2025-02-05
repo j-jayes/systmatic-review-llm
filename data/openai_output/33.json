@@ -8,8 +8,8 @@
     "journal_or_publisher": "The Journal of Modern Craft"
   },
   "relevance": {
-    "topic": "The impact of technological change on hand weaving and its adaptation.",
-    "relevance": "The study explores how technological advancements, such as power looms and digital Jacquard looms, have influenced the practice of hand weaving, highlighting the resilience and adaptation of the craft in the face of automation.",
+    "topic": "The impact of technological change on hand weaving",
+    "relevance": "The study explores how technological advancements, such as power looms and digital Jacquard looms, have influenced the practice of hand weaving, highlighting both displacement and renewal of skills.",
     "technologies": [
       "Power looms",
       "Jacquard looms",
@@ -30,9 +30,9 @@
     "gross_vs_net": "gross",
     "sample_size": null,
     "sample_characteristics": null,
-    "time_period_covered": "late 19th century to 21st century",
-    "time_period_start": 1800,
-    "time_period_end": 2018,
+    "time_period_covered": "late 19th century to 20th century",
+    "time_period_start": null,
+    "time_period_end": null,
     "geographical_focus": "United States"
   },
   "key_variables": {
@@ -42,25 +42,28 @@
       "digital Jacquard looms"
     ],
     "dependent_variables": {
-      "displaced": "The study discusses the perceived displacement of hand weavers by power looms.",
+      "displaced": "Hand weavers were initially thought to be displaced by power looms.",
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": null,
+      "wage_changes_percent": null
     },
     "moderators": null
   },
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "resilience of hand weaving",
-      "adaptation to technological change",
-      "creative agency in weaving"
+      "Renewal of hand weaving",
+      "Impact of technology on creativity",
+      "Preservation of weaving knowledge"
     ],
     "text_fragments": [
       "'handweavers were handicapped in their work … because few understood the art of draft writing.'",
-      "'weaving has degenerated.'"
+      "'weaving 'has degenerated.'"
     ],
-    "narrative_descriptions": "The study provides a narrative of how hand weaving has adapted to technological changes, maintaining its relevance and creativity despite the rise of automated looms."
+    "narrative_descriptions": "The study describes how hand weaving, initially thought to be obsolete due to power looms, has been revitalized through technological advancements, allowing for greater creativity and preservation of traditional skills."
   },
   "historical_context": {
     "technological_changes": [
@@ -69,12 +72,20 @@
       "Digital Jacquard looms",
       "Thread Controller loom (TC1/TC2)"
     ],
-    "economic_conditions": "The study spans periods of industrialization and technological advancement in the textile industry.",
-    "institutional_context": "The study touches on the role of educational institutions and individual weavers in preserving and innovating weaving techniques."
+    "economic_conditions": "Period of industrialization and technological advancement in the textile industry.",
+    "institutional_context": "The study discusses the role of educational institutions and individual weavers in preserving and innovating weaving techniques."
   },
   "outcomes": {
-    "main_findings": "The study finds that despite the rise of automated looms, hand weaving has not only survived but thrived by adapting and integrating new technologies.",
-    "conclusions": "Technological advancements have not led to the obsolescence of hand weaving; instead, they have expanded the creative possibilities and agency of weavers.",
-    "long_term_impacts": "The study suggests that the integration of technology in hand weaving has led to a renewed interest and innovation in the craft, ensuring its continued relevance."
+    "main_findings": "Technological advancements have not led to the decline of hand weaving but have instead facilitated its renewal and the expansion of creative possibilities.",
+    "conclusions": "The integration of technology in weaving has allowed for the preservation and innovation of traditional weaving practices, enhancing the creative agency of weavers.",
+    "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study is qualitative and may lack quantitative data to support broader generalizations.",
+    "coherence": "The study provides a coherent narrative of the historical evolution of weaving practices in response to technological changes.",
+    "adequacy_of_data": "The study uses historical case studies to substantiate its findings, providing a rich qualitative account.",
+    "relevance": "The study is relevant to understanding the impact of technological change on traditional crafts.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

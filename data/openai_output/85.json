@@ -8,8 +8,8 @@
     "journal_or_publisher": "Cambridge University Press"
   },
   "relevance": {
-    "topic": "Gender and Labour in Victoria",
-    "relevance": "The study examines the impact of economic and technological changes on labor, focusing on gender divisions and the role of unions, employers, and the state in shaping work and wage levels.",
+    "topic": "Gender and Labour in Victoria, 1880-1939",
+    "relevance": "The study is relevant as it examines the impact of technological changes on labor displacement, particularly focusing on gender dynamics in the workforce during a period of significant industrial change.",
     "technologies": [
       "Sewing machines",
       "Gas engines",
@@ -24,19 +24,20 @@
     "study_type": "mixed-methods",
     "methodology": "historical analysis",
     "occupations": [
-      "Clothing",
-      "Bootmaking",
-      "Printing"
+      "Clothing industry workers",
+      "Bootmakers",
+      "Printers",
+      "Tailors",
+      "Dressmakers",
+      "Milliners"
     ],
     "occupation_types": [
-      "Main",
-      "Main",
       "Main"
     ],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Focus on gender and labor in Victoria, Australia, covering various industries and the impact of technological and economic changes.",
+    "sample_characteristics": "The study focuses on workers in the clothing, bootmaking, and printing industries in Victoria, Australia, from 1880 to 1939, with a particular emphasis on gender dynamics.",
     "time_period_covered": "1880-1939",
     "time_period_start": 1880,
     "time_period_end": 1939,
@@ -46,19 +47,22 @@
     "independent_variables": [
       "Mechanization",
       "Subdivision of labor",
-      "Unionization",
-      "State intervention"
+      "Introduction of new machinery",
+      "State intervention through Wages Boards"
     ],
     "dependent_variables": {
-      "displaced": "Significant displacement in bootmaking and tailoring due to mechanization and subdivision of labor.",
-      "unemployment_or_underemployment": "Increased unemployment and underemployment in the boot industry due to mechanization.",
-      "duration": "Prolonged unemployment during economic downturns, particularly in the 1890s.",
-      "wage_changes": "Wage reductions in tailoring and bootmaking; wage increases in some sectors due to union actions."
+      "displaced": "The study discusses the displacement of skilled male workers due to mechanization and the increased employment of women and juveniles in certain industries.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study highlights underemployment and the shift to lower-paid, lower-status jobs for women.",
+      "unemployment_or_underemployment_number": null,
+      "duration": null,
+      "wage_changes": "Wages for women were generally lower than for men, and mechanization often led to wage reductions.",
+      "wage_changes_percent": null
     },
     "moderators": [
       "Gender",
       "Union presence",
-      "Economic conditions"
+      "State policies"
     ]
   },
   "quantitative_data": null,
@@ -71,9 +75,9 @@
     ],
     "text_fragments": [
       "'The advent of machines and women' in tailoring, 1874",
-      "'The weekly wage system has elevated the men'"
+      "'The sewing machine has not abolished ill-paid work, nor has it diminished considerably the length of the day's toil.'"
     ],
-    "narrative_descriptions": "The study describes the historical context of labor changes in Victoria, focusing on gender roles, union activities, and the impact of technological advancements on labor processes."
+    "narrative_descriptions": "The study provides a detailed account of how technological changes and state interventions affected labor dynamics, particularly focusing on gender roles and union activities."
   },
   "historical_context": {
     "technological_changes": [
@@ -85,12 +89,20 @@
       "Blake sole-sewer",
       "Rex pulling-over system"
     ],
-    "economic_conditions": "Periods of economic growth and depression, particularly the 1890s depression and post-World War I recovery.",
-    "institutional_context": "Introduction of Wages Boards and federal arbitration; state intervention in labor markets."
+    "economic_conditions": "The study covers periods of economic expansion, depression, and war, affecting labor markets and industrial practices.",
+    "institutional_context": "The study examines the role of Wages Boards and state interventions in regulating labor conditions and wages."
   },
   "outcomes": {
-    "main_findings": "Technological advancements and economic changes significantly altered labor dynamics, with mechanization leading to displacement and changes in gender roles within industries.",
-    "conclusions": "The study concludes that technological and economic changes, along with union and state interventions, played crucial roles in shaping labor markets and gender divisions in Victoria.",
-    "long_term_impacts": "Long-term impacts include shifts in gender roles and labor practices, with ongoing challenges in achieving wage equality and job security."
+    "main_findings": "The study finds that technological changes led to significant shifts in labor dynamics, with increased employment of women and juveniles in certain industries, often at lower wages.",
+    "conclusions": "Technological advancements and state interventions significantly altered the labor landscape, reinforcing gender divisions and affecting wage structures.",
+    "long_term_impacts": "The study discusses the long-term effects of labor displacement on gender roles and the structure of the workforce."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies heavily on historical records, which may not capture all aspects of labor dynamics.",
+    "coherence": "The study provides a coherent narrative linking technological changes to labor displacement and gender dynamics.",
+    "adequacy_of_data": "The study uses a rich array of historical data to substantiate its conclusions.",
+    "relevance": "The study is highly relevant to understanding the historical impact of technological change on labor dynamics, particularly gender roles.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

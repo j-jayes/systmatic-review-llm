@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "authors": [
+      "Frédéric Baudron",
+      "Brian Sims",
+      "Scott Justice",
+      "David G. Kahan",
+      "Richard Rose",
+      "Saidi Mkomwa",
+      "Pascal Kaumbutho",
+      "John Sariah",
+      "Raymond Nazare",
+      "Girma Moges",
+      "Bruno Gérard"
+    ],
+    "title": "Re-examining appropriate mechanization in Eastern and Southern Africa: two-wheel tractors, conservation agriculture, and private sector involvement",
+    "year_of_publication": 2015,
+    "journal_or_publisher": "Springer Science+Business Media Dordrecht and International Society for Plant Pathology"
+  },
+  "relevance": {
+    "topic": "Appropriate mechanization in Eastern and Southern Africa",
+    "relevance": "The study examines the potential of two-wheel tractors and conservation agriculture to address farm power constraints, which is relevant to labor displacement due to technological change.",
+    "technologies": [
+      "Two-wheel tractors",
+      "Conservation agriculture"
+    ]
+  },
+  "design": {
+    "study_type": "mixed-methods",
+    "methodology": "Case study and literature review",
+    "occupations": [
+      "Farmers"
+    ],
+    "occupation_types": [
+      "Main"
+    ],
+    "occupation_classifications": null,
+    "gross_vs_net": "gross",
+    "sample_size": null,
+    "sample_characteristics": "Focus on smallholder farmers in Eastern and Southern Africa",
+    "time_period_covered": "2000-2014",
+    "time_period_start": 2000,
+    "time_period_end": 2014,
+    "geographical_focus": "Eastern and Southern Africa"
+  },
+  "key_variables": {
+    "independent_variables": [
+      "Two-wheel tractors",
+      "Conservation agriculture"
+    ],
+    "dependent_variables": {
+      "displaced": "The study discusses potential labor displacement due to mechanization but does not provide specific figures.",
+      "unemployment_or_underemployment": null,
+      "duration": null,
+      "wage_changes": null
+    },
+    "moderators": null
+  },
+  "quantitative_data": null,
+  "qualitative_data": {
+    "key_themes": [
+      "Mechanization without consolidation and labor displacement",
+      "Mechanization without soil degradation and biodiversity loss"
+    ],
+    "text_fragments": null,
+    "narrative_descriptions": "The study describes the potential of two-wheel tractors to increase farm power without causing significant labor displacement or environmental degradation."
+  },
+  "historical_context": {
+    "technological_changes": [
+      "Two-wheel tractors",
+      "Conservation agriculture"
+    ],
+    "economic_conditions": "Increasing demand for food production in the context of population growth and urbanization in SSA.",
+    "institutional_context": "Decline of government-run tractor schemes and the need for private sector involvement in mechanization."
+  },
+  "outcomes": {
+    "main_findings": "Two-wheel tractors and conservation agriculture can increase farm power and productivity without significant labor displacement or environmental degradation.",
+    "conclusions": "Appropriate mechanization using two-wheel tractors, coupled with conservation agriculture, can address farm power constraints in Eastern and Southern Africa.",
+    "long_term_impacts": "The study suggests that mechanization can occur without significant labor displacement, maintaining smallholder livelihoods."
+  }
+}

@@ -8,8 +8,8 @@
     "journal_or_publisher": "Social History"
   },
   "relevance": {
-    "topic": "Gender antagonism and class conflict in labor markets",
-    "relevance": "The study explores how male trade unionists in 19th-century Britain used exclusionary strategies against women in the labor market, which is relevant to understanding labor displacement due to technological change and gender dynamics.",
+    "topic": "Gender antagonism and class conflict in labor displacement",
+    "relevance": "The study examines the exclusionary strategies of male trade unionists in nineteenth-century Britain, highlighting the gender antagonism and class conflict that arose due to technological changes and industrial capitalism. It is relevant to labor displacement as it discusses how male workers excluded women from certain jobs to maintain their dominance in the workplace.",
     "technologies": []
   },
   "design": {
@@ -18,7 +18,7 @@
     "occupations": [
       "cotton spinners",
       "tailors",
-      "hosiery workers",
+      "hosiery operatives",
       "silk throwsters",
       "carpet weavers",
       "compositors",
@@ -31,21 +31,24 @@
     "gross_vs_net": "gross",
     "sample_size": null,
     "sample_characteristics": null,
-    "time_period_covered": "19th century",
+    "time_period_covered": "nineteenth century",
     "time_period_start": 1800,
     "time_period_end": 1899,
     "geographical_focus": "Britain"
   },
   "key_variables": {
     "independent_variables": [
-      "introduction of women into male-dominated trades",
-      "mechanization"
+      "industrial capitalism",
+      "introduction of women into the workforce"
     ],
     "dependent_variables": {
-      "displaced": "Male workers in various trades were displaced by the introduction of women workers.",
-      "unemployment_or_underemployment": "Male workers faced unemployment or had to seek work in other sectors when women were introduced into their trades.",
+      "displaced": "Women were excluded from certain jobs by male unionists.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "Women faced exclusion from certain jobs, leading to limited employment opportunities.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Women were paid significantly lower wages than men for the same work, leading to wage suppression."
+      "wage_changes": "Women were paid lower wages than men for the same work.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -55,26 +58,35 @@
       "gender antagonism",
       "class conflict",
       "exclusionary strategies",
-      "industrial transformation",
-      "masculinity and breadwinning"
+      "industrial capitalism",
+      "male dominance",
+      "wage disparities"
     ],
     "text_fragments": [
       "'Rivals of Men! Why should they be rivals? Why not co-workers?'",
       "'The low price of female labor made it the most profitable as well as the most agreeable occupation for a female to superintend her own domestic establishment.'"
     ],
-    "narrative_descriptions": "The study describes how male trade unionists in 19th-century Britain used exclusionary strategies to prevent women from entering their trades, driven by a combination of gender antagonism and class conflict."
+    "narrative_descriptions": "The study provides a detailed account of how male trade unionists in nineteenth-century Britain employed exclusionary strategies to prevent women from entering certain trades, thereby maintaining male dominance in the workplace. It discusses the ideological and economic factors that contributed to gender antagonism and class conflict during industrial capitalism."
   },
   "historical_context": {
     "technological_changes": [
       "mechanization",
       "introduction of self-acting mule"
     ],
-    "economic_conditions": "Industrial transformation and economic competition in 19th-century Britain.",
-    "institutional_context": "Trade unions and labor movements were significant in shaping employment practices and gender roles."
+    "economic_conditions": "Industrial transformation and economic competition between men and women for jobs.",
+    "institutional_context": "Male trade unionists employed exclusionary strategies to maintain dominance in the workplace, supported by societal norms and ideologies of domesticity."
   },
   "outcomes": {
-    "main_findings": "Male trade unionists in 19th-century Britain employed exclusionary strategies against women to protect their jobs and wages, driven by gender antagonism and class conflict.",
-    "conclusions": "The exclusion of women from certain trades contributed to gender-segregated employment, which remains a feature of the labor market.",
-    "long_term_impacts": "The study suggests that exclusionary practices contributed to long-term gender segregation in the labor market, which continues to affect wage equality."
+    "main_findings": "The study finds that gender antagonism and exclusionary strategies by male unionists were responses to class conflict and the threat posed by women as cheap labor during industrial transformation.",
+    "conclusions": "Exclusionary strategies contributed to job segregation by sex, which remains a characteristic feature of the labor market. Gender divisions within the workforce were advantageous to capital.",
+    "long_term_impacts": "The study suggests that exclusionary practices contributed to long-term job segregation by sex, affecting women's employment opportunities."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical accounts and interpretations, which may be subject to bias or incomplete data.",
+    "coherence": "The study provides a coherent narrative linking gender antagonism and class conflict to labor displacement during industrial capitalism.",
+    "adequacy_of_data": "The study uses historical examples and qualitative data to support its conclusions, but lacks quantitative data.",
+    "relevance": "The study is relevant to understanding the historical context of labor displacement due to technological change and gender dynamics.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }

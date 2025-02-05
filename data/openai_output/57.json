@@ -8,19 +8,19 @@
     "journal_or_publisher": "Journal of Economic History"
   },
   "relevance": {
-    "topic": "Labor displacement due to technological change",
-    "relevance": "The study examines the displacement of sharetenants due to the introduction of wage laborers and mechanization in the South during the Great Depression, highlighting the impact of AAA policies and economic conditions on labor markets.",
+    "topic": "Labor displacement due to technological change in the Southern United States during the Great Depression.",
+    "relevance": "The study examines the displacement of sharetenants due to mechanization and New Deal policies, highlighting the impact of technological change on labor markets.",
     "technologies": [
-      "preharvest machinery",
-      "mechanical cotton picker"
+      "Preharvest machinery",
+      "Mechanical cotton picker"
     ]
   },
   "design": {
-    "study_type": "historical analysis",
+    "study_type": "quantitative",
     "methodology": "historical analysis",
     "occupations": [
-      "sharetenants",
-      "wage laborers"
+      "Sharetenants",
+      "Wage laborers"
     ],
     "occupation_types": [
       "Main"
@@ -36,15 +36,17 @@
   },
   "key_variables": {
     "independent_variables": [
-      "AAA policies",
-      "economic depression",
-      "mechanization"
+      "Preharvest machinery",
+      "AAA policies"
     ],
     "dependent_variables": {
-      "displaced": "The study discusses the displacement of sharetenants as landlords shifted to wage labor and mechanization.",
-      "unemployment_or_underemployment": "Displaced tenants faced unemployment or became part of the wage labor market.",
+      "displaced": "The study discusses the displacement of sharetenants due to mechanization and AAA policies.",
+      "displaced_number": null,
+      "unemployment_or_underemployment": "The study mentions the reduction in tenant labor and the increase in wage labor systems.",
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": null
+      "wage_changes": "The study discusses changes in the economic returns to tenant displacement and the cost of labor.",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -54,25 +56,34 @@
   },
   "qualitative_data": {
     "key_themes": [
-      "tenant displacement",
-      "mechanization",
-      "AAA policies",
-      "economic restructuring"
+      "Displacement of sharetenants",
+      "Impact of AAA policies",
+      "Mechanization in agriculture"
     ],
-    "text_fragments": null,
-    "narrative_descriptions": "The study provides a detailed narrative of how AAA policies and economic conditions led to the displacement of sharetenants and the adoption of mechanization in the South."
+    "text_fragments": [
+      "The economic returns to tenant displacement under the AAA plans far outweighed the costs and, in fact, increased as the decade wore on."
+    ],
+    "narrative_descriptions": "The study provides a detailed account of how AAA policies and mechanization led to the displacement of sharetenants and the expansion of wage labor systems."
   },
   "historical_context": {
     "technological_changes": [
-      "preharvest machinery",
-      "mechanical cotton picker"
+      "Preharvest machinery",
+      "Mechanical cotton picker"
     ],
-    "economic_conditions": "The study is set during the Great Depression, a period of economic hardship and restructuring.",
-    "institutional_context": "The AAA policies aimed to increase farm income and reduce cotton production, impacting labor markets and land tenure."
+    "economic_conditions": "The study is set during the Great Depression, a period of economic hardship and transformation in the Southern United States.",
+    "institutional_context": "The study discusses the impact of the Agricultural Adjustment Act (AAA) and New Deal policies on labor markets."
   },
   "outcomes": {
-    "main_findings": "The study finds that AAA policies and economic conditions during the Great Depression led to significant displacement of sharetenants, facilitating the shift to wage labor and mechanization.",
-    "conclusions": "The New Deal policies inadvertently altered the labor market structure in the Cotton South, favoring landlords and leading to tenant displacement.",
-    "long_term_impacts": "The displacement had lasting effects on the social and economic structure of the Cotton South, with implications for labor markets and mechanization."
+    "main_findings": "The study finds that AAA policies and mechanization led to significant displacement of sharetenants and an increase in wage labor systems.",
+    "conclusions": "The New Deal policies, while aimed at increasing farm income, inadvertently altered labor markets by displacing sharetenants and promoting mechanization.",
+    "long_term_impacts": "The study suggests that the displacement had lasting effects on the social and economic structure of the Cotton South."
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data, which may have limitations in terms of accuracy and completeness.",
+    "coherence": "The study provides a coherent narrative linking AAA policies and mechanization to labor displacement.",
+    "adequacy_of_data": "The study uses extensive historical data to support its findings.",
+    "relevance": "The study is highly relevant to understanding the impact of technological change on labor markets during the Great Depression.",
+    "overall_confidence": "High",
+    "inclusion_decision": "Include"
   }
 }

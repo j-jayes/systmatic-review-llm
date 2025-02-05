@@ -24,7 +24,7 @@
     "study_type": "quantitative",
     "methodology": "historical analysis",
     "occupations": [
-      "manufacturing workers"
+      "Manufacturing workers"
     ],
     "occupation_types": [
       "Main"
@@ -40,17 +40,18 @@
   },
   "key_variables": {
     "independent_variables": [
-      "technological changes",
-      "industrialization",
-      "transportation improvements",
-      "factory production",
-      "specialized equipment"
+      "Technological changes in production processes",
+      "Introduction of factory production",
+      "Specialized equipment and knowledge"
     ],
     "dependent_variables": {
       "displaced": null,
+      "displaced_number": null,
       "unemployment_or_underemployment": null,
+      "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Interindustry wage differentials and profit dispersion"
+      "wage_changes": "Interindustry wage differentials",
+      "wage_changes_percent": null
     },
     "moderators": null
   },
@@ -73,8 +74,16 @@
     "institutional_context": "Changes in regulations affecting interindustry factor movement"
   },
   "outcomes": {
-    "main_findings": "Interindustry factor mobility increased during the 19th century due to transportation improvements and factory production, but decreased in the 20th century with reliance on specialized equipment and knowledge.",
-    "conclusions": "Technological changes have significantly influenced interindustry factor mobility, with early industrialization increasing mobility and later stages decreasing it.",
+    "main_findings": "The study finds that interindustry factor mobility increased during the 19th century due to improvements in transportation and factory production, but decreased in the 20th century with the rise of specialized equipment and knowledge.",
+    "conclusions": "Technological changes have significantly influenced interindustry factor mobility, with early industrialization increasing mobility and later industrialization decreasing it.",
     "long_term_impacts": null
+  },
+  "quality_assessment": {
+    "methodological_limitations": "The study relies on historical data which may have limitations in accuracy and coverage, especially for early periods.",
+    "coherence": "The study provides a consistent narrative supported by various data sources on wage and profit differentials.",
+    "adequacy_of_data": "The data is comprehensive for the periods covered, though early data is limited and potentially unreliable.",
+    "relevance": "The study is highly relevant to understanding the historical impact of technological change on labor mobility.",
+    "overall_confidence": "Moderate",
+    "inclusion_decision": "Include"
   }
 }
