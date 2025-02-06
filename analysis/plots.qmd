@@ -12,22 +12,126 @@ df <- readxl::read_excel(here::here("analysis", "clustered_technologies.xlsx"))
 df_names <- read_csv(here::here("data", "temp", "extracted_technologies.csv")) %>%
     select(authors, file)
 
-df <- df %>% inner_join(df_names, by = c("file" = "file"))
+df <- df %>% inner_join(df_names, by = c("file" = "file")) %>% 
+rename(filename = file)
 
 df <- df %>%
-    mutate()
+    mutate(
+        author_label =
+        # take the first 100 characters of the author string
+            str_sub(authors, 1, 20)
+    )
+
+
+clusters <- df %>%
+    select(cluster) %>%
+    distinct() %>%
+    slice_sample(n = 6) %>%
+    pull()
+
 
 df %>%
-    filter(str_detect(author_label, "Glick")) %>%
-    view() *
+    filter(cluster %in% clusters) %>%
     arrange(authors) %>%
-        count(author_label, sort = T)
-ggplot() +
-    geom_point(aes(x = time_period_start, y = author_label, color = cluster)) +
-    geom_point(aes(x = time_period_end, y = author_label, color = cluster)) +
-    scale_x_continuous(limits = c(1800, NA)) 
+    mutate(
+        midpoint = (time_period_start + time_period_end) / 2,
+        author_label = fct_reorder(author_label, midpoint)
+    ) %>%
+    ggplot() +
+    geom_segment(aes(x = time_period_start, xend = time_period_end, y = author_label, yend = author_label, color = cluster)) +
+    geom_point(aes(x = time_period_start, y = author_label, color = cluster, shape = cluster)) +
+    geom_point(aes(x = time_period_end, y = author_label, color = cluster, shape = cluster)) +
+    scale_x_continuous(limits = c(1800, NA)) +
+    theme(legend.position = "bottom") +
+    guides( colour = guide_legend(ncol = 1)) +
+    scale_colour_brewer(palette = "Set1") 
+
+    facet_wrap(~cluster, scales = "free_y", nrow = 17) 
 
 ```
 
 
   geom_segment( aes(x=x, xend=x, y=value1, yend=value2), color="grey") +
+
+
+
+
+
+```{r}
+# Load necessary libraries
+library(tidyverse)
+library(tidygeocoder)
+library(rnaturalearth)
+library(sf)
+
+# # Step 1: Load Data
+# data <- readxl::read_excel(here::here("data", "map_data", "geometries_and_points.xlsx"))
+
+# # Step 2: Geocode Point Locations
+# points <- data %>%
+#     filter(type == "point") %>%
+#     geocode(standardized_name, method = "osm", lat = latitude, long = longitude)
+
+# points <- points %>%
+#     st_as_sf(coords = c("longitude", "latitude"), crs = 4326)
+
+# # Step 3: Load Country Geometries
+# countries <- ne_countries(scale = "medium", returnclass = "sf") %>%
+#     as_tibble() %>%
+#     select(name, geometry)
+
+# # Step 4: Join Data
+# # For geometries
+# geometries <- data %>%
+#     filter(type == "geometry") %>%
+#     left_join(countries, by = c("standardized_name" = "name"))
+
+# countries %>% write_rds(here::here("data", "map_data", "countries.rds"))
+# geometries %>% write_rds(here::here("data", "map_data", "geometries.rds"))
+# points %>% write_rds(here::here("data", "map_data", "points.rds"))
+
+countries <- read_rds(here::here("data", "map_data", "countries.rds"))
+geometries <- read_rds(here::here("data", "map_data", "geometries.rds"))
+points <- read_rds(here::here("data", "map_data", "points.rds"))
+
+geo_counts <- geometries %>%
+    group_by(standardized_name) %>%
+    summarize(count = n())
+
+geometry_counts <- geo_counts %>%
+    inner_join(geometries %>% select(standardized_name, geometry), by = c("standardized_name"))
+
+
+geometry_counts %>% view
+
+# Step 5: Visualize
+ggplot() +
+    geom_sf(data = countries, fill = "gray90", color = "white", aes(geometry = geometry)) + # Base map
+    geom_sf(data = geometry_counts, aes(fill = count, geometry = geometry), color = "black") + # Choropleth
+    geom_sf(data = points, aes(geometry = geometry, colour = "Sub national study location"), size = 2) + # Points
+    scale_fill_distiller(palette = "Spectral") +
+    scale_colour_manual(values = "red") +
+    theme_minimal() +
+    labs(
+        title = "Choropleth Map with Study Locations",
+        fill = "Number of studies by country",
+        colour = NULL
+    ) +
+    theme(legend.position = "bottom", legend.box="vertical"
+    ) +
+    guides(fill = guide_colorbar(barwidth = 20, barheight = 0.5, title.position = "top", title.hjust =0.5))
+
+```
+
+
+
+
+```{r}
+df <- readxl::read_excel(here::here("data", "excel_output", "labor_displacement_studies.xlsx"))
+
+df %>% count(study_type)
+
+df %>% filter(study_type == "quantitative")  
+
+```
+

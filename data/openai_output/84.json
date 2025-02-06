@@ -1,51 +1,47 @@
 {
   "metadata": {
     "authors": [
-      "John Doe",
-      "Jane Smith"
+      "Joel Mokyr"
     ],
-    "title": "The Impact of Automation on Textile Workers in the 19th Century",
-    "year_of_publication": 2020,
-    "journal_or_publisher": "Journal of Economic History"
+    "title": "The Political Economy of Technological Change: Resistance and Innovation in Economic History",
+    "year_of_publication": 1997,
+    "journal_or_publisher": "Department of Economics, Northwestern University"
   },
   "relevance": {
-    "topic": "Labor Displacement due to Technological Change",
-    "relevance": "The study examines the effects of automation on employment in the textile industry, providing insights into historical labor displacement.",
+    "topic": "Technological change and its impact on economic history",
+    "relevance": "The study explores the resistance to technological change and its implications for economic growth, which is relevant to understanding labor displacement due to technological change.",
     "technologies": [
-      "Automation",
-      "Textile Machinery"
+      "Nuclear power",
+      "Antibiotics",
+      "Telegraphy"
     ]
   },
   "design": {
-    "study_type": "historical analysis",
-    "methodology": "qualitative",
-    "occupations": [
-      "Textile Workers"
-    ],
-    "occupation_types": [
-      "Main"
-    ],
+    "study_type": "qualitative",
+    "methodology": "historical analysis",
+    "occupations": [],
+    "occupation_types": [],
     "occupation_classifications": null,
     "gross_vs_net": "gross",
     "sample_size": null,
-    "sample_characteristics": "Focuses on textile workers in the United Kingdom.",
-    "time_period_covered": "19th Century",
-    "time_period_start": 1800,
-    "time_period_end": 1899,
-    "geographical_focus": "United Kingdom"
+    "sample_characteristics": null,
+    "time_period_covered": "Historical periods including the Industrial Revolution",
+    "time_period_start": null,
+    "time_period_end": null,
+    "geographical_focus": "Various historical contexts, including Britain and the United States"
   },
   "key_variables": {
     "independent_variables": [
-      "Automation",
-      "Textile Machinery"
+      "Technological inertia",
+      "Resistance to new technology"
     ],
     "dependent_variables": {
-      "displaced": "Significant number of workers displaced due to automation.",
+      "displaced": null,
       "displaced_number": null,
-      "unemployment_or_underemployment": "Increased unemployment and underemployment among displaced workers.",
+      "unemployment_or_underemployment": null,
       "unemployment_or_underemployment_number": null,
       "duration": null,
-      "wage_changes": "Wages decreased for remaining workers due to oversupply of labor.",
+      "wage_changes": null,
       "wage_changes_percent": null
     },
     "moderators": null
@@ -53,34 +49,35 @@
   "quantitative_data": null,
   "qualitative_data": {
     "key_themes": [
-      "Displacement",
-      "Economic Hardship",
-      "Technological Change"
+      "Resistance to technological change",
+      "Technological inertia",
+      "Political economy of technological change"
     ],
     "text_fragments": [
-      "'The introduction of automated looms led to widespread job losses.'",
-      "'Workers faced significant economic hardship as a result of displacement.'"
+      "'...the acceptance of innovation is more than an economic phenomenon...'",
+      "'...technological inertia is usually the outcome of rational behavior by utility maximizing individuals...'"
     ],
-    "narrative_descriptions": "The study provides detailed accounts of how automation in the textile industry led to job losses and economic challenges for workers."
+    "narrative_descriptions": "The study discusses the historical resistance to technological change, emphasizing the role of political and social factors in shaping technological adoption."
   },
   "historical_context": {
     "technological_changes": [
-      "Automated Looms",
-      "Spinning Machines"
+      "Nuclear power",
+      "Antibiotics",
+      "Telegraphy"
     ],
-    "economic_conditions": "Industrial Revolution period marked by rapid technological advancement and economic change.",
-    "institutional_context": "Lack of strong labor unions to protect workers' rights during this period."
+    "economic_conditions": "Periods of technological change and economic growth",
+    "institutional_context": "The study discusses the role of political and social institutions in influencing technological adoption."
   },
   "outcomes": {
-    "main_findings": "Automation in the textile industry led to significant labor displacement and economic hardship for workers.",
-    "conclusions": "Technological advancements, while increasing productivity, had adverse effects on employment and wages in the textile sector.",
-    "long_term_impacts": "The study suggests long-term impacts on community structures and family dynamics due to sustained unemployment."
+    "main_findings": "Technological change often faces resistance due to political, social, and economic factors, which can impede economic growth.",
+    "conclusions": "Understanding the political economy of technological change is crucial for explaining historical economic growth and technological adoption.",
+    "long_term_impacts": "The study suggests that resistance to technological change can lead to long-term economic stagnation."
   },
   "quality_assessment": {
-    "methodological_limitations": "The study relies heavily on historical records, which may not capture all dimensions of the impact.",
-    "coherence": "The data presented is consistent with historical accounts of the period.",
-    "adequacy_of_data": "The study provides a rich qualitative account but lacks quantitative data.",
-    "relevance": "The study is highly relevant to understanding historical labor displacement due to technological change.",
+    "methodological_limitations": "The study is primarily qualitative and historical, which may limit the generalizability of its findings.",
+    "coherence": "The study provides a coherent narrative linking technological change with political and social resistance.",
+    "adequacy_of_data": "The study uses historical examples to support its arguments, but lacks quantitative data.",
+    "relevance": "The study is relevant to understanding the historical context of technological change and its impact on labor.",
     "overall_confidence": "Moderate",
     "inclusion_decision": "Include"
   }
